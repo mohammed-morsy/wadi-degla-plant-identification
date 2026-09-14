@@ -1,25 +1,25 @@
-# Wadi Degla Image Dataset
+# WadiDegla model dataset
 
 ## Overview
 
-This directory contains the reproducibility and methodological records for the Wadi Degla image dataset used in the plant-identification study.
+This directory contains the reproducibility and methodological records for the WadiDegla model dataset used in the plant-identification study.
 
-The model dataset contains 32 target plant species and one non-target `others` class, giving 33 model classes and 22,564 images in total.
+The WadiDegla model dataset contains 32 target plant species and one non-target `others` class, giving 33 model classes and 22,564 images in total.
 
-The 32 target species comprise 22,064 field images. The `others` class contains 500 PlantNet-300K-derived images.
+The WadiDegla field dataset contains 22,064 images representing 32 target plant species. The `others` class contains 500 external plant images derived from PlantNet-300K and is included only in the WadiDegla model dataset.
 
-## Train/Validation Split
+## WadiDegla model dataset training and validation sets
 
-The complete model dataset contains:
+The WadiDegla model dataset contains:
 
-- 17,364 training images
-- 5,200 validation images
+- 17,364 images in the WadiDegla model dataset training set
+- 5,200 images in the WadiDegla model dataset validation set
 
 For the 32 target plant species:
 
-- 22 species were split using date-separated Train/Validation subsets.
-- 9 species were split using image-level random splitting.
-- 1 species was split using site-separated Train/Validation subsets.
+- For 22 species, the WadiDegla model dataset training set and WadiDegla model dataset validation set were separated by collection date.
+- For 9 species, images were assigned between the WadiDegla model dataset training set and WadiDegla model dataset validation set using image-level random splitting.
+- For 1 species, the WadiDegla model dataset training set and WadiDegla model dataset validation set were separated by sampling site.
 
 Image-level random splitting used `seed = 42`.
 
@@ -63,14 +63,14 @@ Stage 2 adds dataset-construction, splitting, class-identity, and validation rec
 
 ## Non-target `others` Class
 
-The `others` class is part of the experimental model dataset.
+The `others` class is part of the WadiDegla model dataset.
 
-The 500 PlantNet-300K-derived images used for this class will not be redistributed in the public Wadi Degla dataset package.
+The 500 PlantNet-300K-derived images used for this class are not part of the WadiDegla field dataset and will not be redistributed in the public WadiDegla field dataset package.
 
-## Public Image Dataset
+## Public WadiDegla field dataset
 
-The Wadi Degla image files themselves are not stored in this GitHub repository.
+The images in the WadiDegla field dataset are not stored in this GitHub repository.
 
-The planned public image release is `WadiDegla v1.0`, using resized copies hosted in a dedicated data repository.
+The planned public release of the WadiDegla field dataset is `WadiDegla v1.0`, using resized copies hosted in a dedicated data repository.
 
 The final repository platform, resize dimensions, license, metadata schema, and DOI arrangements remain publication dependencies.

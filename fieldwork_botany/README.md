@@ -38,7 +38,7 @@ Field images associated with the identified plants were subsequently organized u
 
 During botanical verification and dataset curation, 300 field images were excluded because their botanical identity could not be established with sufficient confidence.
 
-The final curated field collection contains 22,064 images representing 32 target plant species.
+The WadiDegla field dataset contains 22,064 images representing 32 target plant species.
 
 ## Herbarium Documentation
 
@@ -64,7 +64,7 @@ Visit-level metadata for the ten field visits, including dates, visit type, spec
 
 ### `metadata/species_summary.csv`
 
-Species-level summary for the 32 target plant species and their representation within the 22,064-image curated field collection.
+Species-level summary for the 32 target plant species and their representation within the WadiDegla field dataset.
 
 ### `metadata/class_taxonomy_crosswalk.csv`
 
@@ -98,4 +98,4 @@ Detailed permit metadata will be incorporated after retrieval of the original pe
 
 This directory documents the fieldwork and botanical-identification component of the project.
 
-Model-dataset construction, model training, validation, external web-image data, and subsequent experimental stages are documented separately.
+WadiDegla model dataset construction, model training, validation, external web-image data, and subsequent experimental stages are documented separately.

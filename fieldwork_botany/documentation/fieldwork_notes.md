@@ -35,13 +35,13 @@ Botanical identification began with expert field identification.
 
 Reference specimens representing the target species were collected during the fieldwork program and used alongside botanical expert review to confirm species identity.
 
-Images associated with the confirmed field plants were assigned to the corresponding species within the curated field collection.
+Images associated with the confirmed field plants were assigned to the corresponding species within the WadiDegla field dataset.
 
 ## Image Curation
 
 A total of 300 field images were excluded during botanical verification and dataset curation because their species identity could not be established with sufficient confidence.
 
-The final curated field collection contains 22,064 images representing 32 target plant species.
+The WadiDegla field dataset contains 22,064 images representing 32 target plant species.
 
 ## Observation-level Interpretation
 
