@@ -1,0 +1,7 @@
+{
+    "class_name": "others",
+    "train_images": 400,
+    "validation_images": 100,
+    "total_images": 500,
+    "cross_split_duplicate_hashes": 0
+}

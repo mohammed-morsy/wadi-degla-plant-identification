@@ -1,0 +1,49 @@
+{
+    "dataset": {
+        "total_images": 22564,
+        "training_images": 17364,
+        "validation_images": 5200,
+        "target_species": 32,
+        "model_classes": 33
+    },
+    "documentation_scope": {
+        "individual_image_tracking": false,
+        "individual_image_identifiers_saved": false,
+        "aggregation_level": "species + subset + collection_date + site_code",
+        "note": "Publication records document the split at aggregated species/date/site level and do not export one record per image."
+    },
+    "privacy_and_reproducibility": {
+        "absolute_dataset_path_saved": false,
+        "absolute_workspace_path_saved": false,
+        "dataset_path_configuration": "WADIDEGLA_DATA_DIR environment variable loaded from the local ~/.wadidegla.env configuration file or directly from the environment.",
+        "workspace_path_configuration": "WADIDEGLA_WORKSPACE_DIR environment variable loaded from the local ~/.wadidegla.env configuration file or directly from the environment.",
+        "publication_records_location": "WadiDegla_Publication_Records/field_dataset_split"
+    },
+    "others_class": {
+        "included_in_model_classes": true,
+        "included_in_split_strategy_percentages": false,
+        "reason": "The Others class is an aggregate non-target class rather than a single plant species.",
+        "synthetic_folder_date_treated_as_collection_date": false
+    },
+    "target_species_split_strategy": {
+        "date_separated": {
+            "n_species": 22,
+            "percentage": 68.75
+        },
+        "image_level_random": {
+            "n_species": 9,
+            "percentage": 28.12
+        },
+        "site_separated": {
+            "n_species": 1,
+            "percentage": 3.12
+        }
+    },
+    "random_train_validation_split": {
+        "seed": 42,
+        "note": "This seed refers specifically to image-level Train/Validation random partitioning."
+    },
+    "date_separated_validation_selection_rule": "For target species with sufficient collection-date coverage, validation collection date(s) were chosen primarily so that the resulting validation image count was as close as practical to approximately 20% of the species total while preserving collection-date separation between training and validation.",
+    "random_split_rule": "Image-level random splitting was used for target species whose collection-date coverage was insufficient for a practical purely date-separated partition.",
+    "site_split_rule": "For the site-separated target species, Train and Validation shared a collection date, but images from that date were assigned according to distinct sampling sites rather than by image-level random splitting."
+}

@@ -1,0 +1,8 @@
+{
+    "wadi_target_species": 32,
+    "plantnet_species_records": 1081,
+    "exact_species_overlaps": 0,
+    "comparison_level": "Exact species-level comparison only.",
+    "comparison_method": "Scientific names were normalized by replacing underscores with spaces and comparing genus + specific epithet. Taxonomic authorship was ignored.",
+    "synonym_resolution_performed": false
+}
