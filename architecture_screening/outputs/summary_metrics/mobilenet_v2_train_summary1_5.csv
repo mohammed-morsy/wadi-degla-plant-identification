@@ -1,0 +1,6 @@
+Model,Train & Test,Accuracy (micro),Precision (macro),Recall (macro),F1 (macro),Loss,Class_weights,Best_class,Median_class,Worst_class,num_classes_above_f1_macro_avg,num_classes_above_f1_macro_median,Time Taken (mins),Epoch
+mobilenet_v2,Train,54.29951128694438,61.83824071167331,46.16729062077109,49.28264500649769,1.8204451994381872,None,Ephedra alata Decne.,Capparis spinosa L.,Deverra tortuosa (Desf.) DC.,20,16,16.48545835018158,1
+mobilenet_v2,Train,68.483825925064,70.43094745486485,65.9203388479083,67.62867412904465,1.1697614693730294,None,Calotropis procera,Gymnocarpos decander Forssk.,Farsetia aegyptia Turra,15,16,18.727476406097413,2
+mobilenet_v2,Train,71.51501047242262,73.21175758781855,69.8747779412315,71.27213922338993,1.031676875503533,None,Calotropis procera,Stachys aegyptiaca Pers.,Zygophyllum molle (Delile) Christenh. & Byng,15,16,16.670217804114024,3
+mobilenet_v2,Train,73.5338608331394,75.25100256333866,72.95446946004009,73.93792479917684,0.9444632160176132,None,Calotropis procera,Capparis spinosa L.,Nitraria retusa (Forssk.) Asch.,15,16,17.338019279638925,4
+mobilenet_v2,Train,74.12729811496393,75.63753351101681,73.31397455021744,74.33797157733098,0.8998425835570438,None,Calotropis procera,Heliotropium arbainense Fresen.,Deverra tortuosa (Desf.) DC.,15,16,16.74726148446401,5

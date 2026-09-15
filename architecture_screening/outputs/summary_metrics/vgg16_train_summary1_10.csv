@@ -1,0 +1,11 @@
+Model,Train & Test,Accuracy (micro),Precision (macro),Recall (macro),F1 (macro),Loss,Class_weights,Best_class,Median_class,Worst_class,num_classes_above_f1_macro_avg,num_classes_above_f1_macro_median,Time Taken (mins),Epoch
+vgg16,Train,44.72888061438213,45.16117414577867,39.8193045518549,41.37783064726993,1.9384434551111385,None,Calotropis procera,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,17,16,19.520795834064483,1
+vgg16,Train,52.05957644868513,51.53890057320029,49.346218280343464,50.20219798425115,1.6426337394572545,None,Calotropis procera,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,16,16,20.79728457132975,2
+vgg16,Train,52.72282988131254,52.807016638454066,50.692940541747774,51.5618303113819,1.6275527656743074,None,Calotropis procera,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,15,16,20.881210430463156,3
+vgg16,Train,54.00279264603211,54.142101033822485,52.374347734191595,53.14127411760743,1.597647310189598,None,Calotropis procera,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,16,16,20.421226982275645,4
+vgg16,Train,54.78822434256458,54.38079300426484,52.67779644883185,53.39992757235734,1.5859578802461518,None,Calotropis procera,Anabasis articulata (Forssk.) Moq.,Deverra tortuosa (Desf.) DC.,17,16,21.154279363155364,5
+vgg16,Train,54.57295787758902,54.055828566654576,52.7671592369255,53.31593116721442,1.6013249822487174,None,Calotropis procera,Deverra triradiata Hochst. ex Boiss.,Deverra tortuosa (Desf.) DC.,16,16,21.382858149210612,6
+vgg16,Train,55.061670933209214,54.22186578405547,53.345545134626214,53.72545959317496,1.601422967409999,None,Calotropis procera,Zilla spinosa (L.) Prantl,Deverra tortuosa (Desf.) DC.,16,16,18.311725413799287,7
+vgg16,Train,54.753316267163136,54.29528379668787,53.12369212334481,53.64081212428944,1.6158316514305908,None,Calotropis procera,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,17,16,18.664516588052113,8
+vgg16,Train,55.387479636956016,55.63292276062403,54.359283582536165,54.926704498619635,1.601210361298132,None,Calotropis procera,Deverra triradiata Hochst. ex Boiss.,Farsetia aegyptia Turra,15,16,19.970300634702046,9
+vgg16,Train,55.498021875727254,55.20418702442683,54.40894635736071,54.74502395113331,1.5946194663588442,None,Calotropis procera,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Deverra tortuosa (Desf.) DC.,15,16,20.265564131736756,10

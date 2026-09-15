@@ -1,0 +1,6 @@
+Model,Train & Test,Accuracy (micro),Precision (macro),Recall (macro),F1 (macro),Loss,Class_weights,Best_class,Median_class,Worst_class,num_classes_above_f1_macro_avg,num_classes_above_f1_macro_median,Time Taken (mins),Epoch
+mobilenet_v2,Validation,57.254464285714285,0.5545580734835805,0.5516068969370174,0.5351316646786319,1.542203686244431,None,Rumex vesicarius L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra tortuosa (Desf.) DC.,20,16,6.541937863826751,6
+mobilenet_v2,Validation,56.640625,0.570065152530254,0.5530236855858024,0.5436622029726735,1.546529456086102,None,Peganum harmala L.,Ephedra alata Decne.,Deverra tortuosa (Desf.) DC.,18,16,6.508774097760519,7
+mobilenet_v2,Validation,57.552083333333336,0.5692932448157408,0.5632265027071544,0.5426941956913012,1.564409118766586,None,Rumex vesicarius L.,Tamarix nilotica (Ehrenb.) Bunge,Deverra tortuosa (Desf.) DC.,18,16,6.558333218097687,8
+mobilenet_v2,Validation,58.55654761904762,0.5704535980463089,0.5683249821883606,0.554004809392288,1.5038789086309927,None,Rumex vesicarius L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Deverra tortuosa (Desf.) DC.,18,16,6.541125734647115,9
+mobilenet_v2,Validation,57.86830357142857,0.5580340192148546,0.5634371656867396,0.5388999107251506,1.514963610674299,None,Rumex vesicarius L.,Capparis spinosa L.,Deverra tortuosa (Desf.) DC.,18,16,6.42477243343989,10

@@ -1,0 +1,6 @@
+Model,Train & Test,Accuracy (micro),Precision (macro),Recall (macro),F1 (macro),Loss,Class_weights,Best_class,Median_class,Worst_class,num_classes_above_f1_macro_avg,num_classes_above_f1_macro_median,Time Taken (mins),Epoch
+mobilenet_v2,Validation,48.53050595238095,0.4875761092343964,0.4686368096169641,0.4475468320015435,1.8517097080392497,None,Peganum harmala L.,Ephedra alata Decne.,Deverra tortuosa (Desf.) DC.,17,16,7.352085717519125,1
+mobilenet_v2,Validation,51.339285714285715,0.5267013571261849,0.502989039842894,0.4908180000993619,1.7015835380270368,None,Calotropis procera,Echinops glaberrimus DC.,Deverra tortuosa (Desf.) DC.,17,16,6.6705352663993835,2
+mobilenet_v2,Validation,53.85044642857143,0.5235215270332783,0.5236465376691434,0.501456020007265,1.6505389953298228,None,Calotropis procera,Ephedra alata Decne.,Deverra tortuosa (Desf.) DC.,19,16,6.819490301609039,3
+mobilenet_v2,Validation,56.380208333333336,0.543070041590265,0.5428993049052852,0.5255577739346422,1.5518267437638271,None,Rumex vesicarius L.,Tamarix nilotica (Ehrenb.) Bunge,Deverra tortuosa (Desf.) DC.,19,16,6.7154935995737715,4
+mobilenet_v2,Validation,55.87797619047619,0.5595613276957127,0.5394832343240585,0.527443637404866,1.6024613964947916,None,Peganum harmala L.,Limonium pruinosum (L.) Chaz.,Deverra tortuosa (Desf.) DC.,17,16,6.739870397249858,5

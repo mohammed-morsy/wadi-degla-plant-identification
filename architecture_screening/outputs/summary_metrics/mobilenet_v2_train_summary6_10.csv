@@ -1,0 +1,6 @@
+Model,Train & Test,Accuracy (micro),Precision (macro),Recall (macro),F1 (macro),Loss,Class_weights,Best_class,Median_class,Worst_class,num_classes_above_f1_macro_avg,num_classes_above_f1_macro_median,Time Taken (mins),Epoch
+mobilenet_v2,Train,74.61601117058413,75.82708323138985,74.2217952114471,74.94225320310683,0.8647009621211588,None,Peganum harmala L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra tortuosa (Desf.) DC.,16,16,16.10076888402303,6
+mobilenet_v2,Train,75.814521759367,76.95778112462351,75.44683054960709,76.115499608168,0.8444071899005472,None,Calotropis procera,Stachys aegyptiaca Pers.,Farsetia aegyptia Turra,16,16,15.794026569525402,7
+mobilenet_v2,Train,76.04724226204328,77.10044714316365,75.82964009351673,76.40290997225392,0.8157530518934186,None,Peganum harmala L.,Capparis spinosa L.,Deverra tortuosa (Desf.) DC.,17,16,16.064889295895895,8
+mobilenet_v2,Train,76.41377705375844,77.00163294397117,75.88623286337193,76.38638264863957,0.8054002157263597,None,Calotropis procera,Anabasis articulata (Forssk.) Moq.,Deverra tortuosa (Desf.) DC.,15,16,16.428403317928314,9
+mobilenet_v2,Train,76.57086339306493,77.42497102948967,76.15288858595257,76.73800848059544,0.7933679359885396,None,Calotropis procera,Stachys aegyptiaca Pers.,Nitraria retusa (Forssk.) Asch.,16,16,16.32675111691157,10
