@@ -1,0 +1,1090 @@
+model_name,actual_class_index,predicted_class_index,actual_model_class_name,predicted_model_class_name,actual_reporting_name,predicted_reporting_name,images
+mobilenet_127,0,0,Anabasis articulata (Forssk.) Moq.,Anabasis articulata (Forssk.) Moq.,Anabasis articulata (Forssk.) Moq.,Anabasis articulata (Forssk.) Moq.,74
+mobilenet_127,0,1,Anabasis articulata (Forssk.) Moq.,Anabasis setifera Moq.,Anabasis articulata (Forssk.) Moq.,Anabasis setifera Moq.,0
+mobilenet_127,0,2,Anabasis articulata (Forssk.) Moq.,Atriplex halimus L.,Anabasis articulata (Forssk.) Moq.,Atriplex halimus L.,0
+mobilenet_127,0,3,Anabasis articulata (Forssk.) Moq.,Calotropis procera (Aiton) W.T.Aiton,Anabasis articulata (Forssk.) Moq.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,0,4,Anabasis articulata (Forssk.) Moq.,Capparis spinosa L.,Anabasis articulata (Forssk.) Moq.,Capparis spinosa L.,0
+mobilenet_127,0,5,Anabasis articulata (Forssk.) Moq.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Anabasis articulata (Forssk.) Moq.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,0,6,Anabasis articulata (Forssk.) Moq.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Anabasis articulata (Forssk.) Moq.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,0,7,Anabasis articulata (Forssk.) Moq.,Deverra tortuosa (Desf.) DC.,Anabasis articulata (Forssk.) Moq.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,0,8,Anabasis articulata (Forssk.) Moq.,Deverra triradiata Hochst. ex Boiss.,Anabasis articulata (Forssk.) Moq.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,0,9,Anabasis articulata (Forssk.) Moq.,Diplotaxis harra (Forssk.) Boiss.,Anabasis articulata (Forssk.) Moq.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,0,10,Anabasis articulata (Forssk.) Moq.,Echinops glaberrimus DC.,Anabasis articulata (Forssk.) Moq.,Echinops glaberrimus DC.,0
+mobilenet_127,0,11,Anabasis articulata (Forssk.) Moq.,Ephedra alata Decne.,Anabasis articulata (Forssk.) Moq.,Ephedra alata Decne.,0
+mobilenet_127,0,12,Anabasis articulata (Forssk.) Moq.,Farsetia aegyptia Turra,Anabasis articulata (Forssk.) Moq.,Farsetia aegyptia Turra,0
+mobilenet_127,0,13,Anabasis articulata (Forssk.) Moq.,Gymnocarpos decander Forssk.,Anabasis articulata (Forssk.) Moq.,Gymnocarpos decander Forssk.,0
+mobilenet_127,0,14,Anabasis articulata (Forssk.) Moq.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Anabasis articulata (Forssk.) Moq.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,0,15,Anabasis articulata (Forssk.) Moq.,Heliotropium arbainense Fresen.,Anabasis articulata (Forssk.) Moq.,Heliotropium arbainense Fresen.,0
+mobilenet_127,0,16,Anabasis articulata (Forssk.) Moq.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Anabasis articulata (Forssk.) Moq.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,0,17,Anabasis articulata (Forssk.) Moq.,Limonium pruinosum (L.) Chaz.,Anabasis articulata (Forssk.) Moq.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,0,18,Anabasis articulata (Forssk.) Moq.,Lycium shawii Roem. & Schult.,Anabasis articulata (Forssk.) Moq.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,0,19,Anabasis articulata (Forssk.) Moq.,Nitraria retusa (Forssk.) Asch.,Anabasis articulata (Forssk.) Moq.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,0,20,Anabasis articulata (Forssk.) Moq.,Ochradenus baccatus Delile,Anabasis articulata (Forssk.) Moq.,Ochradenus baccatus Delile,0
+mobilenet_127,0,21,Anabasis articulata (Forssk.) Moq.,Peganum harmala L.,Anabasis articulata (Forssk.) Moq.,Peganum harmala L.,0
+mobilenet_127,0,22,Anabasis articulata (Forssk.) Moq.,Rumex vesicarius L.,Anabasis articulata (Forssk.) Moq.,Rumex vesicarius L.,0
+mobilenet_127,0,23,Anabasis articulata (Forssk.) Moq.,Salsola imbricata Forssk.,Anabasis articulata (Forssk.) Moq.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,0,24,Anabasis articulata (Forssk.) Moq.,Stachys aegyptiaca Pers.,Anabasis articulata (Forssk.) Moq.,Stachys aegyptiaca Pers.,0
+mobilenet_127,0,25,Anabasis articulata (Forssk.) Moq.,Suaeda aegyptiaca (Hasselq.) Zohary,Anabasis articulata (Forssk.) Moq.,Suaeda aegyptiaca (Hasselq.) Zohary,1
+mobilenet_127,0,26,Anabasis articulata (Forssk.) Moq.,Tamarix nilotica (Ehrenb.) Bunge,Anabasis articulata (Forssk.) Moq.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,0,27,Anabasis articulata (Forssk.) Moq.,Trichodesma africanum (L.) Sm.,Anabasis articulata (Forssk.) Moq.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,0,28,Anabasis articulata (Forssk.) Moq.,Zilla spinosa (L.) Prantl,Anabasis articulata (Forssk.) Moq.,Zilla spinosa (L.) Prantl,1
+mobilenet_127,0,29,Anabasis articulata (Forssk.) Moq.,Zygophyllum arabicum (L.) Christenh. & Byng,Anabasis articulata (Forssk.) Moq.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,0,30,Anabasis articulata (Forssk.) Moq.,Zygophyllum coccineum L.,Anabasis articulata (Forssk.) Moq.,Zygophyllum coccineum L.,0
+mobilenet_127,0,31,Anabasis articulata (Forssk.) Moq.,Zygophyllum molle (Delile) Christenh. & Byng,Anabasis articulata (Forssk.) Moq.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,0,32,Anabasis articulata (Forssk.) Moq.,others,Anabasis articulata (Forssk.) Moq.,others,0
+mobilenet_127,1,0,Anabasis setifera Moq.,Anabasis articulata (Forssk.) Moq.,Anabasis setifera Moq.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,1,1,Anabasis setifera Moq.,Anabasis setifera Moq.,Anabasis setifera Moq.,Anabasis setifera Moq.,158
+mobilenet_127,1,2,Anabasis setifera Moq.,Atriplex halimus L.,Anabasis setifera Moq.,Atriplex halimus L.,7
+mobilenet_127,1,3,Anabasis setifera Moq.,Calotropis procera (Aiton) W.T.Aiton,Anabasis setifera Moq.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,1,4,Anabasis setifera Moq.,Capparis spinosa L.,Anabasis setifera Moq.,Capparis spinosa L.,0
+mobilenet_127,1,5,Anabasis setifera Moq.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Anabasis setifera Moq.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,1,6,Anabasis setifera Moq.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Anabasis setifera Moq.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,1,7,Anabasis setifera Moq.,Deverra tortuosa (Desf.) DC.,Anabasis setifera Moq.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,1,8,Anabasis setifera Moq.,Deverra triradiata Hochst. ex Boiss.,Anabasis setifera Moq.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,1,9,Anabasis setifera Moq.,Diplotaxis harra (Forssk.) Boiss.,Anabasis setifera Moq.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,1,10,Anabasis setifera Moq.,Echinops glaberrimus DC.,Anabasis setifera Moq.,Echinops glaberrimus DC.,0
+mobilenet_127,1,11,Anabasis setifera Moq.,Ephedra alata Decne.,Anabasis setifera Moq.,Ephedra alata Decne.,0
+mobilenet_127,1,12,Anabasis setifera Moq.,Farsetia aegyptia Turra,Anabasis setifera Moq.,Farsetia aegyptia Turra,0
+mobilenet_127,1,13,Anabasis setifera Moq.,Gymnocarpos decander Forssk.,Anabasis setifera Moq.,Gymnocarpos decander Forssk.,0
+mobilenet_127,1,14,Anabasis setifera Moq.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Anabasis setifera Moq.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,25
+mobilenet_127,1,15,Anabasis setifera Moq.,Heliotropium arbainense Fresen.,Anabasis setifera Moq.,Heliotropium arbainense Fresen.,0
+mobilenet_127,1,16,Anabasis setifera Moq.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Anabasis setifera Moq.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,1,17,Anabasis setifera Moq.,Limonium pruinosum (L.) Chaz.,Anabasis setifera Moq.,Limonium pruinosum (L.) Chaz.,3
+mobilenet_127,1,18,Anabasis setifera Moq.,Lycium shawii Roem. & Schult.,Anabasis setifera Moq.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,1,19,Anabasis setifera Moq.,Nitraria retusa (Forssk.) Asch.,Anabasis setifera Moq.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,1,20,Anabasis setifera Moq.,Ochradenus baccatus Delile,Anabasis setifera Moq.,Ochradenus baccatus Delile,0
+mobilenet_127,1,21,Anabasis setifera Moq.,Peganum harmala L.,Anabasis setifera Moq.,Peganum harmala L.,0
+mobilenet_127,1,22,Anabasis setifera Moq.,Rumex vesicarius L.,Anabasis setifera Moq.,Rumex vesicarius L.,0
+mobilenet_127,1,23,Anabasis setifera Moq.,Salsola imbricata Forssk.,Anabasis setifera Moq.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,1,24,Anabasis setifera Moq.,Stachys aegyptiaca Pers.,Anabasis setifera Moq.,Stachys aegyptiaca Pers.,0
+mobilenet_127,1,25,Anabasis setifera Moq.,Suaeda aegyptiaca (Hasselq.) Zohary,Anabasis setifera Moq.,Suaeda aegyptiaca (Hasselq.) Zohary,4
+mobilenet_127,1,26,Anabasis setifera Moq.,Tamarix nilotica (Ehrenb.) Bunge,Anabasis setifera Moq.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,1,27,Anabasis setifera Moq.,Trichodesma africanum (L.) Sm.,Anabasis setifera Moq.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,1,28,Anabasis setifera Moq.,Zilla spinosa (L.) Prantl,Anabasis setifera Moq.,Zilla spinosa (L.) Prantl,1
+mobilenet_127,1,29,Anabasis setifera Moq.,Zygophyllum arabicum (L.) Christenh. & Byng,Anabasis setifera Moq.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,1,30,Anabasis setifera Moq.,Zygophyllum coccineum L.,Anabasis setifera Moq.,Zygophyllum coccineum L.,0
+mobilenet_127,1,31,Anabasis setifera Moq.,Zygophyllum molle (Delile) Christenh. & Byng,Anabasis setifera Moq.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,1,32,Anabasis setifera Moq.,others,Anabasis setifera Moq.,others,0
+mobilenet_127,2,0,Atriplex halimus L.,Anabasis articulata (Forssk.) Moq.,Atriplex halimus L.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,2,1,Atriplex halimus L.,Anabasis setifera Moq.,Atriplex halimus L.,Anabasis setifera Moq.,0
+mobilenet_127,2,2,Atriplex halimus L.,Atriplex halimus L.,Atriplex halimus L.,Atriplex halimus L.,252
+mobilenet_127,2,3,Atriplex halimus L.,Calotropis procera (Aiton) W.T.Aiton,Atriplex halimus L.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,2,4,Atriplex halimus L.,Capparis spinosa L.,Atriplex halimus L.,Capparis spinosa L.,0
+mobilenet_127,2,5,Atriplex halimus L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Atriplex halimus L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,2
+mobilenet_127,2,6,Atriplex halimus L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Atriplex halimus L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,2,7,Atriplex halimus L.,Deverra tortuosa (Desf.) DC.,Atriplex halimus L.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,2,8,Atriplex halimus L.,Deverra triradiata Hochst. ex Boiss.,Atriplex halimus L.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,2,9,Atriplex halimus L.,Diplotaxis harra (Forssk.) Boiss.,Atriplex halimus L.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,2,10,Atriplex halimus L.,Echinops glaberrimus DC.,Atriplex halimus L.,Echinops glaberrimus DC.,0
+mobilenet_127,2,11,Atriplex halimus L.,Ephedra alata Decne.,Atriplex halimus L.,Ephedra alata Decne.,0
+mobilenet_127,2,12,Atriplex halimus L.,Farsetia aegyptia Turra,Atriplex halimus L.,Farsetia aegyptia Turra,0
+mobilenet_127,2,13,Atriplex halimus L.,Gymnocarpos decander Forssk.,Atriplex halimus L.,Gymnocarpos decander Forssk.,1
+mobilenet_127,2,14,Atriplex halimus L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Atriplex halimus L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,2,15,Atriplex halimus L.,Heliotropium arbainense Fresen.,Atriplex halimus L.,Heliotropium arbainense Fresen.,0
+mobilenet_127,2,16,Atriplex halimus L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Atriplex halimus L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,2,17,Atriplex halimus L.,Limonium pruinosum (L.) Chaz.,Atriplex halimus L.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,2,18,Atriplex halimus L.,Lycium shawii Roem. & Schult.,Atriplex halimus L.,Lycium shawii Roem. & Schult.,5
+mobilenet_127,2,19,Atriplex halimus L.,Nitraria retusa (Forssk.) Asch.,Atriplex halimus L.,Nitraria retusa (Forssk.) Asch.,13
+mobilenet_127,2,20,Atriplex halimus L.,Ochradenus baccatus Delile,Atriplex halimus L.,Ochradenus baccatus Delile,2
+mobilenet_127,2,21,Atriplex halimus L.,Peganum harmala L.,Atriplex halimus L.,Peganum harmala L.,0
+mobilenet_127,2,22,Atriplex halimus L.,Rumex vesicarius L.,Atriplex halimus L.,Rumex vesicarius L.,0
+mobilenet_127,2,23,Atriplex halimus L.,Salsola imbricata Forssk.,Atriplex halimus L.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,2,24,Atriplex halimus L.,Stachys aegyptiaca Pers.,Atriplex halimus L.,Stachys aegyptiaca Pers.,0
+mobilenet_127,2,25,Atriplex halimus L.,Suaeda aegyptiaca (Hasselq.) Zohary,Atriplex halimus L.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,2,26,Atriplex halimus L.,Tamarix nilotica (Ehrenb.) Bunge,Atriplex halimus L.,Tamarix nilotica (Ehrenb.) Bunge,5
+mobilenet_127,2,27,Atriplex halimus L.,Trichodesma africanum (L.) Sm.,Atriplex halimus L.,Trichodesma africanum (L.) Sm.,1
+mobilenet_127,2,28,Atriplex halimus L.,Zilla spinosa (L.) Prantl,Atriplex halimus L.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,2,29,Atriplex halimus L.,Zygophyllum arabicum (L.) Christenh. & Byng,Atriplex halimus L.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,2,30,Atriplex halimus L.,Zygophyllum coccineum L.,Atriplex halimus L.,Zygophyllum coccineum L.,0
+mobilenet_127,2,31,Atriplex halimus L.,Zygophyllum molle (Delile) Christenh. & Byng,Atriplex halimus L.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,2,32,Atriplex halimus L.,others,Atriplex halimus L.,others,0
+mobilenet_127,3,0,Calotropis procera (Aiton) W.T.Aiton,Anabasis articulata (Forssk.) Moq.,Calotropis procera (Aiton) W.T.Aiton,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,3,1,Calotropis procera (Aiton) W.T.Aiton,Anabasis setifera Moq.,Calotropis procera (Aiton) W.T.Aiton,Anabasis setifera Moq.,0
+mobilenet_127,3,2,Calotropis procera (Aiton) W.T.Aiton,Atriplex halimus L.,Calotropis procera (Aiton) W.T.Aiton,Atriplex halimus L.,0
+mobilenet_127,3,3,Calotropis procera (Aiton) W.T.Aiton,Calotropis procera (Aiton) W.T.Aiton,Calotropis procera (Aiton) W.T.Aiton,Calotropis procera (Aiton) W.T.Aiton,78
+mobilenet_127,3,4,Calotropis procera (Aiton) W.T.Aiton,Capparis spinosa L.,Calotropis procera (Aiton) W.T.Aiton,Capparis spinosa L.,0
+mobilenet_127,3,5,Calotropis procera (Aiton) W.T.Aiton,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Calotropis procera (Aiton) W.T.Aiton,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,3,6,Calotropis procera (Aiton) W.T.Aiton,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Calotropis procera (Aiton) W.T.Aiton,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,3,7,Calotropis procera (Aiton) W.T.Aiton,Deverra tortuosa (Desf.) DC.,Calotropis procera (Aiton) W.T.Aiton,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,3,8,Calotropis procera (Aiton) W.T.Aiton,Deverra triradiata Hochst. ex Boiss.,Calotropis procera (Aiton) W.T.Aiton,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,3,9,Calotropis procera (Aiton) W.T.Aiton,Diplotaxis harra (Forssk.) Boiss.,Calotropis procera (Aiton) W.T.Aiton,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,3,10,Calotropis procera (Aiton) W.T.Aiton,Echinops glaberrimus DC.,Calotropis procera (Aiton) W.T.Aiton,Echinops glaberrimus DC.,0
+mobilenet_127,3,11,Calotropis procera (Aiton) W.T.Aiton,Ephedra alata Decne.,Calotropis procera (Aiton) W.T.Aiton,Ephedra alata Decne.,0
+mobilenet_127,3,12,Calotropis procera (Aiton) W.T.Aiton,Farsetia aegyptia Turra,Calotropis procera (Aiton) W.T.Aiton,Farsetia aegyptia Turra,0
+mobilenet_127,3,13,Calotropis procera (Aiton) W.T.Aiton,Gymnocarpos decander Forssk.,Calotropis procera (Aiton) W.T.Aiton,Gymnocarpos decander Forssk.,0
+mobilenet_127,3,14,Calotropis procera (Aiton) W.T.Aiton,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Calotropis procera (Aiton) W.T.Aiton,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,3,15,Calotropis procera (Aiton) W.T.Aiton,Heliotropium arbainense Fresen.,Calotropis procera (Aiton) W.T.Aiton,Heliotropium arbainense Fresen.,0
+mobilenet_127,3,16,Calotropis procera (Aiton) W.T.Aiton,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Calotropis procera (Aiton) W.T.Aiton,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,3,17,Calotropis procera (Aiton) W.T.Aiton,Limonium pruinosum (L.) Chaz.,Calotropis procera (Aiton) W.T.Aiton,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,3,18,Calotropis procera (Aiton) W.T.Aiton,Lycium shawii Roem. & Schult.,Calotropis procera (Aiton) W.T.Aiton,Lycium shawii Roem. & Schult.,0
+mobilenet_127,3,19,Calotropis procera (Aiton) W.T.Aiton,Nitraria retusa (Forssk.) Asch.,Calotropis procera (Aiton) W.T.Aiton,Nitraria retusa (Forssk.) Asch.,2
+mobilenet_127,3,20,Calotropis procera (Aiton) W.T.Aiton,Ochradenus baccatus Delile,Calotropis procera (Aiton) W.T.Aiton,Ochradenus baccatus Delile,1
+mobilenet_127,3,21,Calotropis procera (Aiton) W.T.Aiton,Peganum harmala L.,Calotropis procera (Aiton) W.T.Aiton,Peganum harmala L.,0
+mobilenet_127,3,22,Calotropis procera (Aiton) W.T.Aiton,Rumex vesicarius L.,Calotropis procera (Aiton) W.T.Aiton,Rumex vesicarius L.,0
+mobilenet_127,3,23,Calotropis procera (Aiton) W.T.Aiton,Salsola imbricata Forssk.,Calotropis procera (Aiton) W.T.Aiton,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,3,24,Calotropis procera (Aiton) W.T.Aiton,Stachys aegyptiaca Pers.,Calotropis procera (Aiton) W.T.Aiton,Stachys aegyptiaca Pers.,0
+mobilenet_127,3,25,Calotropis procera (Aiton) W.T.Aiton,Suaeda aegyptiaca (Hasselq.) Zohary,Calotropis procera (Aiton) W.T.Aiton,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,3,26,Calotropis procera (Aiton) W.T.Aiton,Tamarix nilotica (Ehrenb.) Bunge,Calotropis procera (Aiton) W.T.Aiton,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,3,27,Calotropis procera (Aiton) W.T.Aiton,Trichodesma africanum (L.) Sm.,Calotropis procera (Aiton) W.T.Aiton,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,3,28,Calotropis procera (Aiton) W.T.Aiton,Zilla spinosa (L.) Prantl,Calotropis procera (Aiton) W.T.Aiton,Zilla spinosa (L.) Prantl,0
+mobilenet_127,3,29,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum arabicum (L.) Christenh. & Byng,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,3,30,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum coccineum L.,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum coccineum L.,0
+mobilenet_127,3,31,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum molle (Delile) Christenh. & Byng,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,3,32,Calotropis procera (Aiton) W.T.Aiton,others,Calotropis procera (Aiton) W.T.Aiton,others,0
+mobilenet_127,4,0,Capparis spinosa L.,Anabasis articulata (Forssk.) Moq.,Capparis spinosa L.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,4,1,Capparis spinosa L.,Anabasis setifera Moq.,Capparis spinosa L.,Anabasis setifera Moq.,0
+mobilenet_127,4,2,Capparis spinosa L.,Atriplex halimus L.,Capparis spinosa L.,Atriplex halimus L.,0
+mobilenet_127,4,3,Capparis spinosa L.,Calotropis procera (Aiton) W.T.Aiton,Capparis spinosa L.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,4,4,Capparis spinosa L.,Capparis spinosa L.,Capparis spinosa L.,Capparis spinosa L.,120
+mobilenet_127,4,5,Capparis spinosa L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Capparis spinosa L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,4,6,Capparis spinosa L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Capparis spinosa L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,4,7,Capparis spinosa L.,Deverra tortuosa (Desf.) DC.,Capparis spinosa L.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,4,8,Capparis spinosa L.,Deverra triradiata Hochst. ex Boiss.,Capparis spinosa L.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,4,9,Capparis spinosa L.,Diplotaxis harra (Forssk.) Boiss.,Capparis spinosa L.,Diplotaxis harra (Forssk.) Boiss.,2
+mobilenet_127,4,10,Capparis spinosa L.,Echinops glaberrimus DC.,Capparis spinosa L.,Echinops glaberrimus DC.,0
+mobilenet_127,4,11,Capparis spinosa L.,Ephedra alata Decne.,Capparis spinosa L.,Ephedra alata Decne.,0
+mobilenet_127,4,12,Capparis spinosa L.,Farsetia aegyptia Turra,Capparis spinosa L.,Farsetia aegyptia Turra,0
+mobilenet_127,4,13,Capparis spinosa L.,Gymnocarpos decander Forssk.,Capparis spinosa L.,Gymnocarpos decander Forssk.,0
+mobilenet_127,4,14,Capparis spinosa L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Capparis spinosa L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,4,15,Capparis spinosa L.,Heliotropium arbainense Fresen.,Capparis spinosa L.,Heliotropium arbainense Fresen.,0
+mobilenet_127,4,16,Capparis spinosa L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Capparis spinosa L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,4,17,Capparis spinosa L.,Limonium pruinosum (L.) Chaz.,Capparis spinosa L.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,4,18,Capparis spinosa L.,Lycium shawii Roem. & Schult.,Capparis spinosa L.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,4,19,Capparis spinosa L.,Nitraria retusa (Forssk.) Asch.,Capparis spinosa L.,Nitraria retusa (Forssk.) Asch.,5
+mobilenet_127,4,20,Capparis spinosa L.,Ochradenus baccatus Delile,Capparis spinosa L.,Ochradenus baccatus Delile,0
+mobilenet_127,4,21,Capparis spinosa L.,Peganum harmala L.,Capparis spinosa L.,Peganum harmala L.,0
+mobilenet_127,4,22,Capparis spinosa L.,Rumex vesicarius L.,Capparis spinosa L.,Rumex vesicarius L.,1
+mobilenet_127,4,23,Capparis spinosa L.,Salsola imbricata Forssk.,Capparis spinosa L.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,4,24,Capparis spinosa L.,Stachys aegyptiaca Pers.,Capparis spinosa L.,Stachys aegyptiaca Pers.,0
+mobilenet_127,4,25,Capparis spinosa L.,Suaeda aegyptiaca (Hasselq.) Zohary,Capparis spinosa L.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,4,26,Capparis spinosa L.,Tamarix nilotica (Ehrenb.) Bunge,Capparis spinosa L.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,4,27,Capparis spinosa L.,Trichodesma africanum (L.) Sm.,Capparis spinosa L.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,4,28,Capparis spinosa L.,Zilla spinosa (L.) Prantl,Capparis spinosa L.,Zilla spinosa (L.) Prantl,1
+mobilenet_127,4,29,Capparis spinosa L.,Zygophyllum arabicum (L.) Christenh. & Byng,Capparis spinosa L.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,4,30,Capparis spinosa L.,Zygophyllum coccineum L.,Capparis spinosa L.,Zygophyllum coccineum L.,9
+mobilenet_127,4,31,Capparis spinosa L.,Zygophyllum molle (Delile) Christenh. & Byng,Capparis spinosa L.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,4,32,Capparis spinosa L.,others,Capparis spinosa L.,others,4
+mobilenet_127,5,0,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Anabasis articulata (Forssk.) Moq.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,5,1,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Anabasis setifera Moq.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Anabasis setifera Moq.,0
+mobilenet_127,5,2,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Atriplex halimus L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Atriplex halimus L.,0
+mobilenet_127,5,3,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Calotropis procera (Aiton) W.T.Aiton,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,5,4,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Capparis spinosa L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Capparis spinosa L.,0
+mobilenet_127,5,5,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,107
+mobilenet_127,5,6,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,5,7,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra tortuosa (Desf.) DC.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,5,8,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra triradiata Hochst. ex Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,5,9,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Diplotaxis harra (Forssk.) Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,5,10,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Echinops glaberrimus DC.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Echinops glaberrimus DC.,0
+mobilenet_127,5,11,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Ephedra alata Decne.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Ephedra alata Decne.,11
+mobilenet_127,5,12,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Farsetia aegyptia Turra,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Farsetia aegyptia Turra,0
+mobilenet_127,5,13,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Gymnocarpos decander Forssk.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Gymnocarpos decander Forssk.,0
+mobilenet_127,5,14,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,5,15,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Heliotropium arbainense Fresen.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Heliotropium arbainense Fresen.,0
+mobilenet_127,5,16,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,5,17,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Limonium pruinosum (L.) Chaz.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,5,18,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Lycium shawii Roem. & Schult.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Lycium shawii Roem. & Schult.,2
+mobilenet_127,5,19,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Nitraria retusa (Forssk.) Asch.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,5,20,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Ochradenus baccatus Delile,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Ochradenus baccatus Delile,0
+mobilenet_127,5,21,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Peganum harmala L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Peganum harmala L.,0
+mobilenet_127,5,22,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Rumex vesicarius L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Rumex vesicarius L.,0
+mobilenet_127,5,23,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Salsola imbricata Forssk.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,5,24,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Stachys aegyptiaca Pers.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Stachys aegyptiaca Pers.,0
+mobilenet_127,5,25,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Suaeda aegyptiaca (Hasselq.) Zohary,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,5,26,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Tamarix nilotica (Ehrenb.) Bunge,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,5,27,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Trichodesma africanum (L.) Sm.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,5,28,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zilla spinosa (L.) Prantl,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zilla spinosa (L.) Prantl,0
+mobilenet_127,5,29,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum arabicum (L.) Christenh. & Byng,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,5,30,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum coccineum L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum coccineum L.,0
+mobilenet_127,5,31,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum molle (Delile) Christenh. & Byng,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,5,32,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,others,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,others,0
+mobilenet_127,6,0,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Anabasis articulata (Forssk.) Moq.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,6,1,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Anabasis setifera Moq.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Anabasis setifera Moq.,0
+mobilenet_127,6,2,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Atriplex halimus L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Atriplex halimus L.,0
+mobilenet_127,6,3,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Calotropis procera (Aiton) W.T.Aiton,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,6,4,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Capparis spinosa L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Capparis spinosa L.,0
+mobilenet_127,6,5,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,6,6,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler","Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler","Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler","Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",81
+mobilenet_127,6,7,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Deverra tortuosa (Desf.) DC.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Deverra tortuosa (Desf.) DC.,2
+mobilenet_127,6,8,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Deverra triradiata Hochst. ex Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Deverra triradiata Hochst. ex Boiss.,3
+mobilenet_127,6,9,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Diplotaxis harra (Forssk.) Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,6,10,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Echinops glaberrimus DC.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Echinops glaberrimus DC.,0
+mobilenet_127,6,11,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Ephedra alata Decne.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Ephedra alata Decne.,0
+mobilenet_127,6,12,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Farsetia aegyptia Turra,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Farsetia aegyptia Turra,0
+mobilenet_127,6,13,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Gymnocarpos decander Forssk.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Gymnocarpos decander Forssk.,0
+mobilenet_127,6,14,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Haloxylon salicornicum (Moq.) Bunge ex Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,6,15,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Heliotropium arbainense Fresen.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Heliotropium arbainense Fresen.,0
+mobilenet_127,6,16,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Iphiona mucronata (Forssk.) Asch. & Schweinf.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,6,17,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Limonium pruinosum (L.) Chaz.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,6,18,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Lycium shawii Roem. & Schult.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Lycium shawii Roem. & Schult.,0
+mobilenet_127,6,19,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Nitraria retusa (Forssk.) Asch.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,6,20,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Ochradenus baccatus Delile,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Ochradenus baccatus Delile,0
+mobilenet_127,6,21,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Peganum harmala L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Peganum harmala L.,0
+mobilenet_127,6,22,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Rumex vesicarius L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Rumex vesicarius L.,0
+mobilenet_127,6,23,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Salsola imbricata Forssk.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,6,24,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Stachys aegyptiaca Pers.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Stachys aegyptiaca Pers.,0
+mobilenet_127,6,25,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Suaeda aegyptiaca (Hasselq.) Zohary,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,6,26,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Tamarix nilotica (Ehrenb.) Bunge,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,6,27,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Trichodesma africanum (L.) Sm.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Trichodesma africanum (L.) Sm.,0
+mobilenet_127,6,28,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zilla spinosa (L.) Prantl,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zilla spinosa (L.) Prantl,0
+mobilenet_127,6,29,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum arabicum (L.) Christenh. & Byng,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,6,30,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum coccineum L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum coccineum L.,0
+mobilenet_127,6,31,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum molle (Delile) Christenh. & Byng,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,6,32,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",others,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",others,1
+mobilenet_127,7,0,Deverra tortuosa (Desf.) DC.,Anabasis articulata (Forssk.) Moq.,Deverra tortuosa (Desf.) DC.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,7,1,Deverra tortuosa (Desf.) DC.,Anabasis setifera Moq.,Deverra tortuosa (Desf.) DC.,Anabasis setifera Moq.,0
+mobilenet_127,7,2,Deverra tortuosa (Desf.) DC.,Atriplex halimus L.,Deverra tortuosa (Desf.) DC.,Atriplex halimus L.,0
+mobilenet_127,7,3,Deverra tortuosa (Desf.) DC.,Calotropis procera (Aiton) W.T.Aiton,Deverra tortuosa (Desf.) DC.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,7,4,Deverra tortuosa (Desf.) DC.,Capparis spinosa L.,Deverra tortuosa (Desf.) DC.,Capparis spinosa L.,0
+mobilenet_127,7,5,Deverra tortuosa (Desf.) DC.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra tortuosa (Desf.) DC.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,7,6,Deverra tortuosa (Desf.) DC.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Deverra tortuosa (Desf.) DC.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,7,7,Deverra tortuosa (Desf.) DC.,Deverra tortuosa (Desf.) DC.,Deverra tortuosa (Desf.) DC.,Deverra tortuosa (Desf.) DC.,39
+mobilenet_127,7,8,Deverra tortuosa (Desf.) DC.,Deverra triradiata Hochst. ex Boiss.,Deverra tortuosa (Desf.) DC.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,7,9,Deverra tortuosa (Desf.) DC.,Diplotaxis harra (Forssk.) Boiss.,Deverra tortuosa (Desf.) DC.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,7,10,Deverra tortuosa (Desf.) DC.,Echinops glaberrimus DC.,Deverra tortuosa (Desf.) DC.,Echinops glaberrimus DC.,0
+mobilenet_127,7,11,Deverra tortuosa (Desf.) DC.,Ephedra alata Decne.,Deverra tortuosa (Desf.) DC.,Ephedra alata Decne.,0
+mobilenet_127,7,12,Deverra tortuosa (Desf.) DC.,Farsetia aegyptia Turra,Deverra tortuosa (Desf.) DC.,Farsetia aegyptia Turra,0
+mobilenet_127,7,13,Deverra tortuosa (Desf.) DC.,Gymnocarpos decander Forssk.,Deverra tortuosa (Desf.) DC.,Gymnocarpos decander Forssk.,0
+mobilenet_127,7,14,Deverra tortuosa (Desf.) DC.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Deverra tortuosa (Desf.) DC.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,7,15,Deverra tortuosa (Desf.) DC.,Heliotropium arbainense Fresen.,Deverra tortuosa (Desf.) DC.,Heliotropium arbainense Fresen.,0
+mobilenet_127,7,16,Deverra tortuosa (Desf.) DC.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Deverra tortuosa (Desf.) DC.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,7,17,Deverra tortuosa (Desf.) DC.,Limonium pruinosum (L.) Chaz.,Deverra tortuosa (Desf.) DC.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,7,18,Deverra tortuosa (Desf.) DC.,Lycium shawii Roem. & Schult.,Deverra tortuosa (Desf.) DC.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,7,19,Deverra tortuosa (Desf.) DC.,Nitraria retusa (Forssk.) Asch.,Deverra tortuosa (Desf.) DC.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,7,20,Deverra tortuosa (Desf.) DC.,Ochradenus baccatus Delile,Deverra tortuosa (Desf.) DC.,Ochradenus baccatus Delile,0
+mobilenet_127,7,21,Deverra tortuosa (Desf.) DC.,Peganum harmala L.,Deverra tortuosa (Desf.) DC.,Peganum harmala L.,0
+mobilenet_127,7,22,Deverra tortuosa (Desf.) DC.,Rumex vesicarius L.,Deverra tortuosa (Desf.) DC.,Rumex vesicarius L.,0
+mobilenet_127,7,23,Deverra tortuosa (Desf.) DC.,Salsola imbricata Forssk.,Deverra tortuosa (Desf.) DC.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,7,24,Deverra tortuosa (Desf.) DC.,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,Stachys aegyptiaca Pers.,0
+mobilenet_127,7,25,Deverra tortuosa (Desf.) DC.,Suaeda aegyptiaca (Hasselq.) Zohary,Deverra tortuosa (Desf.) DC.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,7,26,Deverra tortuosa (Desf.) DC.,Tamarix nilotica (Ehrenb.) Bunge,Deverra tortuosa (Desf.) DC.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,7,27,Deverra tortuosa (Desf.) DC.,Trichodesma africanum (L.) Sm.,Deverra tortuosa (Desf.) DC.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,7,28,Deverra tortuosa (Desf.) DC.,Zilla spinosa (L.) Prantl,Deverra tortuosa (Desf.) DC.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,7,29,Deverra tortuosa (Desf.) DC.,Zygophyllum arabicum (L.) Christenh. & Byng,Deverra tortuosa (Desf.) DC.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,7,30,Deverra tortuosa (Desf.) DC.,Zygophyllum coccineum L.,Deverra tortuosa (Desf.) DC.,Zygophyllum coccineum L.,0
+mobilenet_127,7,31,Deverra tortuosa (Desf.) DC.,Zygophyllum molle (Delile) Christenh. & Byng,Deverra tortuosa (Desf.) DC.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,7,32,Deverra tortuosa (Desf.) DC.,others,Deverra tortuosa (Desf.) DC.,others,0
+mobilenet_127,8,0,Deverra triradiata Hochst. ex Boiss.,Anabasis articulata (Forssk.) Moq.,Deverra triradiata Hochst. ex Boiss.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,8,1,Deverra triradiata Hochst. ex Boiss.,Anabasis setifera Moq.,Deverra triradiata Hochst. ex Boiss.,Anabasis setifera Moq.,0
+mobilenet_127,8,2,Deverra triradiata Hochst. ex Boiss.,Atriplex halimus L.,Deverra triradiata Hochst. ex Boiss.,Atriplex halimus L.,0
+mobilenet_127,8,3,Deverra triradiata Hochst. ex Boiss.,Calotropis procera (Aiton) W.T.Aiton,Deverra triradiata Hochst. ex Boiss.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,8,4,Deverra triradiata Hochst. ex Boiss.,Capparis spinosa L.,Deverra triradiata Hochst. ex Boiss.,Capparis spinosa L.,0
+mobilenet_127,8,5,Deverra triradiata Hochst. ex Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Deverra triradiata Hochst. ex Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,8,6,Deverra triradiata Hochst. ex Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Deverra triradiata Hochst. ex Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,8,7,Deverra triradiata Hochst. ex Boiss.,Deverra tortuosa (Desf.) DC.,Deverra triradiata Hochst. ex Boiss.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,8,8,Deverra triradiata Hochst. ex Boiss.,Deverra triradiata Hochst. ex Boiss.,Deverra triradiata Hochst. ex Boiss.,Deverra triradiata Hochst. ex Boiss.,37
+mobilenet_127,8,9,Deverra triradiata Hochst. ex Boiss.,Diplotaxis harra (Forssk.) Boiss.,Deverra triradiata Hochst. ex Boiss.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,8,10,Deverra triradiata Hochst. ex Boiss.,Echinops glaberrimus DC.,Deverra triradiata Hochst. ex Boiss.,Echinops glaberrimus DC.,0
+mobilenet_127,8,11,Deverra triradiata Hochst. ex Boiss.,Ephedra alata Decne.,Deverra triradiata Hochst. ex Boiss.,Ephedra alata Decne.,1
+mobilenet_127,8,12,Deverra triradiata Hochst. ex Boiss.,Farsetia aegyptia Turra,Deverra triradiata Hochst. ex Boiss.,Farsetia aegyptia Turra,0
+mobilenet_127,8,13,Deverra triradiata Hochst. ex Boiss.,Gymnocarpos decander Forssk.,Deverra triradiata Hochst. ex Boiss.,Gymnocarpos decander Forssk.,0
+mobilenet_127,8,14,Deverra triradiata Hochst. ex Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Deverra triradiata Hochst. ex Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,8,15,Deverra triradiata Hochst. ex Boiss.,Heliotropium arbainense Fresen.,Deverra triradiata Hochst. ex Boiss.,Heliotropium arbainense Fresen.,0
+mobilenet_127,8,16,Deverra triradiata Hochst. ex Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Deverra triradiata Hochst. ex Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,8,17,Deverra triradiata Hochst. ex Boiss.,Limonium pruinosum (L.) Chaz.,Deverra triradiata Hochst. ex Boiss.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,8,18,Deverra triradiata Hochst. ex Boiss.,Lycium shawii Roem. & Schult.,Deverra triradiata Hochst. ex Boiss.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,8,19,Deverra triradiata Hochst. ex Boiss.,Nitraria retusa (Forssk.) Asch.,Deverra triradiata Hochst. ex Boiss.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,8,20,Deverra triradiata Hochst. ex Boiss.,Ochradenus baccatus Delile,Deverra triradiata Hochst. ex Boiss.,Ochradenus baccatus Delile,0
+mobilenet_127,8,21,Deverra triradiata Hochst. ex Boiss.,Peganum harmala L.,Deverra triradiata Hochst. ex Boiss.,Peganum harmala L.,0
+mobilenet_127,8,22,Deverra triradiata Hochst. ex Boiss.,Rumex vesicarius L.,Deverra triradiata Hochst. ex Boiss.,Rumex vesicarius L.,0
+mobilenet_127,8,23,Deverra triradiata Hochst. ex Boiss.,Salsola imbricata Forssk.,Deverra triradiata Hochst. ex Boiss.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,8,24,Deverra triradiata Hochst. ex Boiss.,Stachys aegyptiaca Pers.,Deverra triradiata Hochst. ex Boiss.,Stachys aegyptiaca Pers.,0
+mobilenet_127,8,25,Deverra triradiata Hochst. ex Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,Deverra triradiata Hochst. ex Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,8,26,Deverra triradiata Hochst. ex Boiss.,Tamarix nilotica (Ehrenb.) Bunge,Deverra triradiata Hochst. ex Boiss.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,8,27,Deverra triradiata Hochst. ex Boiss.,Trichodesma africanum (L.) Sm.,Deverra triradiata Hochst. ex Boiss.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,8,28,Deverra triradiata Hochst. ex Boiss.,Zilla spinosa (L.) Prantl,Deverra triradiata Hochst. ex Boiss.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,8,29,Deverra triradiata Hochst. ex Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,Deverra triradiata Hochst. ex Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,8,30,Deverra triradiata Hochst. ex Boiss.,Zygophyllum coccineum L.,Deverra triradiata Hochst. ex Boiss.,Zygophyllum coccineum L.,0
+mobilenet_127,8,31,Deverra triradiata Hochst. ex Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,Deverra triradiata Hochst. ex Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,8,32,Deverra triradiata Hochst. ex Boiss.,others,Deverra triradiata Hochst. ex Boiss.,others,0
+mobilenet_127,9,0,Diplotaxis harra (Forssk.) Boiss.,Anabasis articulata (Forssk.) Moq.,Diplotaxis harra (Forssk.) Boiss.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,9,1,Diplotaxis harra (Forssk.) Boiss.,Anabasis setifera Moq.,Diplotaxis harra (Forssk.) Boiss.,Anabasis setifera Moq.,1
+mobilenet_127,9,2,Diplotaxis harra (Forssk.) Boiss.,Atriplex halimus L.,Diplotaxis harra (Forssk.) Boiss.,Atriplex halimus L.,0
+mobilenet_127,9,3,Diplotaxis harra (Forssk.) Boiss.,Calotropis procera (Aiton) W.T.Aiton,Diplotaxis harra (Forssk.) Boiss.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,9,4,Diplotaxis harra (Forssk.) Boiss.,Capparis spinosa L.,Diplotaxis harra (Forssk.) Boiss.,Capparis spinosa L.,0
+mobilenet_127,9,5,Diplotaxis harra (Forssk.) Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Diplotaxis harra (Forssk.) Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,9,6,Diplotaxis harra (Forssk.) Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Diplotaxis harra (Forssk.) Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,9,7,Diplotaxis harra (Forssk.) Boiss.,Deverra tortuosa (Desf.) DC.,Diplotaxis harra (Forssk.) Boiss.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,9,8,Diplotaxis harra (Forssk.) Boiss.,Deverra triradiata Hochst. ex Boiss.,Diplotaxis harra (Forssk.) Boiss.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,9,9,Diplotaxis harra (Forssk.) Boiss.,Diplotaxis harra (Forssk.) Boiss.,Diplotaxis harra (Forssk.) Boiss.,Diplotaxis harra (Forssk.) Boiss.,112
+mobilenet_127,9,10,Diplotaxis harra (Forssk.) Boiss.,Echinops glaberrimus DC.,Diplotaxis harra (Forssk.) Boiss.,Echinops glaberrimus DC.,1
+mobilenet_127,9,11,Diplotaxis harra (Forssk.) Boiss.,Ephedra alata Decne.,Diplotaxis harra (Forssk.) Boiss.,Ephedra alata Decne.,0
+mobilenet_127,9,12,Diplotaxis harra (Forssk.) Boiss.,Farsetia aegyptia Turra,Diplotaxis harra (Forssk.) Boiss.,Farsetia aegyptia Turra,1
+mobilenet_127,9,13,Diplotaxis harra (Forssk.) Boiss.,Gymnocarpos decander Forssk.,Diplotaxis harra (Forssk.) Boiss.,Gymnocarpos decander Forssk.,0
+mobilenet_127,9,14,Diplotaxis harra (Forssk.) Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Diplotaxis harra (Forssk.) Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,9,15,Diplotaxis harra (Forssk.) Boiss.,Heliotropium arbainense Fresen.,Diplotaxis harra (Forssk.) Boiss.,Heliotropium arbainense Fresen.,1
+mobilenet_127,9,16,Diplotaxis harra (Forssk.) Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Diplotaxis harra (Forssk.) Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,9,17,Diplotaxis harra (Forssk.) Boiss.,Limonium pruinosum (L.) Chaz.,Diplotaxis harra (Forssk.) Boiss.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,9,18,Diplotaxis harra (Forssk.) Boiss.,Lycium shawii Roem. & Schult.,Diplotaxis harra (Forssk.) Boiss.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,9,19,Diplotaxis harra (Forssk.) Boiss.,Nitraria retusa (Forssk.) Asch.,Diplotaxis harra (Forssk.) Boiss.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,9,20,Diplotaxis harra (Forssk.) Boiss.,Ochradenus baccatus Delile,Diplotaxis harra (Forssk.) Boiss.,Ochradenus baccatus Delile,11
+mobilenet_127,9,21,Diplotaxis harra (Forssk.) Boiss.,Peganum harmala L.,Diplotaxis harra (Forssk.) Boiss.,Peganum harmala L.,0
+mobilenet_127,9,22,Diplotaxis harra (Forssk.) Boiss.,Rumex vesicarius L.,Diplotaxis harra (Forssk.) Boiss.,Rumex vesicarius L.,0
+mobilenet_127,9,23,Diplotaxis harra (Forssk.) Boiss.,Salsola imbricata Forssk.,Diplotaxis harra (Forssk.) Boiss.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,9,24,Diplotaxis harra (Forssk.) Boiss.,Stachys aegyptiaca Pers.,Diplotaxis harra (Forssk.) Boiss.,Stachys aegyptiaca Pers.,1
+mobilenet_127,9,25,Diplotaxis harra (Forssk.) Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,Diplotaxis harra (Forssk.) Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,1
+mobilenet_127,9,26,Diplotaxis harra (Forssk.) Boiss.,Tamarix nilotica (Ehrenb.) Bunge,Diplotaxis harra (Forssk.) Boiss.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,9,27,Diplotaxis harra (Forssk.) Boiss.,Trichodesma africanum (L.) Sm.,Diplotaxis harra (Forssk.) Boiss.,Trichodesma africanum (L.) Sm.,3
+mobilenet_127,9,28,Diplotaxis harra (Forssk.) Boiss.,Zilla spinosa (L.) Prantl,Diplotaxis harra (Forssk.) Boiss.,Zilla spinosa (L.) Prantl,1
+mobilenet_127,9,29,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,9,30,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum coccineum L.,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum coccineum L.,0
+mobilenet_127,9,31,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,9,32,Diplotaxis harra (Forssk.) Boiss.,others,Diplotaxis harra (Forssk.) Boiss.,others,3
+mobilenet_127,10,0,Echinops glaberrimus DC.,Anabasis articulata (Forssk.) Moq.,Echinops glaberrimus DC.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,10,1,Echinops glaberrimus DC.,Anabasis setifera Moq.,Echinops glaberrimus DC.,Anabasis setifera Moq.,0
+mobilenet_127,10,2,Echinops glaberrimus DC.,Atriplex halimus L.,Echinops glaberrimus DC.,Atriplex halimus L.,0
+mobilenet_127,10,3,Echinops glaberrimus DC.,Calotropis procera (Aiton) W.T.Aiton,Echinops glaberrimus DC.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,10,4,Echinops glaberrimus DC.,Capparis spinosa L.,Echinops glaberrimus DC.,Capparis spinosa L.,0
+mobilenet_127,10,5,Echinops glaberrimus DC.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Echinops glaberrimus DC.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,10,6,Echinops glaberrimus DC.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Echinops glaberrimus DC.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,10,7,Echinops glaberrimus DC.,Deverra tortuosa (Desf.) DC.,Echinops glaberrimus DC.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,10,8,Echinops glaberrimus DC.,Deverra triradiata Hochst. ex Boiss.,Echinops glaberrimus DC.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,10,9,Echinops glaberrimus DC.,Diplotaxis harra (Forssk.) Boiss.,Echinops glaberrimus DC.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,10,10,Echinops glaberrimus DC.,Echinops glaberrimus DC.,Echinops glaberrimus DC.,Echinops glaberrimus DC.,203
+mobilenet_127,10,11,Echinops glaberrimus DC.,Ephedra alata Decne.,Echinops glaberrimus DC.,Ephedra alata Decne.,0
+mobilenet_127,10,12,Echinops glaberrimus DC.,Farsetia aegyptia Turra,Echinops glaberrimus DC.,Farsetia aegyptia Turra,1
+mobilenet_127,10,13,Echinops glaberrimus DC.,Gymnocarpos decander Forssk.,Echinops glaberrimus DC.,Gymnocarpos decander Forssk.,0
+mobilenet_127,10,14,Echinops glaberrimus DC.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Echinops glaberrimus DC.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,10,15,Echinops glaberrimus DC.,Heliotropium arbainense Fresen.,Echinops glaberrimus DC.,Heliotropium arbainense Fresen.,0
+mobilenet_127,10,16,Echinops glaberrimus DC.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Echinops glaberrimus DC.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,10,17,Echinops glaberrimus DC.,Limonium pruinosum (L.) Chaz.,Echinops glaberrimus DC.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,10,18,Echinops glaberrimus DC.,Lycium shawii Roem. & Schult.,Echinops glaberrimus DC.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,10,19,Echinops glaberrimus DC.,Nitraria retusa (Forssk.) Asch.,Echinops glaberrimus DC.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,10,20,Echinops glaberrimus DC.,Ochradenus baccatus Delile,Echinops glaberrimus DC.,Ochradenus baccatus Delile,0
+mobilenet_127,10,21,Echinops glaberrimus DC.,Peganum harmala L.,Echinops glaberrimus DC.,Peganum harmala L.,0
+mobilenet_127,10,22,Echinops glaberrimus DC.,Rumex vesicarius L.,Echinops glaberrimus DC.,Rumex vesicarius L.,0
+mobilenet_127,10,23,Echinops glaberrimus DC.,Salsola imbricata Forssk.,Echinops glaberrimus DC.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,10,24,Echinops glaberrimus DC.,Stachys aegyptiaca Pers.,Echinops glaberrimus DC.,Stachys aegyptiaca Pers.,0
+mobilenet_127,10,25,Echinops glaberrimus DC.,Suaeda aegyptiaca (Hasselq.) Zohary,Echinops glaberrimus DC.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,10,26,Echinops glaberrimus DC.,Tamarix nilotica (Ehrenb.) Bunge,Echinops glaberrimus DC.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,10,27,Echinops glaberrimus DC.,Trichodesma africanum (L.) Sm.,Echinops glaberrimus DC.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,10,28,Echinops glaberrimus DC.,Zilla spinosa (L.) Prantl,Echinops glaberrimus DC.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,10,29,Echinops glaberrimus DC.,Zygophyllum arabicum (L.) Christenh. & Byng,Echinops glaberrimus DC.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,10,30,Echinops glaberrimus DC.,Zygophyllum coccineum L.,Echinops glaberrimus DC.,Zygophyllum coccineum L.,0
+mobilenet_127,10,31,Echinops glaberrimus DC.,Zygophyllum molle (Delile) Christenh. & Byng,Echinops glaberrimus DC.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,10,32,Echinops glaberrimus DC.,others,Echinops glaberrimus DC.,others,0
+mobilenet_127,11,0,Ephedra alata Decne.,Anabasis articulata (Forssk.) Moq.,Ephedra alata Decne.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,11,1,Ephedra alata Decne.,Anabasis setifera Moq.,Ephedra alata Decne.,Anabasis setifera Moq.,0
+mobilenet_127,11,2,Ephedra alata Decne.,Atriplex halimus L.,Ephedra alata Decne.,Atriplex halimus L.,0
+mobilenet_127,11,3,Ephedra alata Decne.,Calotropis procera (Aiton) W.T.Aiton,Ephedra alata Decne.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,11,4,Ephedra alata Decne.,Capparis spinosa L.,Ephedra alata Decne.,Capparis spinosa L.,0
+mobilenet_127,11,5,Ephedra alata Decne.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Ephedra alata Decne.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,11,6,Ephedra alata Decne.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Ephedra alata Decne.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,11,7,Ephedra alata Decne.,Deverra tortuosa (Desf.) DC.,Ephedra alata Decne.,Deverra tortuosa (Desf.) DC.,2
+mobilenet_127,11,8,Ephedra alata Decne.,Deverra triradiata Hochst. ex Boiss.,Ephedra alata Decne.,Deverra triradiata Hochst. ex Boiss.,8
+mobilenet_127,11,9,Ephedra alata Decne.,Diplotaxis harra (Forssk.) Boiss.,Ephedra alata Decne.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,11,10,Ephedra alata Decne.,Echinops glaberrimus DC.,Ephedra alata Decne.,Echinops glaberrimus DC.,0
+mobilenet_127,11,11,Ephedra alata Decne.,Ephedra alata Decne.,Ephedra alata Decne.,Ephedra alata Decne.,185
+mobilenet_127,11,12,Ephedra alata Decne.,Farsetia aegyptia Turra,Ephedra alata Decne.,Farsetia aegyptia Turra,0
+mobilenet_127,11,13,Ephedra alata Decne.,Gymnocarpos decander Forssk.,Ephedra alata Decne.,Gymnocarpos decander Forssk.,0
+mobilenet_127,11,14,Ephedra alata Decne.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Ephedra alata Decne.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,11,15,Ephedra alata Decne.,Heliotropium arbainense Fresen.,Ephedra alata Decne.,Heliotropium arbainense Fresen.,0
+mobilenet_127,11,16,Ephedra alata Decne.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Ephedra alata Decne.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,11,17,Ephedra alata Decne.,Limonium pruinosum (L.) Chaz.,Ephedra alata Decne.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,11,18,Ephedra alata Decne.,Lycium shawii Roem. & Schult.,Ephedra alata Decne.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,11,19,Ephedra alata Decne.,Nitraria retusa (Forssk.) Asch.,Ephedra alata Decne.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,11,20,Ephedra alata Decne.,Ochradenus baccatus Delile,Ephedra alata Decne.,Ochradenus baccatus Delile,4
+mobilenet_127,11,21,Ephedra alata Decne.,Peganum harmala L.,Ephedra alata Decne.,Peganum harmala L.,0
+mobilenet_127,11,22,Ephedra alata Decne.,Rumex vesicarius L.,Ephedra alata Decne.,Rumex vesicarius L.,0
+mobilenet_127,11,23,Ephedra alata Decne.,Salsola imbricata Forssk.,Ephedra alata Decne.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,11,24,Ephedra alata Decne.,Stachys aegyptiaca Pers.,Ephedra alata Decne.,Stachys aegyptiaca Pers.,2
+mobilenet_127,11,25,Ephedra alata Decne.,Suaeda aegyptiaca (Hasselq.) Zohary,Ephedra alata Decne.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,11,26,Ephedra alata Decne.,Tamarix nilotica (Ehrenb.) Bunge,Ephedra alata Decne.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,11,27,Ephedra alata Decne.,Trichodesma africanum (L.) Sm.,Ephedra alata Decne.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,11,28,Ephedra alata Decne.,Zilla spinosa (L.) Prantl,Ephedra alata Decne.,Zilla spinosa (L.) Prantl,3
+mobilenet_127,11,29,Ephedra alata Decne.,Zygophyllum arabicum (L.) Christenh. & Byng,Ephedra alata Decne.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,11,30,Ephedra alata Decne.,Zygophyllum coccineum L.,Ephedra alata Decne.,Zygophyllum coccineum L.,0
+mobilenet_127,11,31,Ephedra alata Decne.,Zygophyllum molle (Delile) Christenh. & Byng,Ephedra alata Decne.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,11,32,Ephedra alata Decne.,others,Ephedra alata Decne.,others,0
+mobilenet_127,12,0,Farsetia aegyptia Turra,Anabasis articulata (Forssk.) Moq.,Farsetia aegyptia Turra,Anabasis articulata (Forssk.) Moq.,8
+mobilenet_127,12,1,Farsetia aegyptia Turra,Anabasis setifera Moq.,Farsetia aegyptia Turra,Anabasis setifera Moq.,2
+mobilenet_127,12,2,Farsetia aegyptia Turra,Atriplex halimus L.,Farsetia aegyptia Turra,Atriplex halimus L.,5
+mobilenet_127,12,3,Farsetia aegyptia Turra,Calotropis procera (Aiton) W.T.Aiton,Farsetia aegyptia Turra,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,12,4,Farsetia aegyptia Turra,Capparis spinosa L.,Farsetia aegyptia Turra,Capparis spinosa L.,1
+mobilenet_127,12,5,Farsetia aegyptia Turra,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Farsetia aegyptia Turra,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,12,6,Farsetia aegyptia Turra,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Farsetia aegyptia Turra,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",1
+mobilenet_127,12,7,Farsetia aegyptia Turra,Deverra tortuosa (Desf.) DC.,Farsetia aegyptia Turra,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,12,8,Farsetia aegyptia Turra,Deverra triradiata Hochst. ex Boiss.,Farsetia aegyptia Turra,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,12,9,Farsetia aegyptia Turra,Diplotaxis harra (Forssk.) Boiss.,Farsetia aegyptia Turra,Diplotaxis harra (Forssk.) Boiss.,1
+mobilenet_127,12,10,Farsetia aegyptia Turra,Echinops glaberrimus DC.,Farsetia aegyptia Turra,Echinops glaberrimus DC.,0
+mobilenet_127,12,11,Farsetia aegyptia Turra,Ephedra alata Decne.,Farsetia aegyptia Turra,Ephedra alata Decne.,0
+mobilenet_127,12,12,Farsetia aegyptia Turra,Farsetia aegyptia Turra,Farsetia aegyptia Turra,Farsetia aegyptia Turra,112
+mobilenet_127,12,13,Farsetia aegyptia Turra,Gymnocarpos decander Forssk.,Farsetia aegyptia Turra,Gymnocarpos decander Forssk.,4
+mobilenet_127,12,14,Farsetia aegyptia Turra,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Farsetia aegyptia Turra,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,5
+mobilenet_127,12,15,Farsetia aegyptia Turra,Heliotropium arbainense Fresen.,Farsetia aegyptia Turra,Heliotropium arbainense Fresen.,0
+mobilenet_127,12,16,Farsetia aegyptia Turra,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Farsetia aegyptia Turra,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,12,17,Farsetia aegyptia Turra,Limonium pruinosum (L.) Chaz.,Farsetia aegyptia Turra,Limonium pruinosum (L.) Chaz.,2
+mobilenet_127,12,18,Farsetia aegyptia Turra,Lycium shawii Roem. & Schult.,Farsetia aegyptia Turra,Lycium shawii Roem. & Schult.,0
+mobilenet_127,12,19,Farsetia aegyptia Turra,Nitraria retusa (Forssk.) Asch.,Farsetia aegyptia Turra,Nitraria retusa (Forssk.) Asch.,1
+mobilenet_127,12,20,Farsetia aegyptia Turra,Ochradenus baccatus Delile,Farsetia aegyptia Turra,Ochradenus baccatus Delile,1
+mobilenet_127,12,21,Farsetia aegyptia Turra,Peganum harmala L.,Farsetia aegyptia Turra,Peganum harmala L.,0
+mobilenet_127,12,22,Farsetia aegyptia Turra,Rumex vesicarius L.,Farsetia aegyptia Turra,Rumex vesicarius L.,0
+mobilenet_127,12,23,Farsetia aegyptia Turra,Salsola imbricata Forssk.,Farsetia aegyptia Turra,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,12,24,Farsetia aegyptia Turra,Stachys aegyptiaca Pers.,Farsetia aegyptia Turra,Stachys aegyptiaca Pers.,7
+mobilenet_127,12,25,Farsetia aegyptia Turra,Suaeda aegyptiaca (Hasselq.) Zohary,Farsetia aegyptia Turra,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,12,26,Farsetia aegyptia Turra,Tamarix nilotica (Ehrenb.) Bunge,Farsetia aegyptia Turra,Tamarix nilotica (Ehrenb.) Bunge,1
+mobilenet_127,12,27,Farsetia aegyptia Turra,Trichodesma africanum (L.) Sm.,Farsetia aegyptia Turra,Trichodesma africanum (L.) Sm.,29
+mobilenet_127,12,28,Farsetia aegyptia Turra,Zilla spinosa (L.) Prantl,Farsetia aegyptia Turra,Zilla spinosa (L.) Prantl,4
+mobilenet_127,12,29,Farsetia aegyptia Turra,Zygophyllum arabicum (L.) Christenh. & Byng,Farsetia aegyptia Turra,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,12,30,Farsetia aegyptia Turra,Zygophyllum coccineum L.,Farsetia aegyptia Turra,Zygophyllum coccineum L.,0
+mobilenet_127,12,31,Farsetia aegyptia Turra,Zygophyllum molle (Delile) Christenh. & Byng,Farsetia aegyptia Turra,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,12,32,Farsetia aegyptia Turra,others,Farsetia aegyptia Turra,others,1
+mobilenet_127,13,0,Gymnocarpos decander Forssk.,Anabasis articulata (Forssk.) Moq.,Gymnocarpos decander Forssk.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,13,1,Gymnocarpos decander Forssk.,Anabasis setifera Moq.,Gymnocarpos decander Forssk.,Anabasis setifera Moq.,1
+mobilenet_127,13,2,Gymnocarpos decander Forssk.,Atriplex halimus L.,Gymnocarpos decander Forssk.,Atriplex halimus L.,0
+mobilenet_127,13,3,Gymnocarpos decander Forssk.,Calotropis procera (Aiton) W.T.Aiton,Gymnocarpos decander Forssk.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,13,4,Gymnocarpos decander Forssk.,Capparis spinosa L.,Gymnocarpos decander Forssk.,Capparis spinosa L.,1
+mobilenet_127,13,5,Gymnocarpos decander Forssk.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Gymnocarpos decander Forssk.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,13,6,Gymnocarpos decander Forssk.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Gymnocarpos decander Forssk.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,13,7,Gymnocarpos decander Forssk.,Deverra tortuosa (Desf.) DC.,Gymnocarpos decander Forssk.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,13,8,Gymnocarpos decander Forssk.,Deverra triradiata Hochst. ex Boiss.,Gymnocarpos decander Forssk.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,13,9,Gymnocarpos decander Forssk.,Diplotaxis harra (Forssk.) Boiss.,Gymnocarpos decander Forssk.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,13,10,Gymnocarpos decander Forssk.,Echinops glaberrimus DC.,Gymnocarpos decander Forssk.,Echinops glaberrimus DC.,0
+mobilenet_127,13,11,Gymnocarpos decander Forssk.,Ephedra alata Decne.,Gymnocarpos decander Forssk.,Ephedra alata Decne.,0
+mobilenet_127,13,12,Gymnocarpos decander Forssk.,Farsetia aegyptia Turra,Gymnocarpos decander Forssk.,Farsetia aegyptia Turra,0
+mobilenet_127,13,13,Gymnocarpos decander Forssk.,Gymnocarpos decander Forssk.,Gymnocarpos decander Forssk.,Gymnocarpos decander Forssk.,118
+mobilenet_127,13,14,Gymnocarpos decander Forssk.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Gymnocarpos decander Forssk.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,13,15,Gymnocarpos decander Forssk.,Heliotropium arbainense Fresen.,Gymnocarpos decander Forssk.,Heliotropium arbainense Fresen.,8
+mobilenet_127,13,16,Gymnocarpos decander Forssk.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Gymnocarpos decander Forssk.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,13,17,Gymnocarpos decander Forssk.,Limonium pruinosum (L.) Chaz.,Gymnocarpos decander Forssk.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,13,18,Gymnocarpos decander Forssk.,Lycium shawii Roem. & Schult.,Gymnocarpos decander Forssk.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,13,19,Gymnocarpos decander Forssk.,Nitraria retusa (Forssk.) Asch.,Gymnocarpos decander Forssk.,Nitraria retusa (Forssk.) Asch.,1
+mobilenet_127,13,20,Gymnocarpos decander Forssk.,Ochradenus baccatus Delile,Gymnocarpos decander Forssk.,Ochradenus baccatus Delile,0
+mobilenet_127,13,21,Gymnocarpos decander Forssk.,Peganum harmala L.,Gymnocarpos decander Forssk.,Peganum harmala L.,0
+mobilenet_127,13,22,Gymnocarpos decander Forssk.,Rumex vesicarius L.,Gymnocarpos decander Forssk.,Rumex vesicarius L.,0
+mobilenet_127,13,23,Gymnocarpos decander Forssk.,Salsola imbricata Forssk.,Gymnocarpos decander Forssk.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,13,24,Gymnocarpos decander Forssk.,Stachys aegyptiaca Pers.,Gymnocarpos decander Forssk.,Stachys aegyptiaca Pers.,0
+mobilenet_127,13,25,Gymnocarpos decander Forssk.,Suaeda aegyptiaca (Hasselq.) Zohary,Gymnocarpos decander Forssk.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,13,26,Gymnocarpos decander Forssk.,Tamarix nilotica (Ehrenb.) Bunge,Gymnocarpos decander Forssk.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,13,27,Gymnocarpos decander Forssk.,Trichodesma africanum (L.) Sm.,Gymnocarpos decander Forssk.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,13,28,Gymnocarpos decander Forssk.,Zilla spinosa (L.) Prantl,Gymnocarpos decander Forssk.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,13,29,Gymnocarpos decander Forssk.,Zygophyllum arabicum (L.) Christenh. & Byng,Gymnocarpos decander Forssk.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,13,30,Gymnocarpos decander Forssk.,Zygophyllum coccineum L.,Gymnocarpos decander Forssk.,Zygophyllum coccineum L.,0
+mobilenet_127,13,31,Gymnocarpos decander Forssk.,Zygophyllum molle (Delile) Christenh. & Byng,Gymnocarpos decander Forssk.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,13,32,Gymnocarpos decander Forssk.,others,Gymnocarpos decander Forssk.,others,0
+mobilenet_127,14,0,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Anabasis articulata (Forssk.) Moq.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Anabasis articulata (Forssk.) Moq.,12
+mobilenet_127,14,1,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Anabasis setifera Moq.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Anabasis setifera Moq.,3
+mobilenet_127,14,2,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Atriplex halimus L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Atriplex halimus L.,0
+mobilenet_127,14,3,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Calotropis procera (Aiton) W.T.Aiton,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,14,4,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Capparis spinosa L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Capparis spinosa L.,0
+mobilenet_127,14,5,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,14,6,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Haloxylon salicornicum (Moq.) Bunge ex Boiss.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,14,7,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Deverra tortuosa (Desf.) DC.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Deverra tortuosa (Desf.) DC.,2
+mobilenet_127,14,8,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Deverra triradiata Hochst. ex Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,14,9,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Diplotaxis harra (Forssk.) Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,14,10,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Echinops glaberrimus DC.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Echinops glaberrimus DC.,1
+mobilenet_127,14,11,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Ephedra alata Decne.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Ephedra alata Decne.,0
+mobilenet_127,14,12,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Farsetia aegyptia Turra,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Farsetia aegyptia Turra,0
+mobilenet_127,14,13,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Gymnocarpos decander Forssk.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Gymnocarpos decander Forssk.,0
+mobilenet_127,14,14,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,152
+mobilenet_127,14,15,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Heliotropium arbainense Fresen.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Heliotropium arbainense Fresen.,0
+mobilenet_127,14,16,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,14,17,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Limonium pruinosum (L.) Chaz.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,14,18,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Lycium shawii Roem. & Schult.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,14,19,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Nitraria retusa (Forssk.) Asch.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,14,20,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Ochradenus baccatus Delile,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Ochradenus baccatus Delile,0
+mobilenet_127,14,21,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Peganum harmala L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Peganum harmala L.,0
+mobilenet_127,14,22,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Rumex vesicarius L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Rumex vesicarius L.,0
+mobilenet_127,14,23,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Salsola imbricata Forssk.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,14,24,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Stachys aegyptiaca Pers.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Stachys aegyptiaca Pers.,0
+mobilenet_127,14,25,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,14,26,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Tamarix nilotica (Ehrenb.) Bunge,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,14,27,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Trichodesma africanum (L.) Sm.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,14,28,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zilla spinosa (L.) Prantl,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,14,29,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,14,30,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum coccineum L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum coccineum L.,0
+mobilenet_127,14,31,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,14,32,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,others,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,others,0
+mobilenet_127,15,0,Heliotropium arbainense Fresen.,Anabasis articulata (Forssk.) Moq.,Heliotropium arbainense Fresen.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,15,1,Heliotropium arbainense Fresen.,Anabasis setifera Moq.,Heliotropium arbainense Fresen.,Anabasis setifera Moq.,2
+mobilenet_127,15,2,Heliotropium arbainense Fresen.,Atriplex halimus L.,Heliotropium arbainense Fresen.,Atriplex halimus L.,0
+mobilenet_127,15,3,Heliotropium arbainense Fresen.,Calotropis procera (Aiton) W.T.Aiton,Heliotropium arbainense Fresen.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,15,4,Heliotropium arbainense Fresen.,Capparis spinosa L.,Heliotropium arbainense Fresen.,Capparis spinosa L.,0
+mobilenet_127,15,5,Heliotropium arbainense Fresen.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Heliotropium arbainense Fresen.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,15,6,Heliotropium arbainense Fresen.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Heliotropium arbainense Fresen.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,15,7,Heliotropium arbainense Fresen.,Deverra tortuosa (Desf.) DC.,Heliotropium arbainense Fresen.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,15,8,Heliotropium arbainense Fresen.,Deverra triradiata Hochst. ex Boiss.,Heliotropium arbainense Fresen.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,15,9,Heliotropium arbainense Fresen.,Diplotaxis harra (Forssk.) Boiss.,Heliotropium arbainense Fresen.,Diplotaxis harra (Forssk.) Boiss.,16
+mobilenet_127,15,10,Heliotropium arbainense Fresen.,Echinops glaberrimus DC.,Heliotropium arbainense Fresen.,Echinops glaberrimus DC.,0
+mobilenet_127,15,11,Heliotropium arbainense Fresen.,Ephedra alata Decne.,Heliotropium arbainense Fresen.,Ephedra alata Decne.,0
+mobilenet_127,15,12,Heliotropium arbainense Fresen.,Farsetia aegyptia Turra,Heliotropium arbainense Fresen.,Farsetia aegyptia Turra,0
+mobilenet_127,15,13,Heliotropium arbainense Fresen.,Gymnocarpos decander Forssk.,Heliotropium arbainense Fresen.,Gymnocarpos decander Forssk.,3
+mobilenet_127,15,14,Heliotropium arbainense Fresen.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Heliotropium arbainense Fresen.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,15,15,Heliotropium arbainense Fresen.,Heliotropium arbainense Fresen.,Heliotropium arbainense Fresen.,Heliotropium arbainense Fresen.,180
+mobilenet_127,15,16,Heliotropium arbainense Fresen.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Heliotropium arbainense Fresen.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,15,17,Heliotropium arbainense Fresen.,Limonium pruinosum (L.) Chaz.,Heliotropium arbainense Fresen.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,15,18,Heliotropium arbainense Fresen.,Lycium shawii Roem. & Schult.,Heliotropium arbainense Fresen.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,15,19,Heliotropium arbainense Fresen.,Nitraria retusa (Forssk.) Asch.,Heliotropium arbainense Fresen.,Nitraria retusa (Forssk.) Asch.,1
+mobilenet_127,15,20,Heliotropium arbainense Fresen.,Ochradenus baccatus Delile,Heliotropium arbainense Fresen.,Ochradenus baccatus Delile,0
+mobilenet_127,15,21,Heliotropium arbainense Fresen.,Peganum harmala L.,Heliotropium arbainense Fresen.,Peganum harmala L.,0
+mobilenet_127,15,22,Heliotropium arbainense Fresen.,Rumex vesicarius L.,Heliotropium arbainense Fresen.,Rumex vesicarius L.,0
+mobilenet_127,15,23,Heliotropium arbainense Fresen.,Salsola imbricata Forssk.,Heliotropium arbainense Fresen.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,15,24,Heliotropium arbainense Fresen.,Stachys aegyptiaca Pers.,Heliotropium arbainense Fresen.,Stachys aegyptiaca Pers.,0
+mobilenet_127,15,25,Heliotropium arbainense Fresen.,Suaeda aegyptiaca (Hasselq.) Zohary,Heliotropium arbainense Fresen.,Suaeda aegyptiaca (Hasselq.) Zohary,4
+mobilenet_127,15,26,Heliotropium arbainense Fresen.,Tamarix nilotica (Ehrenb.) Bunge,Heliotropium arbainense Fresen.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,15,27,Heliotropium arbainense Fresen.,Trichodesma africanum (L.) Sm.,Heliotropium arbainense Fresen.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,15,28,Heliotropium arbainense Fresen.,Zilla spinosa (L.) Prantl,Heliotropium arbainense Fresen.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,15,29,Heliotropium arbainense Fresen.,Zygophyllum arabicum (L.) Christenh. & Byng,Heliotropium arbainense Fresen.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,15,30,Heliotropium arbainense Fresen.,Zygophyllum coccineum L.,Heliotropium arbainense Fresen.,Zygophyllum coccineum L.,0
+mobilenet_127,15,31,Heliotropium arbainense Fresen.,Zygophyllum molle (Delile) Christenh. & Byng,Heliotropium arbainense Fresen.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,15,32,Heliotropium arbainense Fresen.,others,Heliotropium arbainense Fresen.,others,0
+mobilenet_127,16,0,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Anabasis articulata (Forssk.) Moq.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,16,1,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Anabasis setifera Moq.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Anabasis setifera Moq.,0
+mobilenet_127,16,2,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Atriplex halimus L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Atriplex halimus L.,0
+mobilenet_127,16,3,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Calotropis procera (Aiton) W.T.Aiton,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,16,4,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Capparis spinosa L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Capparis spinosa L.,0
+mobilenet_127,16,5,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,16,6,Iphiona mucronata (Forssk.) Asch. & Schweinf.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Iphiona mucronata (Forssk.) Asch. & Schweinf.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,16,7,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Deverra tortuosa (Desf.) DC.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,16,8,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Deverra triradiata Hochst. ex Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,16,9,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Diplotaxis harra (Forssk.) Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,16,10,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Echinops glaberrimus DC.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Echinops glaberrimus DC.,0
+mobilenet_127,16,11,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Ephedra alata Decne.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Ephedra alata Decne.,0
+mobilenet_127,16,12,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Farsetia aegyptia Turra,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Farsetia aegyptia Turra,0
+mobilenet_127,16,13,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Gymnocarpos decander Forssk.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Gymnocarpos decander Forssk.,0
+mobilenet_127,16,14,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,16,15,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Heliotropium arbainense Fresen.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Heliotropium arbainense Fresen.,0
+mobilenet_127,16,16,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,29
+mobilenet_127,16,17,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Limonium pruinosum (L.) Chaz.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,16,18,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Lycium shawii Roem. & Schult.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,16,19,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Nitraria retusa (Forssk.) Asch.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,16,20,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Ochradenus baccatus Delile,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Ochradenus baccatus Delile,0
+mobilenet_127,16,21,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Peganum harmala L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Peganum harmala L.,0
+mobilenet_127,16,22,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Rumex vesicarius L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Rumex vesicarius L.,0
+mobilenet_127,16,23,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Salsola imbricata Forssk.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,16,24,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Stachys aegyptiaca Pers.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Stachys aegyptiaca Pers.,0
+mobilenet_127,16,25,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Suaeda aegyptiaca (Hasselq.) Zohary,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,16,26,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Tamarix nilotica (Ehrenb.) Bunge,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,16,27,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Trichodesma africanum (L.) Sm.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,16,28,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zilla spinosa (L.) Prantl,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,16,29,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum arabicum (L.) Christenh. & Byng,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,16,30,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum coccineum L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum coccineum L.,0
+mobilenet_127,16,31,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum molle (Delile) Christenh. & Byng,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,16,32,Iphiona mucronata (Forssk.) Asch. & Schweinf.,others,Iphiona mucronata (Forssk.) Asch. & Schweinf.,others,0
+mobilenet_127,17,0,Limonium pruinosum (L.) Chaz.,Anabasis articulata (Forssk.) Moq.,Limonium pruinosum (L.) Chaz.,Anabasis articulata (Forssk.) Moq.,2
+mobilenet_127,17,1,Limonium pruinosum (L.) Chaz.,Anabasis setifera Moq.,Limonium pruinosum (L.) Chaz.,Anabasis setifera Moq.,0
+mobilenet_127,17,2,Limonium pruinosum (L.) Chaz.,Atriplex halimus L.,Limonium pruinosum (L.) Chaz.,Atriplex halimus L.,12
+mobilenet_127,17,3,Limonium pruinosum (L.) Chaz.,Calotropis procera (Aiton) W.T.Aiton,Limonium pruinosum (L.) Chaz.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,17,4,Limonium pruinosum (L.) Chaz.,Capparis spinosa L.,Limonium pruinosum (L.) Chaz.,Capparis spinosa L.,0
+mobilenet_127,17,5,Limonium pruinosum (L.) Chaz.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Limonium pruinosum (L.) Chaz.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,17,6,Limonium pruinosum (L.) Chaz.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Limonium pruinosum (L.) Chaz.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,17,7,Limonium pruinosum (L.) Chaz.,Deverra tortuosa (Desf.) DC.,Limonium pruinosum (L.) Chaz.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,17,8,Limonium pruinosum (L.) Chaz.,Deverra triradiata Hochst. ex Boiss.,Limonium pruinosum (L.) Chaz.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,17,9,Limonium pruinosum (L.) Chaz.,Diplotaxis harra (Forssk.) Boiss.,Limonium pruinosum (L.) Chaz.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,17,10,Limonium pruinosum (L.) Chaz.,Echinops glaberrimus DC.,Limonium pruinosum (L.) Chaz.,Echinops glaberrimus DC.,0
+mobilenet_127,17,11,Limonium pruinosum (L.) Chaz.,Ephedra alata Decne.,Limonium pruinosum (L.) Chaz.,Ephedra alata Decne.,0
+mobilenet_127,17,12,Limonium pruinosum (L.) Chaz.,Farsetia aegyptia Turra,Limonium pruinosum (L.) Chaz.,Farsetia aegyptia Turra,4
+mobilenet_127,17,13,Limonium pruinosum (L.) Chaz.,Gymnocarpos decander Forssk.,Limonium pruinosum (L.) Chaz.,Gymnocarpos decander Forssk.,1
+mobilenet_127,17,14,Limonium pruinosum (L.) Chaz.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Limonium pruinosum (L.) Chaz.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,2
+mobilenet_127,17,15,Limonium pruinosum (L.) Chaz.,Heliotropium arbainense Fresen.,Limonium pruinosum (L.) Chaz.,Heliotropium arbainense Fresen.,0
+mobilenet_127,17,16,Limonium pruinosum (L.) Chaz.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Limonium pruinosum (L.) Chaz.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,1
+mobilenet_127,17,17,Limonium pruinosum (L.) Chaz.,Limonium pruinosum (L.) Chaz.,Limonium pruinosum (L.) Chaz.,Limonium pruinosum (L.) Chaz.,65
+mobilenet_127,17,18,Limonium pruinosum (L.) Chaz.,Lycium shawii Roem. & Schult.,Limonium pruinosum (L.) Chaz.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,17,19,Limonium pruinosum (L.) Chaz.,Nitraria retusa (Forssk.) Asch.,Limonium pruinosum (L.) Chaz.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,17,20,Limonium pruinosum (L.) Chaz.,Ochradenus baccatus Delile,Limonium pruinosum (L.) Chaz.,Ochradenus baccatus Delile,0
+mobilenet_127,17,21,Limonium pruinosum (L.) Chaz.,Peganum harmala L.,Limonium pruinosum (L.) Chaz.,Peganum harmala L.,0
+mobilenet_127,17,22,Limonium pruinosum (L.) Chaz.,Rumex vesicarius L.,Limonium pruinosum (L.) Chaz.,Rumex vesicarius L.,0
+mobilenet_127,17,23,Limonium pruinosum (L.) Chaz.,Salsola imbricata Forssk.,Limonium pruinosum (L.) Chaz.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,17,24,Limonium pruinosum (L.) Chaz.,Stachys aegyptiaca Pers.,Limonium pruinosum (L.) Chaz.,Stachys aegyptiaca Pers.,0
+mobilenet_127,17,25,Limonium pruinosum (L.) Chaz.,Suaeda aegyptiaca (Hasselq.) Zohary,Limonium pruinosum (L.) Chaz.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,17,26,Limonium pruinosum (L.) Chaz.,Tamarix nilotica (Ehrenb.) Bunge,Limonium pruinosum (L.) Chaz.,Tamarix nilotica (Ehrenb.) Bunge,2
+mobilenet_127,17,27,Limonium pruinosum (L.) Chaz.,Trichodesma africanum (L.) Sm.,Limonium pruinosum (L.) Chaz.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,17,28,Limonium pruinosum (L.) Chaz.,Zilla spinosa (L.) Prantl,Limonium pruinosum (L.) Chaz.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,17,29,Limonium pruinosum (L.) Chaz.,Zygophyllum arabicum (L.) Christenh. & Byng,Limonium pruinosum (L.) Chaz.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,17,30,Limonium pruinosum (L.) Chaz.,Zygophyllum coccineum L.,Limonium pruinosum (L.) Chaz.,Zygophyllum coccineum L.,0
+mobilenet_127,17,31,Limonium pruinosum (L.) Chaz.,Zygophyllum molle (Delile) Christenh. & Byng,Limonium pruinosum (L.) Chaz.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,17,32,Limonium pruinosum (L.) Chaz.,others,Limonium pruinosum (L.) Chaz.,others,0
+mobilenet_127,18,0,Lycium shawii Roem. & Schult.,Anabasis articulata (Forssk.) Moq.,Lycium shawii Roem. & Schult.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,18,1,Lycium shawii Roem. & Schult.,Anabasis setifera Moq.,Lycium shawii Roem. & Schult.,Anabasis setifera Moq.,1
+mobilenet_127,18,2,Lycium shawii Roem. & Schult.,Atriplex halimus L.,Lycium shawii Roem. & Schult.,Atriplex halimus L.,6
+mobilenet_127,18,3,Lycium shawii Roem. & Schult.,Calotropis procera (Aiton) W.T.Aiton,Lycium shawii Roem. & Schult.,Calotropis procera (Aiton) W.T.Aiton,1
+mobilenet_127,18,4,Lycium shawii Roem. & Schult.,Capparis spinosa L.,Lycium shawii Roem. & Schult.,Capparis spinosa L.,3
+mobilenet_127,18,5,Lycium shawii Roem. & Schult.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Lycium shawii Roem. & Schult.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,18,6,Lycium shawii Roem. & Schult.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Lycium shawii Roem. & Schult.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,18,7,Lycium shawii Roem. & Schult.,Deverra tortuosa (Desf.) DC.,Lycium shawii Roem. & Schult.,Deverra tortuosa (Desf.) DC.,2
+mobilenet_127,18,8,Lycium shawii Roem. & Schult.,Deverra triradiata Hochst. ex Boiss.,Lycium shawii Roem. & Schult.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,18,9,Lycium shawii Roem. & Schult.,Diplotaxis harra (Forssk.) Boiss.,Lycium shawii Roem. & Schult.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,18,10,Lycium shawii Roem. & Schult.,Echinops glaberrimus DC.,Lycium shawii Roem. & Schult.,Echinops glaberrimus DC.,7
+mobilenet_127,18,11,Lycium shawii Roem. & Schult.,Ephedra alata Decne.,Lycium shawii Roem. & Schult.,Ephedra alata Decne.,5
+mobilenet_127,18,12,Lycium shawii Roem. & Schult.,Farsetia aegyptia Turra,Lycium shawii Roem. & Schult.,Farsetia aegyptia Turra,0
+mobilenet_127,18,13,Lycium shawii Roem. & Schult.,Gymnocarpos decander Forssk.,Lycium shawii Roem. & Schult.,Gymnocarpos decander Forssk.,9
+mobilenet_127,18,14,Lycium shawii Roem. & Schult.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Lycium shawii Roem. & Schult.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,18,15,Lycium shawii Roem. & Schult.,Heliotropium arbainense Fresen.,Lycium shawii Roem. & Schult.,Heliotropium arbainense Fresen.,1
+mobilenet_127,18,16,Lycium shawii Roem. & Schult.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Lycium shawii Roem. & Schult.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,1
+mobilenet_127,18,17,Lycium shawii Roem. & Schult.,Limonium pruinosum (L.) Chaz.,Lycium shawii Roem. & Schult.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,18,18,Lycium shawii Roem. & Schult.,Lycium shawii Roem. & Schult.,Lycium shawii Roem. & Schult.,Lycium shawii Roem. & Schult.,182
+mobilenet_127,18,19,Lycium shawii Roem. & Schult.,Nitraria retusa (Forssk.) Asch.,Lycium shawii Roem. & Schult.,Nitraria retusa (Forssk.) Asch.,39
+mobilenet_127,18,20,Lycium shawii Roem. & Schult.,Ochradenus baccatus Delile,Lycium shawii Roem. & Schult.,Ochradenus baccatus Delile,2
+mobilenet_127,18,21,Lycium shawii Roem. & Schult.,Peganum harmala L.,Lycium shawii Roem. & Schult.,Peganum harmala L.,0
+mobilenet_127,18,22,Lycium shawii Roem. & Schult.,Rumex vesicarius L.,Lycium shawii Roem. & Schult.,Rumex vesicarius L.,0
+mobilenet_127,18,23,Lycium shawii Roem. & Schult.,Salsola imbricata Forssk.,Lycium shawii Roem. & Schult.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,18,24,Lycium shawii Roem. & Schult.,Stachys aegyptiaca Pers.,Lycium shawii Roem. & Schult.,Stachys aegyptiaca Pers.,0
+mobilenet_127,18,25,Lycium shawii Roem. & Schult.,Suaeda aegyptiaca (Hasselq.) Zohary,Lycium shawii Roem. & Schult.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,18,26,Lycium shawii Roem. & Schult.,Tamarix nilotica (Ehrenb.) Bunge,Lycium shawii Roem. & Schult.,Tamarix nilotica (Ehrenb.) Bunge,15
+mobilenet_127,18,27,Lycium shawii Roem. & Schult.,Trichodesma africanum (L.) Sm.,Lycium shawii Roem. & Schult.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,18,28,Lycium shawii Roem. & Schult.,Zilla spinosa (L.) Prantl,Lycium shawii Roem. & Schult.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,18,29,Lycium shawii Roem. & Schult.,Zygophyllum arabicum (L.) Christenh. & Byng,Lycium shawii Roem. & Schult.,Zygophyllum arabicum (L.) Christenh. & Byng,1
+mobilenet_127,18,30,Lycium shawii Roem. & Schult.,Zygophyllum coccineum L.,Lycium shawii Roem. & Schult.,Zygophyllum coccineum L.,4
+mobilenet_127,18,31,Lycium shawii Roem. & Schult.,Zygophyllum molle (Delile) Christenh. & Byng,Lycium shawii Roem. & Schult.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,18,32,Lycium shawii Roem. & Schult.,others,Lycium shawii Roem. & Schult.,others,1
+mobilenet_127,19,0,Nitraria retusa (Forssk.) Asch.,Anabasis articulata (Forssk.) Moq.,Nitraria retusa (Forssk.) Asch.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,19,1,Nitraria retusa (Forssk.) Asch.,Anabasis setifera Moq.,Nitraria retusa (Forssk.) Asch.,Anabasis setifera Moq.,0
+mobilenet_127,19,2,Nitraria retusa (Forssk.) Asch.,Atriplex halimus L.,Nitraria retusa (Forssk.) Asch.,Atriplex halimus L.,46
+mobilenet_127,19,3,Nitraria retusa (Forssk.) Asch.,Calotropis procera (Aiton) W.T.Aiton,Nitraria retusa (Forssk.) Asch.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,19,4,Nitraria retusa (Forssk.) Asch.,Capparis spinosa L.,Nitraria retusa (Forssk.) Asch.,Capparis spinosa L.,0
+mobilenet_127,19,5,Nitraria retusa (Forssk.) Asch.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Nitraria retusa (Forssk.) Asch.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,19,6,Nitraria retusa (Forssk.) Asch.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Nitraria retusa (Forssk.) Asch.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,19,7,Nitraria retusa (Forssk.) Asch.,Deverra tortuosa (Desf.) DC.,Nitraria retusa (Forssk.) Asch.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,19,8,Nitraria retusa (Forssk.) Asch.,Deverra triradiata Hochst. ex Boiss.,Nitraria retusa (Forssk.) Asch.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,19,9,Nitraria retusa (Forssk.) Asch.,Diplotaxis harra (Forssk.) Boiss.,Nitraria retusa (Forssk.) Asch.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,19,10,Nitraria retusa (Forssk.) Asch.,Echinops glaberrimus DC.,Nitraria retusa (Forssk.) Asch.,Echinops glaberrimus DC.,0
+mobilenet_127,19,11,Nitraria retusa (Forssk.) Asch.,Ephedra alata Decne.,Nitraria retusa (Forssk.) Asch.,Ephedra alata Decne.,0
+mobilenet_127,19,12,Nitraria retusa (Forssk.) Asch.,Farsetia aegyptia Turra,Nitraria retusa (Forssk.) Asch.,Farsetia aegyptia Turra,2
+mobilenet_127,19,13,Nitraria retusa (Forssk.) Asch.,Gymnocarpos decander Forssk.,Nitraria retusa (Forssk.) Asch.,Gymnocarpos decander Forssk.,1
+mobilenet_127,19,14,Nitraria retusa (Forssk.) Asch.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Nitraria retusa (Forssk.) Asch.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,19,15,Nitraria retusa (Forssk.) Asch.,Heliotropium arbainense Fresen.,Nitraria retusa (Forssk.) Asch.,Heliotropium arbainense Fresen.,0
+mobilenet_127,19,16,Nitraria retusa (Forssk.) Asch.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Nitraria retusa (Forssk.) Asch.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,19,17,Nitraria retusa (Forssk.) Asch.,Limonium pruinosum (L.) Chaz.,Nitraria retusa (Forssk.) Asch.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,19,18,Nitraria retusa (Forssk.) Asch.,Lycium shawii Roem. & Schult.,Nitraria retusa (Forssk.) Asch.,Lycium shawii Roem. & Schult.,1
+mobilenet_127,19,19,Nitraria retusa (Forssk.) Asch.,Nitraria retusa (Forssk.) Asch.,Nitraria retusa (Forssk.) Asch.,Nitraria retusa (Forssk.) Asch.,262
+mobilenet_127,19,20,Nitraria retusa (Forssk.) Asch.,Ochradenus baccatus Delile,Nitraria retusa (Forssk.) Asch.,Ochradenus baccatus Delile,0
+mobilenet_127,19,21,Nitraria retusa (Forssk.) Asch.,Peganum harmala L.,Nitraria retusa (Forssk.) Asch.,Peganum harmala L.,0
+mobilenet_127,19,22,Nitraria retusa (Forssk.) Asch.,Rumex vesicarius L.,Nitraria retusa (Forssk.) Asch.,Rumex vesicarius L.,0
+mobilenet_127,19,23,Nitraria retusa (Forssk.) Asch.,Salsola imbricata Forssk.,Nitraria retusa (Forssk.) Asch.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,19,24,Nitraria retusa (Forssk.) Asch.,Stachys aegyptiaca Pers.,Nitraria retusa (Forssk.) Asch.,Stachys aegyptiaca Pers.,0
+mobilenet_127,19,25,Nitraria retusa (Forssk.) Asch.,Suaeda aegyptiaca (Hasselq.) Zohary,Nitraria retusa (Forssk.) Asch.,Suaeda aegyptiaca (Hasselq.) Zohary,2
+mobilenet_127,19,26,Nitraria retusa (Forssk.) Asch.,Tamarix nilotica (Ehrenb.) Bunge,Nitraria retusa (Forssk.) Asch.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,19,27,Nitraria retusa (Forssk.) Asch.,Trichodesma africanum (L.) Sm.,Nitraria retusa (Forssk.) Asch.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,19,28,Nitraria retusa (Forssk.) Asch.,Zilla spinosa (L.) Prantl,Nitraria retusa (Forssk.) Asch.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,19,29,Nitraria retusa (Forssk.) Asch.,Zygophyllum arabicum (L.) Christenh. & Byng,Nitraria retusa (Forssk.) Asch.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,19,30,Nitraria retusa (Forssk.) Asch.,Zygophyllum coccineum L.,Nitraria retusa (Forssk.) Asch.,Zygophyllum coccineum L.,0
+mobilenet_127,19,31,Nitraria retusa (Forssk.) Asch.,Zygophyllum molle (Delile) Christenh. & Byng,Nitraria retusa (Forssk.) Asch.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,19,32,Nitraria retusa (Forssk.) Asch.,others,Nitraria retusa (Forssk.) Asch.,others,0
+mobilenet_127,20,0,Ochradenus baccatus Delile,Anabasis articulata (Forssk.) Moq.,Ochradenus baccatus Delile,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,20,1,Ochradenus baccatus Delile,Anabasis setifera Moq.,Ochradenus baccatus Delile,Anabasis setifera Moq.,8
+mobilenet_127,20,2,Ochradenus baccatus Delile,Atriplex halimus L.,Ochradenus baccatus Delile,Atriplex halimus L.,0
+mobilenet_127,20,3,Ochradenus baccatus Delile,Calotropis procera (Aiton) W.T.Aiton,Ochradenus baccatus Delile,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,20,4,Ochradenus baccatus Delile,Capparis spinosa L.,Ochradenus baccatus Delile,Capparis spinosa L.,0
+mobilenet_127,20,5,Ochradenus baccatus Delile,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Ochradenus baccatus Delile,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,20,6,Ochradenus baccatus Delile,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Ochradenus baccatus Delile,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,20,7,Ochradenus baccatus Delile,Deverra tortuosa (Desf.) DC.,Ochradenus baccatus Delile,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,20,8,Ochradenus baccatus Delile,Deverra triradiata Hochst. ex Boiss.,Ochradenus baccatus Delile,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,20,9,Ochradenus baccatus Delile,Diplotaxis harra (Forssk.) Boiss.,Ochradenus baccatus Delile,Diplotaxis harra (Forssk.) Boiss.,3
+mobilenet_127,20,10,Ochradenus baccatus Delile,Echinops glaberrimus DC.,Ochradenus baccatus Delile,Echinops glaberrimus DC.,0
+mobilenet_127,20,11,Ochradenus baccatus Delile,Ephedra alata Decne.,Ochradenus baccatus Delile,Ephedra alata Decne.,2
+mobilenet_127,20,12,Ochradenus baccatus Delile,Farsetia aegyptia Turra,Ochradenus baccatus Delile,Farsetia aegyptia Turra,1
+mobilenet_127,20,13,Ochradenus baccatus Delile,Gymnocarpos decander Forssk.,Ochradenus baccatus Delile,Gymnocarpos decander Forssk.,0
+mobilenet_127,20,14,Ochradenus baccatus Delile,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Ochradenus baccatus Delile,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,1
+mobilenet_127,20,15,Ochradenus baccatus Delile,Heliotropium arbainense Fresen.,Ochradenus baccatus Delile,Heliotropium arbainense Fresen.,1
+mobilenet_127,20,16,Ochradenus baccatus Delile,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Ochradenus baccatus Delile,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,20,17,Ochradenus baccatus Delile,Limonium pruinosum (L.) Chaz.,Ochradenus baccatus Delile,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,20,18,Ochradenus baccatus Delile,Lycium shawii Roem. & Schult.,Ochradenus baccatus Delile,Lycium shawii Roem. & Schult.,1
+mobilenet_127,20,19,Ochradenus baccatus Delile,Nitraria retusa (Forssk.) Asch.,Ochradenus baccatus Delile,Nitraria retusa (Forssk.) Asch.,1
+mobilenet_127,20,20,Ochradenus baccatus Delile,Ochradenus baccatus Delile,Ochradenus baccatus Delile,Ochradenus baccatus Delile,476
+mobilenet_127,20,21,Ochradenus baccatus Delile,Peganum harmala L.,Ochradenus baccatus Delile,Peganum harmala L.,0
+mobilenet_127,20,22,Ochradenus baccatus Delile,Rumex vesicarius L.,Ochradenus baccatus Delile,Rumex vesicarius L.,0
+mobilenet_127,20,23,Ochradenus baccatus Delile,Salsola imbricata Forssk.,Ochradenus baccatus Delile,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,20,24,Ochradenus baccatus Delile,Stachys aegyptiaca Pers.,Ochradenus baccatus Delile,Stachys aegyptiaca Pers.,0
+mobilenet_127,20,25,Ochradenus baccatus Delile,Suaeda aegyptiaca (Hasselq.) Zohary,Ochradenus baccatus Delile,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,20,26,Ochradenus baccatus Delile,Tamarix nilotica (Ehrenb.) Bunge,Ochradenus baccatus Delile,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,20,27,Ochradenus baccatus Delile,Trichodesma africanum (L.) Sm.,Ochradenus baccatus Delile,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,20,28,Ochradenus baccatus Delile,Zilla spinosa (L.) Prantl,Ochradenus baccatus Delile,Zilla spinosa (L.) Prantl,3
+mobilenet_127,20,29,Ochradenus baccatus Delile,Zygophyllum arabicum (L.) Christenh. & Byng,Ochradenus baccatus Delile,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,20,30,Ochradenus baccatus Delile,Zygophyllum coccineum L.,Ochradenus baccatus Delile,Zygophyllum coccineum L.,0
+mobilenet_127,20,31,Ochradenus baccatus Delile,Zygophyllum molle (Delile) Christenh. & Byng,Ochradenus baccatus Delile,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,20,32,Ochradenus baccatus Delile,others,Ochradenus baccatus Delile,others,1
+mobilenet_127,21,0,Peganum harmala L.,Anabasis articulata (Forssk.) Moq.,Peganum harmala L.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,21,1,Peganum harmala L.,Anabasis setifera Moq.,Peganum harmala L.,Anabasis setifera Moq.,0
+mobilenet_127,21,2,Peganum harmala L.,Atriplex halimus L.,Peganum harmala L.,Atriplex halimus L.,0
+mobilenet_127,21,3,Peganum harmala L.,Calotropis procera (Aiton) W.T.Aiton,Peganum harmala L.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,21,4,Peganum harmala L.,Capparis spinosa L.,Peganum harmala L.,Capparis spinosa L.,0
+mobilenet_127,21,5,Peganum harmala L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Peganum harmala L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,21,6,Peganum harmala L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Peganum harmala L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,21,7,Peganum harmala L.,Deverra tortuosa (Desf.) DC.,Peganum harmala L.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,21,8,Peganum harmala L.,Deverra triradiata Hochst. ex Boiss.,Peganum harmala L.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,21,9,Peganum harmala L.,Diplotaxis harra (Forssk.) Boiss.,Peganum harmala L.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,21,10,Peganum harmala L.,Echinops glaberrimus DC.,Peganum harmala L.,Echinops glaberrimus DC.,0
+mobilenet_127,21,11,Peganum harmala L.,Ephedra alata Decne.,Peganum harmala L.,Ephedra alata Decne.,0
+mobilenet_127,21,12,Peganum harmala L.,Farsetia aegyptia Turra,Peganum harmala L.,Farsetia aegyptia Turra,0
+mobilenet_127,21,13,Peganum harmala L.,Gymnocarpos decander Forssk.,Peganum harmala L.,Gymnocarpos decander Forssk.,0
+mobilenet_127,21,14,Peganum harmala L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Peganum harmala L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,21,15,Peganum harmala L.,Heliotropium arbainense Fresen.,Peganum harmala L.,Heliotropium arbainense Fresen.,0
+mobilenet_127,21,16,Peganum harmala L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Peganum harmala L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,21,17,Peganum harmala L.,Limonium pruinosum (L.) Chaz.,Peganum harmala L.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,21,18,Peganum harmala L.,Lycium shawii Roem. & Schult.,Peganum harmala L.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,21,19,Peganum harmala L.,Nitraria retusa (Forssk.) Asch.,Peganum harmala L.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,21,20,Peganum harmala L.,Ochradenus baccatus Delile,Peganum harmala L.,Ochradenus baccatus Delile,0
+mobilenet_127,21,21,Peganum harmala L.,Peganum harmala L.,Peganum harmala L.,Peganum harmala L.,22
+mobilenet_127,21,22,Peganum harmala L.,Rumex vesicarius L.,Peganum harmala L.,Rumex vesicarius L.,0
+mobilenet_127,21,23,Peganum harmala L.,Salsola imbricata Forssk.,Peganum harmala L.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,21,24,Peganum harmala L.,Stachys aegyptiaca Pers.,Peganum harmala L.,Stachys aegyptiaca Pers.,0
+mobilenet_127,21,25,Peganum harmala L.,Suaeda aegyptiaca (Hasselq.) Zohary,Peganum harmala L.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,21,26,Peganum harmala L.,Tamarix nilotica (Ehrenb.) Bunge,Peganum harmala L.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,21,27,Peganum harmala L.,Trichodesma africanum (L.) Sm.,Peganum harmala L.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,21,28,Peganum harmala L.,Zilla spinosa (L.) Prantl,Peganum harmala L.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,21,29,Peganum harmala L.,Zygophyllum arabicum (L.) Christenh. & Byng,Peganum harmala L.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,21,30,Peganum harmala L.,Zygophyllum coccineum L.,Peganum harmala L.,Zygophyllum coccineum L.,0
+mobilenet_127,21,31,Peganum harmala L.,Zygophyllum molle (Delile) Christenh. & Byng,Peganum harmala L.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,21,32,Peganum harmala L.,others,Peganum harmala L.,others,0
+mobilenet_127,22,0,Rumex vesicarius L.,Anabasis articulata (Forssk.) Moq.,Rumex vesicarius L.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,22,1,Rumex vesicarius L.,Anabasis setifera Moq.,Rumex vesicarius L.,Anabasis setifera Moq.,0
+mobilenet_127,22,2,Rumex vesicarius L.,Atriplex halimus L.,Rumex vesicarius L.,Atriplex halimus L.,0
+mobilenet_127,22,3,Rumex vesicarius L.,Calotropis procera (Aiton) W.T.Aiton,Rumex vesicarius L.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,22,4,Rumex vesicarius L.,Capparis spinosa L.,Rumex vesicarius L.,Capparis spinosa L.,0
+mobilenet_127,22,5,Rumex vesicarius L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Rumex vesicarius L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,22,6,Rumex vesicarius L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Rumex vesicarius L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,22,7,Rumex vesicarius L.,Deverra tortuosa (Desf.) DC.,Rumex vesicarius L.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,22,8,Rumex vesicarius L.,Deverra triradiata Hochst. ex Boiss.,Rumex vesicarius L.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,22,9,Rumex vesicarius L.,Diplotaxis harra (Forssk.) Boiss.,Rumex vesicarius L.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,22,10,Rumex vesicarius L.,Echinops glaberrimus DC.,Rumex vesicarius L.,Echinops glaberrimus DC.,0
+mobilenet_127,22,11,Rumex vesicarius L.,Ephedra alata Decne.,Rumex vesicarius L.,Ephedra alata Decne.,0
+mobilenet_127,22,12,Rumex vesicarius L.,Farsetia aegyptia Turra,Rumex vesicarius L.,Farsetia aegyptia Turra,0
+mobilenet_127,22,13,Rumex vesicarius L.,Gymnocarpos decander Forssk.,Rumex vesicarius L.,Gymnocarpos decander Forssk.,0
+mobilenet_127,22,14,Rumex vesicarius L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Rumex vesicarius L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,22,15,Rumex vesicarius L.,Heliotropium arbainense Fresen.,Rumex vesicarius L.,Heliotropium arbainense Fresen.,0
+mobilenet_127,22,16,Rumex vesicarius L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Rumex vesicarius L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,22,17,Rumex vesicarius L.,Limonium pruinosum (L.) Chaz.,Rumex vesicarius L.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,22,18,Rumex vesicarius L.,Lycium shawii Roem. & Schult.,Rumex vesicarius L.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,22,19,Rumex vesicarius L.,Nitraria retusa (Forssk.) Asch.,Rumex vesicarius L.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,22,20,Rumex vesicarius L.,Ochradenus baccatus Delile,Rumex vesicarius L.,Ochradenus baccatus Delile,0
+mobilenet_127,22,21,Rumex vesicarius L.,Peganum harmala L.,Rumex vesicarius L.,Peganum harmala L.,0
+mobilenet_127,22,22,Rumex vesicarius L.,Rumex vesicarius L.,Rumex vesicarius L.,Rumex vesicarius L.,85
+mobilenet_127,22,23,Rumex vesicarius L.,Salsola imbricata Forssk.,Rumex vesicarius L.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,22,24,Rumex vesicarius L.,Stachys aegyptiaca Pers.,Rumex vesicarius L.,Stachys aegyptiaca Pers.,0
+mobilenet_127,22,25,Rumex vesicarius L.,Suaeda aegyptiaca (Hasselq.) Zohary,Rumex vesicarius L.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,22,26,Rumex vesicarius L.,Tamarix nilotica (Ehrenb.) Bunge,Rumex vesicarius L.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,22,27,Rumex vesicarius L.,Trichodesma africanum (L.) Sm.,Rumex vesicarius L.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,22,28,Rumex vesicarius L.,Zilla spinosa (L.) Prantl,Rumex vesicarius L.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,22,29,Rumex vesicarius L.,Zygophyllum arabicum (L.) Christenh. & Byng,Rumex vesicarius L.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,22,30,Rumex vesicarius L.,Zygophyllum coccineum L.,Rumex vesicarius L.,Zygophyllum coccineum L.,0
+mobilenet_127,22,31,Rumex vesicarius L.,Zygophyllum molle (Delile) Christenh. & Byng,Rumex vesicarius L.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,22,32,Rumex vesicarius L.,others,Rumex vesicarius L.,others,0
+mobilenet_127,23,0,Salsola imbricata Forssk.,Anabasis articulata (Forssk.) Moq.,Caroxylon imbricatum (Forssk.) Moq.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,23,1,Salsola imbricata Forssk.,Anabasis setifera Moq.,Caroxylon imbricatum (Forssk.) Moq.,Anabasis setifera Moq.,0
+mobilenet_127,23,2,Salsola imbricata Forssk.,Atriplex halimus L.,Caroxylon imbricatum (Forssk.) Moq.,Atriplex halimus L.,0
+mobilenet_127,23,3,Salsola imbricata Forssk.,Calotropis procera (Aiton) W.T.Aiton,Caroxylon imbricatum (Forssk.) Moq.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,23,4,Salsola imbricata Forssk.,Capparis spinosa L.,Caroxylon imbricatum (Forssk.) Moq.,Capparis spinosa L.,0
+mobilenet_127,23,5,Salsola imbricata Forssk.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Caroxylon imbricatum (Forssk.) Moq.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,23,6,Salsola imbricata Forssk.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Caroxylon imbricatum (Forssk.) Moq.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,23,7,Salsola imbricata Forssk.,Deverra tortuosa (Desf.) DC.,Caroxylon imbricatum (Forssk.) Moq.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,23,8,Salsola imbricata Forssk.,Deverra triradiata Hochst. ex Boiss.,Caroxylon imbricatum (Forssk.) Moq.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,23,9,Salsola imbricata Forssk.,Diplotaxis harra (Forssk.) Boiss.,Caroxylon imbricatum (Forssk.) Moq.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,23,10,Salsola imbricata Forssk.,Echinops glaberrimus DC.,Caroxylon imbricatum (Forssk.) Moq.,Echinops glaberrimus DC.,0
+mobilenet_127,23,11,Salsola imbricata Forssk.,Ephedra alata Decne.,Caroxylon imbricatum (Forssk.) Moq.,Ephedra alata Decne.,0
+mobilenet_127,23,12,Salsola imbricata Forssk.,Farsetia aegyptia Turra,Caroxylon imbricatum (Forssk.) Moq.,Farsetia aegyptia Turra,0
+mobilenet_127,23,13,Salsola imbricata Forssk.,Gymnocarpos decander Forssk.,Caroxylon imbricatum (Forssk.) Moq.,Gymnocarpos decander Forssk.,0
+mobilenet_127,23,14,Salsola imbricata Forssk.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Caroxylon imbricatum (Forssk.) Moq.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,23,15,Salsola imbricata Forssk.,Heliotropium arbainense Fresen.,Caroxylon imbricatum (Forssk.) Moq.,Heliotropium arbainense Fresen.,0
+mobilenet_127,23,16,Salsola imbricata Forssk.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Caroxylon imbricatum (Forssk.) Moq.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,23,17,Salsola imbricata Forssk.,Limonium pruinosum (L.) Chaz.,Caroxylon imbricatum (Forssk.) Moq.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,23,18,Salsola imbricata Forssk.,Lycium shawii Roem. & Schult.,Caroxylon imbricatum (Forssk.) Moq.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,23,19,Salsola imbricata Forssk.,Nitraria retusa (Forssk.) Asch.,Caroxylon imbricatum (Forssk.) Moq.,Nitraria retusa (Forssk.) Asch.,1
+mobilenet_127,23,20,Salsola imbricata Forssk.,Ochradenus baccatus Delile,Caroxylon imbricatum (Forssk.) Moq.,Ochradenus baccatus Delile,0
+mobilenet_127,23,21,Salsola imbricata Forssk.,Peganum harmala L.,Caroxylon imbricatum (Forssk.) Moq.,Peganum harmala L.,0
+mobilenet_127,23,22,Salsola imbricata Forssk.,Rumex vesicarius L.,Caroxylon imbricatum (Forssk.) Moq.,Rumex vesicarius L.,0
+mobilenet_127,23,23,Salsola imbricata Forssk.,Salsola imbricata Forssk.,Caroxylon imbricatum (Forssk.) Moq.,Caroxylon imbricatum (Forssk.) Moq.,104
+mobilenet_127,23,24,Salsola imbricata Forssk.,Stachys aegyptiaca Pers.,Caroxylon imbricatum (Forssk.) Moq.,Stachys aegyptiaca Pers.,0
+mobilenet_127,23,25,Salsola imbricata Forssk.,Suaeda aegyptiaca (Hasselq.) Zohary,Caroxylon imbricatum (Forssk.) Moq.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,23,26,Salsola imbricata Forssk.,Tamarix nilotica (Ehrenb.) Bunge,Caroxylon imbricatum (Forssk.) Moq.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,23,27,Salsola imbricata Forssk.,Trichodesma africanum (L.) Sm.,Caroxylon imbricatum (Forssk.) Moq.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,23,28,Salsola imbricata Forssk.,Zilla spinosa (L.) Prantl,Caroxylon imbricatum (Forssk.) Moq.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,23,29,Salsola imbricata Forssk.,Zygophyllum arabicum (L.) Christenh. & Byng,Caroxylon imbricatum (Forssk.) Moq.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,23,30,Salsola imbricata Forssk.,Zygophyllum coccineum L.,Caroxylon imbricatum (Forssk.) Moq.,Zygophyllum coccineum L.,0
+mobilenet_127,23,31,Salsola imbricata Forssk.,Zygophyllum molle (Delile) Christenh. & Byng,Caroxylon imbricatum (Forssk.) Moq.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,23,32,Salsola imbricata Forssk.,others,Caroxylon imbricatum (Forssk.) Moq.,others,0
+mobilenet_127,24,0,Stachys aegyptiaca Pers.,Anabasis articulata (Forssk.) Moq.,Stachys aegyptiaca Pers.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,24,1,Stachys aegyptiaca Pers.,Anabasis setifera Moq.,Stachys aegyptiaca Pers.,Anabasis setifera Moq.,0
+mobilenet_127,24,2,Stachys aegyptiaca Pers.,Atriplex halimus L.,Stachys aegyptiaca Pers.,Atriplex halimus L.,0
+mobilenet_127,24,3,Stachys aegyptiaca Pers.,Calotropis procera (Aiton) W.T.Aiton,Stachys aegyptiaca Pers.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,24,4,Stachys aegyptiaca Pers.,Capparis spinosa L.,Stachys aegyptiaca Pers.,Capparis spinosa L.,0
+mobilenet_127,24,5,Stachys aegyptiaca Pers.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Stachys aegyptiaca Pers.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,24,6,Stachys aegyptiaca Pers.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Stachys aegyptiaca Pers.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,24,7,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,Stachys aegyptiaca Pers.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,24,8,Stachys aegyptiaca Pers.,Deverra triradiata Hochst. ex Boiss.,Stachys aegyptiaca Pers.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,24,9,Stachys aegyptiaca Pers.,Diplotaxis harra (Forssk.) Boiss.,Stachys aegyptiaca Pers.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,24,10,Stachys aegyptiaca Pers.,Echinops glaberrimus DC.,Stachys aegyptiaca Pers.,Echinops glaberrimus DC.,0
+mobilenet_127,24,11,Stachys aegyptiaca Pers.,Ephedra alata Decne.,Stachys aegyptiaca Pers.,Ephedra alata Decne.,0
+mobilenet_127,24,12,Stachys aegyptiaca Pers.,Farsetia aegyptia Turra,Stachys aegyptiaca Pers.,Farsetia aegyptia Turra,0
+mobilenet_127,24,13,Stachys aegyptiaca Pers.,Gymnocarpos decander Forssk.,Stachys aegyptiaca Pers.,Gymnocarpos decander Forssk.,0
+mobilenet_127,24,14,Stachys aegyptiaca Pers.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Stachys aegyptiaca Pers.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,24,15,Stachys aegyptiaca Pers.,Heliotropium arbainense Fresen.,Stachys aegyptiaca Pers.,Heliotropium arbainense Fresen.,0
+mobilenet_127,24,16,Stachys aegyptiaca Pers.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Stachys aegyptiaca Pers.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,24,17,Stachys aegyptiaca Pers.,Limonium pruinosum (L.) Chaz.,Stachys aegyptiaca Pers.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,24,18,Stachys aegyptiaca Pers.,Lycium shawii Roem. & Schult.,Stachys aegyptiaca Pers.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,24,19,Stachys aegyptiaca Pers.,Nitraria retusa (Forssk.) Asch.,Stachys aegyptiaca Pers.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,24,20,Stachys aegyptiaca Pers.,Ochradenus baccatus Delile,Stachys aegyptiaca Pers.,Ochradenus baccatus Delile,0
+mobilenet_127,24,21,Stachys aegyptiaca Pers.,Peganum harmala L.,Stachys aegyptiaca Pers.,Peganum harmala L.,0
+mobilenet_127,24,22,Stachys aegyptiaca Pers.,Rumex vesicarius L.,Stachys aegyptiaca Pers.,Rumex vesicarius L.,0
+mobilenet_127,24,23,Stachys aegyptiaca Pers.,Salsola imbricata Forssk.,Stachys aegyptiaca Pers.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,24,24,Stachys aegyptiaca Pers.,Stachys aegyptiaca Pers.,Stachys aegyptiaca Pers.,Stachys aegyptiaca Pers.,100
+mobilenet_127,24,25,Stachys aegyptiaca Pers.,Suaeda aegyptiaca (Hasselq.) Zohary,Stachys aegyptiaca Pers.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,24,26,Stachys aegyptiaca Pers.,Tamarix nilotica (Ehrenb.) Bunge,Stachys aegyptiaca Pers.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,24,27,Stachys aegyptiaca Pers.,Trichodesma africanum (L.) Sm.,Stachys aegyptiaca Pers.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,24,28,Stachys aegyptiaca Pers.,Zilla spinosa (L.) Prantl,Stachys aegyptiaca Pers.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,24,29,Stachys aegyptiaca Pers.,Zygophyllum arabicum (L.) Christenh. & Byng,Stachys aegyptiaca Pers.,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,24,30,Stachys aegyptiaca Pers.,Zygophyllum coccineum L.,Stachys aegyptiaca Pers.,Zygophyllum coccineum L.,0
+mobilenet_127,24,31,Stachys aegyptiaca Pers.,Zygophyllum molle (Delile) Christenh. & Byng,Stachys aegyptiaca Pers.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,24,32,Stachys aegyptiaca Pers.,others,Stachys aegyptiaca Pers.,others,0
+mobilenet_127,25,0,Suaeda aegyptiaca (Hasselq.) Zohary,Anabasis articulata (Forssk.) Moq.,Suaeda aegyptiaca (Hasselq.) Zohary,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,25,1,Suaeda aegyptiaca (Hasselq.) Zohary,Anabasis setifera Moq.,Suaeda aegyptiaca (Hasselq.) Zohary,Anabasis setifera Moq.,0
+mobilenet_127,25,2,Suaeda aegyptiaca (Hasselq.) Zohary,Atriplex halimus L.,Suaeda aegyptiaca (Hasselq.) Zohary,Atriplex halimus L.,0
+mobilenet_127,25,3,Suaeda aegyptiaca (Hasselq.) Zohary,Calotropis procera (Aiton) W.T.Aiton,Suaeda aegyptiaca (Hasselq.) Zohary,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,25,4,Suaeda aegyptiaca (Hasselq.) Zohary,Capparis spinosa L.,Suaeda aegyptiaca (Hasselq.) Zohary,Capparis spinosa L.,0
+mobilenet_127,25,5,Suaeda aegyptiaca (Hasselq.) Zohary,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Suaeda aegyptiaca (Hasselq.) Zohary,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,25,6,Suaeda aegyptiaca (Hasselq.) Zohary,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Suaeda aegyptiaca (Hasselq.) Zohary,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,25,7,Suaeda aegyptiaca (Hasselq.) Zohary,Deverra tortuosa (Desf.) DC.,Suaeda aegyptiaca (Hasselq.) Zohary,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,25,8,Suaeda aegyptiaca (Hasselq.) Zohary,Deverra triradiata Hochst. ex Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,25,9,Suaeda aegyptiaca (Hasselq.) Zohary,Diplotaxis harra (Forssk.) Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,25,10,Suaeda aegyptiaca (Hasselq.) Zohary,Echinops glaberrimus DC.,Suaeda aegyptiaca (Hasselq.) Zohary,Echinops glaberrimus DC.,0
+mobilenet_127,25,11,Suaeda aegyptiaca (Hasselq.) Zohary,Ephedra alata Decne.,Suaeda aegyptiaca (Hasselq.) Zohary,Ephedra alata Decne.,0
+mobilenet_127,25,12,Suaeda aegyptiaca (Hasselq.) Zohary,Farsetia aegyptia Turra,Suaeda aegyptiaca (Hasselq.) Zohary,Farsetia aegyptia Turra,0
+mobilenet_127,25,13,Suaeda aegyptiaca (Hasselq.) Zohary,Gymnocarpos decander Forssk.,Suaeda aegyptiaca (Hasselq.) Zohary,Gymnocarpos decander Forssk.,0
+mobilenet_127,25,14,Suaeda aegyptiaca (Hasselq.) Zohary,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Suaeda aegyptiaca (Hasselq.) Zohary,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,25,15,Suaeda aegyptiaca (Hasselq.) Zohary,Heliotropium arbainense Fresen.,Suaeda aegyptiaca (Hasselq.) Zohary,Heliotropium arbainense Fresen.,0
+mobilenet_127,25,16,Suaeda aegyptiaca (Hasselq.) Zohary,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Suaeda aegyptiaca (Hasselq.) Zohary,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,25,17,Suaeda aegyptiaca (Hasselq.) Zohary,Limonium pruinosum (L.) Chaz.,Suaeda aegyptiaca (Hasselq.) Zohary,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,25,18,Suaeda aegyptiaca (Hasselq.) Zohary,Lycium shawii Roem. & Schult.,Suaeda aegyptiaca (Hasselq.) Zohary,Lycium shawii Roem. & Schult.,0
+mobilenet_127,25,19,Suaeda aegyptiaca (Hasselq.) Zohary,Nitraria retusa (Forssk.) Asch.,Suaeda aegyptiaca (Hasselq.) Zohary,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,25,20,Suaeda aegyptiaca (Hasselq.) Zohary,Ochradenus baccatus Delile,Suaeda aegyptiaca (Hasselq.) Zohary,Ochradenus baccatus Delile,0
+mobilenet_127,25,21,Suaeda aegyptiaca (Hasselq.) Zohary,Peganum harmala L.,Suaeda aegyptiaca (Hasselq.) Zohary,Peganum harmala L.,0
+mobilenet_127,25,22,Suaeda aegyptiaca (Hasselq.) Zohary,Rumex vesicarius L.,Suaeda aegyptiaca (Hasselq.) Zohary,Rumex vesicarius L.,0
+mobilenet_127,25,23,Suaeda aegyptiaca (Hasselq.) Zohary,Salsola imbricata Forssk.,Suaeda aegyptiaca (Hasselq.) Zohary,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,25,24,Suaeda aegyptiaca (Hasselq.) Zohary,Stachys aegyptiaca Pers.,Suaeda aegyptiaca (Hasselq.) Zohary,Stachys aegyptiaca Pers.,0
+mobilenet_127,25,25,Suaeda aegyptiaca (Hasselq.) Zohary,Suaeda aegyptiaca (Hasselq.) Zohary,Suaeda aegyptiaca (Hasselq.) Zohary,Suaeda aegyptiaca (Hasselq.) Zohary,110
+mobilenet_127,25,26,Suaeda aegyptiaca (Hasselq.) Zohary,Tamarix nilotica (Ehrenb.) Bunge,Suaeda aegyptiaca (Hasselq.) Zohary,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,25,27,Suaeda aegyptiaca (Hasselq.) Zohary,Trichodesma africanum (L.) Sm.,Suaeda aegyptiaca (Hasselq.) Zohary,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,25,28,Suaeda aegyptiaca (Hasselq.) Zohary,Zilla spinosa (L.) Prantl,Suaeda aegyptiaca (Hasselq.) Zohary,Zilla spinosa (L.) Prantl,0
+mobilenet_127,25,29,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum arabicum (L.) Christenh. & Byng,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,25,30,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum coccineum L.,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum coccineum L.,0
+mobilenet_127,25,31,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum molle (Delile) Christenh. & Byng,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,25,32,Suaeda aegyptiaca (Hasselq.) Zohary,others,Suaeda aegyptiaca (Hasselq.) Zohary,others,0
+mobilenet_127,26,0,Tamarix nilotica (Ehrenb.) Bunge,Anabasis articulata (Forssk.) Moq.,Tamarix nilotica (Ehrenb.) Bunge,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,26,1,Tamarix nilotica (Ehrenb.) Bunge,Anabasis setifera Moq.,Tamarix nilotica (Ehrenb.) Bunge,Anabasis setifera Moq.,1
+mobilenet_127,26,2,Tamarix nilotica (Ehrenb.) Bunge,Atriplex halimus L.,Tamarix nilotica (Ehrenb.) Bunge,Atriplex halimus L.,5
+mobilenet_127,26,3,Tamarix nilotica (Ehrenb.) Bunge,Calotropis procera (Aiton) W.T.Aiton,Tamarix nilotica (Ehrenb.) Bunge,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,26,4,Tamarix nilotica (Ehrenb.) Bunge,Capparis spinosa L.,Tamarix nilotica (Ehrenb.) Bunge,Capparis spinosa L.,0
+mobilenet_127,26,5,Tamarix nilotica (Ehrenb.) Bunge,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Tamarix nilotica (Ehrenb.) Bunge,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,1
+mobilenet_127,26,6,Tamarix nilotica (Ehrenb.) Bunge,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Tamarix nilotica (Ehrenb.) Bunge,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,26,7,Tamarix nilotica (Ehrenb.) Bunge,Deverra tortuosa (Desf.) DC.,Tamarix nilotica (Ehrenb.) Bunge,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,26,8,Tamarix nilotica (Ehrenb.) Bunge,Deverra triradiata Hochst. ex Boiss.,Tamarix nilotica (Ehrenb.) Bunge,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,26,9,Tamarix nilotica (Ehrenb.) Bunge,Diplotaxis harra (Forssk.) Boiss.,Tamarix nilotica (Ehrenb.) Bunge,Diplotaxis harra (Forssk.) Boiss.,4
+mobilenet_127,26,10,Tamarix nilotica (Ehrenb.) Bunge,Echinops glaberrimus DC.,Tamarix nilotica (Ehrenb.) Bunge,Echinops glaberrimus DC.,26
+mobilenet_127,26,11,Tamarix nilotica (Ehrenb.) Bunge,Ephedra alata Decne.,Tamarix nilotica (Ehrenb.) Bunge,Ephedra alata Decne.,0
+mobilenet_127,26,12,Tamarix nilotica (Ehrenb.) Bunge,Farsetia aegyptia Turra,Tamarix nilotica (Ehrenb.) Bunge,Farsetia aegyptia Turra,0
+mobilenet_127,26,13,Tamarix nilotica (Ehrenb.) Bunge,Gymnocarpos decander Forssk.,Tamarix nilotica (Ehrenb.) Bunge,Gymnocarpos decander Forssk.,7
+mobilenet_127,26,14,Tamarix nilotica (Ehrenb.) Bunge,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Tamarix nilotica (Ehrenb.) Bunge,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,10
+mobilenet_127,26,15,Tamarix nilotica (Ehrenb.) Bunge,Heliotropium arbainense Fresen.,Tamarix nilotica (Ehrenb.) Bunge,Heliotropium arbainense Fresen.,0
+mobilenet_127,26,16,Tamarix nilotica (Ehrenb.) Bunge,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Tamarix nilotica (Ehrenb.) Bunge,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,26,17,Tamarix nilotica (Ehrenb.) Bunge,Limonium pruinosum (L.) Chaz.,Tamarix nilotica (Ehrenb.) Bunge,Limonium pruinosum (L.) Chaz.,2
+mobilenet_127,26,18,Tamarix nilotica (Ehrenb.) Bunge,Lycium shawii Roem. & Schult.,Tamarix nilotica (Ehrenb.) Bunge,Lycium shawii Roem. & Schult.,19
+mobilenet_127,26,19,Tamarix nilotica (Ehrenb.) Bunge,Nitraria retusa (Forssk.) Asch.,Tamarix nilotica (Ehrenb.) Bunge,Nitraria retusa (Forssk.) Asch.,15
+mobilenet_127,26,20,Tamarix nilotica (Ehrenb.) Bunge,Ochradenus baccatus Delile,Tamarix nilotica (Ehrenb.) Bunge,Ochradenus baccatus Delile,7
+mobilenet_127,26,21,Tamarix nilotica (Ehrenb.) Bunge,Peganum harmala L.,Tamarix nilotica (Ehrenb.) Bunge,Peganum harmala L.,0
+mobilenet_127,26,22,Tamarix nilotica (Ehrenb.) Bunge,Rumex vesicarius L.,Tamarix nilotica (Ehrenb.) Bunge,Rumex vesicarius L.,0
+mobilenet_127,26,23,Tamarix nilotica (Ehrenb.) Bunge,Salsola imbricata Forssk.,Tamarix nilotica (Ehrenb.) Bunge,Caroxylon imbricatum (Forssk.) Moq.,1
+mobilenet_127,26,24,Tamarix nilotica (Ehrenb.) Bunge,Stachys aegyptiaca Pers.,Tamarix nilotica (Ehrenb.) Bunge,Stachys aegyptiaca Pers.,0
+mobilenet_127,26,25,Tamarix nilotica (Ehrenb.) Bunge,Suaeda aegyptiaca (Hasselq.) Zohary,Tamarix nilotica (Ehrenb.) Bunge,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,26,26,Tamarix nilotica (Ehrenb.) Bunge,Tamarix nilotica (Ehrenb.) Bunge,Tamarix nilotica (Ehrenb.) Bunge,Tamarix nilotica (Ehrenb.) Bunge,216
+mobilenet_127,26,27,Tamarix nilotica (Ehrenb.) Bunge,Trichodesma africanum (L.) Sm.,Tamarix nilotica (Ehrenb.) Bunge,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,26,28,Tamarix nilotica (Ehrenb.) Bunge,Zilla spinosa (L.) Prantl,Tamarix nilotica (Ehrenb.) Bunge,Zilla spinosa (L.) Prantl,0
+mobilenet_127,26,29,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum arabicum (L.) Christenh. & Byng,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum arabicum (L.) Christenh. & Byng,6
+mobilenet_127,26,30,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum coccineum L.,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum coccineum L.,0
+mobilenet_127,26,31,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum molle (Delile) Christenh. & Byng,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,26,32,Tamarix nilotica (Ehrenb.) Bunge,others,Tamarix nilotica (Ehrenb.) Bunge,others,0
+mobilenet_127,27,0,Trichodesma africanum (L.) Sm.,Anabasis articulata (Forssk.) Moq.,Trichodesma africanum (L.) Sm.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,27,1,Trichodesma africanum (L.) Sm.,Anabasis setifera Moq.,Trichodesma africanum (L.) Sm.,Anabasis setifera Moq.,0
+mobilenet_127,27,2,Trichodesma africanum (L.) Sm.,Atriplex halimus L.,Trichodesma africanum (L.) Sm.,Atriplex halimus L.,7
+mobilenet_127,27,3,Trichodesma africanum (L.) Sm.,Calotropis procera (Aiton) W.T.Aiton,Trichodesma africanum (L.) Sm.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,27,4,Trichodesma africanum (L.) Sm.,Capparis spinosa L.,Trichodesma africanum (L.) Sm.,Capparis spinosa L.,0
+mobilenet_127,27,5,Trichodesma africanum (L.) Sm.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Trichodesma africanum (L.) Sm.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,2
+mobilenet_127,27,6,Trichodesma africanum (L.) Sm.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Trichodesma africanum (L.) Sm.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,27,7,Trichodesma africanum (L.) Sm.,Deverra tortuosa (Desf.) DC.,Trichodesma africanum (L.) Sm.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,27,8,Trichodesma africanum (L.) Sm.,Deverra triradiata Hochst. ex Boiss.,Trichodesma africanum (L.) Sm.,Deverra triradiata Hochst. ex Boiss.,6
+mobilenet_127,27,9,Trichodesma africanum (L.) Sm.,Diplotaxis harra (Forssk.) Boiss.,Trichodesma africanum (L.) Sm.,Diplotaxis harra (Forssk.) Boiss.,1
+mobilenet_127,27,10,Trichodesma africanum (L.) Sm.,Echinops glaberrimus DC.,Trichodesma africanum (L.) Sm.,Echinops glaberrimus DC.,2
+mobilenet_127,27,11,Trichodesma africanum (L.) Sm.,Ephedra alata Decne.,Trichodesma africanum (L.) Sm.,Ephedra alata Decne.,1
+mobilenet_127,27,12,Trichodesma africanum (L.) Sm.,Farsetia aegyptia Turra,Trichodesma africanum (L.) Sm.,Farsetia aegyptia Turra,9
+mobilenet_127,27,13,Trichodesma africanum (L.) Sm.,Gymnocarpos decander Forssk.,Trichodesma africanum (L.) Sm.,Gymnocarpos decander Forssk.,4
+mobilenet_127,27,14,Trichodesma africanum (L.) Sm.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Trichodesma africanum (L.) Sm.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,27,15,Trichodesma africanum (L.) Sm.,Heliotropium arbainense Fresen.,Trichodesma africanum (L.) Sm.,Heliotropium arbainense Fresen.,0
+mobilenet_127,27,16,Trichodesma africanum (L.) Sm.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Trichodesma africanum (L.) Sm.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,27,17,Trichodesma africanum (L.) Sm.,Limonium pruinosum (L.) Chaz.,Trichodesma africanum (L.) Sm.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,27,18,Trichodesma africanum (L.) Sm.,Lycium shawii Roem. & Schult.,Trichodesma africanum (L.) Sm.,Lycium shawii Roem. & Schult.,17
+mobilenet_127,27,19,Trichodesma africanum (L.) Sm.,Nitraria retusa (Forssk.) Asch.,Trichodesma africanum (L.) Sm.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,27,20,Trichodesma africanum (L.) Sm.,Ochradenus baccatus Delile,Trichodesma africanum (L.) Sm.,Ochradenus baccatus Delile,0
+mobilenet_127,27,21,Trichodesma africanum (L.) Sm.,Peganum harmala L.,Trichodesma africanum (L.) Sm.,Peganum harmala L.,0
+mobilenet_127,27,22,Trichodesma africanum (L.) Sm.,Rumex vesicarius L.,Trichodesma africanum (L.) Sm.,Rumex vesicarius L.,1
+mobilenet_127,27,23,Trichodesma africanum (L.) Sm.,Salsola imbricata Forssk.,Trichodesma africanum (L.) Sm.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,27,24,Trichodesma africanum (L.) Sm.,Stachys aegyptiaca Pers.,Trichodesma africanum (L.) Sm.,Stachys aegyptiaca Pers.,18
+mobilenet_127,27,25,Trichodesma africanum (L.) Sm.,Suaeda aegyptiaca (Hasselq.) Zohary,Trichodesma africanum (L.) Sm.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,27,26,Trichodesma africanum (L.) Sm.,Tamarix nilotica (Ehrenb.) Bunge,Trichodesma africanum (L.) Sm.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,27,27,Trichodesma africanum (L.) Sm.,Trichodesma africanum (L.) Sm.,Trichodesma africanum (L.) Sm.,Trichodesma africanum (L.) Sm.,87
+mobilenet_127,27,28,Trichodesma africanum (L.) Sm.,Zilla spinosa (L.) Prantl,Trichodesma africanum (L.) Sm.,Zilla spinosa (L.) Prantl,3
+mobilenet_127,27,29,Trichodesma africanum (L.) Sm.,Zygophyllum arabicum (L.) Christenh. & Byng,Trichodesma africanum (L.) Sm.,Zygophyllum arabicum (L.) Christenh. & Byng,1
+mobilenet_127,27,30,Trichodesma africanum (L.) Sm.,Zygophyllum coccineum L.,Trichodesma africanum (L.) Sm.,Zygophyllum coccineum L.,8
+mobilenet_127,27,31,Trichodesma africanum (L.) Sm.,Zygophyllum molle (Delile) Christenh. & Byng,Trichodesma africanum (L.) Sm.,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,27,32,Trichodesma africanum (L.) Sm.,others,Trichodesma africanum (L.) Sm.,others,0
+mobilenet_127,28,0,Zilla spinosa (L.) Prantl,Anabasis articulata (Forssk.) Moq.,Zilla spinosa (L.) Prantl,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,28,1,Zilla spinosa (L.) Prantl,Anabasis setifera Moq.,Zilla spinosa (L.) Prantl,Anabasis setifera Moq.,0
+mobilenet_127,28,2,Zilla spinosa (L.) Prantl,Atriplex halimus L.,Zilla spinosa (L.) Prantl,Atriplex halimus L.,0
+mobilenet_127,28,3,Zilla spinosa (L.) Prantl,Calotropis procera (Aiton) W.T.Aiton,Zilla spinosa (L.) Prantl,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,28,4,Zilla spinosa (L.) Prantl,Capparis spinosa L.,Zilla spinosa (L.) Prantl,Capparis spinosa L.,0
+mobilenet_127,28,5,Zilla spinosa (L.) Prantl,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zilla spinosa (L.) Prantl,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,28,6,Zilla spinosa (L.) Prantl,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zilla spinosa (L.) Prantl,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,28,7,Zilla spinosa (L.) Prantl,Deverra tortuosa (Desf.) DC.,Zilla spinosa (L.) Prantl,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,28,8,Zilla spinosa (L.) Prantl,Deverra triradiata Hochst. ex Boiss.,Zilla spinosa (L.) Prantl,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,28,9,Zilla spinosa (L.) Prantl,Diplotaxis harra (Forssk.) Boiss.,Zilla spinosa (L.) Prantl,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,28,10,Zilla spinosa (L.) Prantl,Echinops glaberrimus DC.,Zilla spinosa (L.) Prantl,Echinops glaberrimus DC.,0
+mobilenet_127,28,11,Zilla spinosa (L.) Prantl,Ephedra alata Decne.,Zilla spinosa (L.) Prantl,Ephedra alata Decne.,0
+mobilenet_127,28,12,Zilla spinosa (L.) Prantl,Farsetia aegyptia Turra,Zilla spinosa (L.) Prantl,Farsetia aegyptia Turra,1
+mobilenet_127,28,13,Zilla spinosa (L.) Prantl,Gymnocarpos decander Forssk.,Zilla spinosa (L.) Prantl,Gymnocarpos decander Forssk.,0
+mobilenet_127,28,14,Zilla spinosa (L.) Prantl,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zilla spinosa (L.) Prantl,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,28,15,Zilla spinosa (L.) Prantl,Heliotropium arbainense Fresen.,Zilla spinosa (L.) Prantl,Heliotropium arbainense Fresen.,0
+mobilenet_127,28,16,Zilla spinosa (L.) Prantl,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zilla spinosa (L.) Prantl,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,28,17,Zilla spinosa (L.) Prantl,Limonium pruinosum (L.) Chaz.,Zilla spinosa (L.) Prantl,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,28,18,Zilla spinosa (L.) Prantl,Lycium shawii Roem. & Schult.,Zilla spinosa (L.) Prantl,Lycium shawii Roem. & Schult.,0
+mobilenet_127,28,19,Zilla spinosa (L.) Prantl,Nitraria retusa (Forssk.) Asch.,Zilla spinosa (L.) Prantl,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,28,20,Zilla spinosa (L.) Prantl,Ochradenus baccatus Delile,Zilla spinosa (L.) Prantl,Ochradenus baccatus Delile,0
+mobilenet_127,28,21,Zilla spinosa (L.) Prantl,Peganum harmala L.,Zilla spinosa (L.) Prantl,Peganum harmala L.,0
+mobilenet_127,28,22,Zilla spinosa (L.) Prantl,Rumex vesicarius L.,Zilla spinosa (L.) Prantl,Rumex vesicarius L.,0
+mobilenet_127,28,23,Zilla spinosa (L.) Prantl,Salsola imbricata Forssk.,Zilla spinosa (L.) Prantl,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,28,24,Zilla spinosa (L.) Prantl,Stachys aegyptiaca Pers.,Zilla spinosa (L.) Prantl,Stachys aegyptiaca Pers.,0
+mobilenet_127,28,25,Zilla spinosa (L.) Prantl,Suaeda aegyptiaca (Hasselq.) Zohary,Zilla spinosa (L.) Prantl,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,28,26,Zilla spinosa (L.) Prantl,Tamarix nilotica (Ehrenb.) Bunge,Zilla spinosa (L.) Prantl,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,28,27,Zilla spinosa (L.) Prantl,Trichodesma africanum (L.) Sm.,Zilla spinosa (L.) Prantl,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,28,28,Zilla spinosa (L.) Prantl,Zilla spinosa (L.) Prantl,Zilla spinosa (L.) Prantl,Zilla spinosa (L.) Prantl,114
+mobilenet_127,28,29,Zilla spinosa (L.) Prantl,Zygophyllum arabicum (L.) Christenh. & Byng,Zilla spinosa (L.) Prantl,Zygophyllum arabicum (L.) Christenh. & Byng,1
+mobilenet_127,28,30,Zilla spinosa (L.) Prantl,Zygophyllum coccineum L.,Zilla spinosa (L.) Prantl,Zygophyllum coccineum L.,0
+mobilenet_127,28,31,Zilla spinosa (L.) Prantl,Zygophyllum molle (Delile) Christenh. & Byng,Zilla spinosa (L.) Prantl,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,28,32,Zilla spinosa (L.) Prantl,others,Zilla spinosa (L.) Prantl,others,0
+mobilenet_127,29,0,Zygophyllum arabicum (L.) Christenh. & Byng,Anabasis articulata (Forssk.) Moq.,Zygophyllum arabicum (L.) Christenh. & Byng,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,29,1,Zygophyllum arabicum (L.) Christenh. & Byng,Anabasis setifera Moq.,Zygophyllum arabicum (L.) Christenh. & Byng,Anabasis setifera Moq.,0
+mobilenet_127,29,2,Zygophyllum arabicum (L.) Christenh. & Byng,Atriplex halimus L.,Zygophyllum arabicum (L.) Christenh. & Byng,Atriplex halimus L.,1
+mobilenet_127,29,3,Zygophyllum arabicum (L.) Christenh. & Byng,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum arabicum (L.) Christenh. & Byng,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,29,4,Zygophyllum arabicum (L.) Christenh. & Byng,Capparis spinosa L.,Zygophyllum arabicum (L.) Christenh. & Byng,Capparis spinosa L.,0
+mobilenet_127,29,5,Zygophyllum arabicum (L.) Christenh. & Byng,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum arabicum (L.) Christenh. & Byng,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,2
+mobilenet_127,29,6,Zygophyllum arabicum (L.) Christenh. & Byng,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum arabicum (L.) Christenh. & Byng,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,29,7,Zygophyllum arabicum (L.) Christenh. & Byng,Deverra tortuosa (Desf.) DC.,Zygophyllum arabicum (L.) Christenh. & Byng,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,29,8,Zygophyllum arabicum (L.) Christenh. & Byng,Deverra triradiata Hochst. ex Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,29,9,Zygophyllum arabicum (L.) Christenh. & Byng,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,29,10,Zygophyllum arabicum (L.) Christenh. & Byng,Echinops glaberrimus DC.,Zygophyllum arabicum (L.) Christenh. & Byng,Echinops glaberrimus DC.,0
+mobilenet_127,29,11,Zygophyllum arabicum (L.) Christenh. & Byng,Ephedra alata Decne.,Zygophyllum arabicum (L.) Christenh. & Byng,Ephedra alata Decne.,0
+mobilenet_127,29,12,Zygophyllum arabicum (L.) Christenh. & Byng,Farsetia aegyptia Turra,Zygophyllum arabicum (L.) Christenh. & Byng,Farsetia aegyptia Turra,0
+mobilenet_127,29,13,Zygophyllum arabicum (L.) Christenh. & Byng,Gymnocarpos decander Forssk.,Zygophyllum arabicum (L.) Christenh. & Byng,Gymnocarpos decander Forssk.,0
+mobilenet_127,29,14,Zygophyllum arabicum (L.) Christenh. & Byng,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum arabicum (L.) Christenh. & Byng,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,29,15,Zygophyllum arabicum (L.) Christenh. & Byng,Heliotropium arbainense Fresen.,Zygophyllum arabicum (L.) Christenh. & Byng,Heliotropium arbainense Fresen.,1
+mobilenet_127,29,16,Zygophyllum arabicum (L.) Christenh. & Byng,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum arabicum (L.) Christenh. & Byng,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,29,17,Zygophyllum arabicum (L.) Christenh. & Byng,Limonium pruinosum (L.) Chaz.,Zygophyllum arabicum (L.) Christenh. & Byng,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,29,18,Zygophyllum arabicum (L.) Christenh. & Byng,Lycium shawii Roem. & Schult.,Zygophyllum arabicum (L.) Christenh. & Byng,Lycium shawii Roem. & Schult.,1
+mobilenet_127,29,19,Zygophyllum arabicum (L.) Christenh. & Byng,Nitraria retusa (Forssk.) Asch.,Zygophyllum arabicum (L.) Christenh. & Byng,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,29,20,Zygophyllum arabicum (L.) Christenh. & Byng,Ochradenus baccatus Delile,Zygophyllum arabicum (L.) Christenh. & Byng,Ochradenus baccatus Delile,0
+mobilenet_127,29,21,Zygophyllum arabicum (L.) Christenh. & Byng,Peganum harmala L.,Zygophyllum arabicum (L.) Christenh. & Byng,Peganum harmala L.,0
+mobilenet_127,29,22,Zygophyllum arabicum (L.) Christenh. & Byng,Rumex vesicarius L.,Zygophyllum arabicum (L.) Christenh. & Byng,Rumex vesicarius L.,0
+mobilenet_127,29,23,Zygophyllum arabicum (L.) Christenh. & Byng,Salsola imbricata Forssk.,Zygophyllum arabicum (L.) Christenh. & Byng,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,29,24,Zygophyllum arabicum (L.) Christenh. & Byng,Stachys aegyptiaca Pers.,Zygophyllum arabicum (L.) Christenh. & Byng,Stachys aegyptiaca Pers.,0
+mobilenet_127,29,25,Zygophyllum arabicum (L.) Christenh. & Byng,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum arabicum (L.) Christenh. & Byng,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,29,26,Zygophyllum arabicum (L.) Christenh. & Byng,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum arabicum (L.) Christenh. & Byng,Tamarix nilotica (Ehrenb.) Bunge,1
+mobilenet_127,29,27,Zygophyllum arabicum (L.) Christenh. & Byng,Trichodesma africanum (L.) Sm.,Zygophyllum arabicum (L.) Christenh. & Byng,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,29,28,Zygophyllum arabicum (L.) Christenh. & Byng,Zilla spinosa (L.) Prantl,Zygophyllum arabicum (L.) Christenh. & Byng,Zilla spinosa (L.) Prantl,0
+mobilenet_127,29,29,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum arabicum (L.) Christenh. & Byng,251
+mobilenet_127,29,30,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum coccineum L.,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum coccineum L.,3
+mobilenet_127,29,31,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,29,32,Zygophyllum arabicum (L.) Christenh. & Byng,others,Zygophyllum arabicum (L.) Christenh. & Byng,others,1
+mobilenet_127,30,0,Zygophyllum coccineum L.,Anabasis articulata (Forssk.) Moq.,Zygophyllum coccineum L.,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,30,1,Zygophyllum coccineum L.,Anabasis setifera Moq.,Zygophyllum coccineum L.,Anabasis setifera Moq.,1
+mobilenet_127,30,2,Zygophyllum coccineum L.,Atriplex halimus L.,Zygophyllum coccineum L.,Atriplex halimus L.,0
+mobilenet_127,30,3,Zygophyllum coccineum L.,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum coccineum L.,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,30,4,Zygophyllum coccineum L.,Capparis spinosa L.,Zygophyllum coccineum L.,Capparis spinosa L.,1
+mobilenet_127,30,5,Zygophyllum coccineum L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum coccineum L.,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,30,6,Zygophyllum coccineum L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum coccineum L.,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,30,7,Zygophyllum coccineum L.,Deverra tortuosa (Desf.) DC.,Zygophyllum coccineum L.,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,30,8,Zygophyllum coccineum L.,Deverra triradiata Hochst. ex Boiss.,Zygophyllum coccineum L.,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,30,9,Zygophyllum coccineum L.,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum coccineum L.,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,30,10,Zygophyllum coccineum L.,Echinops glaberrimus DC.,Zygophyllum coccineum L.,Echinops glaberrimus DC.,0
+mobilenet_127,30,11,Zygophyllum coccineum L.,Ephedra alata Decne.,Zygophyllum coccineum L.,Ephedra alata Decne.,0
+mobilenet_127,30,12,Zygophyllum coccineum L.,Farsetia aegyptia Turra,Zygophyllum coccineum L.,Farsetia aegyptia Turra,0
+mobilenet_127,30,13,Zygophyllum coccineum L.,Gymnocarpos decander Forssk.,Zygophyllum coccineum L.,Gymnocarpos decander Forssk.,0
+mobilenet_127,30,14,Zygophyllum coccineum L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum coccineum L.,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,30,15,Zygophyllum coccineum L.,Heliotropium arbainense Fresen.,Zygophyllum coccineum L.,Heliotropium arbainense Fresen.,0
+mobilenet_127,30,16,Zygophyllum coccineum L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum coccineum L.,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,30,17,Zygophyllum coccineum L.,Limonium pruinosum (L.) Chaz.,Zygophyllum coccineum L.,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,30,18,Zygophyllum coccineum L.,Lycium shawii Roem. & Schult.,Zygophyllum coccineum L.,Lycium shawii Roem. & Schult.,0
+mobilenet_127,30,19,Zygophyllum coccineum L.,Nitraria retusa (Forssk.) Asch.,Zygophyllum coccineum L.,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,30,20,Zygophyllum coccineum L.,Ochradenus baccatus Delile,Zygophyllum coccineum L.,Ochradenus baccatus Delile,0
+mobilenet_127,30,21,Zygophyllum coccineum L.,Peganum harmala L.,Zygophyllum coccineum L.,Peganum harmala L.,0
+mobilenet_127,30,22,Zygophyllum coccineum L.,Rumex vesicarius L.,Zygophyllum coccineum L.,Rumex vesicarius L.,0
+mobilenet_127,30,23,Zygophyllum coccineum L.,Salsola imbricata Forssk.,Zygophyllum coccineum L.,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,30,24,Zygophyllum coccineum L.,Stachys aegyptiaca Pers.,Zygophyllum coccineum L.,Stachys aegyptiaca Pers.,0
+mobilenet_127,30,25,Zygophyllum coccineum L.,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum coccineum L.,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,30,26,Zygophyllum coccineum L.,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum coccineum L.,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,30,27,Zygophyllum coccineum L.,Trichodesma africanum (L.) Sm.,Zygophyllum coccineum L.,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,30,28,Zygophyllum coccineum L.,Zilla spinosa (L.) Prantl,Zygophyllum coccineum L.,Zilla spinosa (L.) Prantl,0
+mobilenet_127,30,29,Zygophyllum coccineum L.,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum coccineum L.,Zygophyllum arabicum (L.) Christenh. & Byng,15
+mobilenet_127,30,30,Zygophyllum coccineum L.,Zygophyllum coccineum L.,Zygophyllum coccineum L.,Zygophyllum coccineum L.,176
+mobilenet_127,30,31,Zygophyllum coccineum L.,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum coccineum L.,Zygophyllum molle (Delile) Christenh. & Byng,1
+mobilenet_127,30,32,Zygophyllum coccineum L.,others,Zygophyllum coccineum L.,others,0
+mobilenet_127,31,0,Zygophyllum molle (Delile) Christenh. & Byng,Anabasis articulata (Forssk.) Moq.,Zygophyllum molle (Delile) Christenh. & Byng,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,31,1,Zygophyllum molle (Delile) Christenh. & Byng,Anabasis setifera Moq.,Zygophyllum molle (Delile) Christenh. & Byng,Anabasis setifera Moq.,0
+mobilenet_127,31,2,Zygophyllum molle (Delile) Christenh. & Byng,Atriplex halimus L.,Zygophyllum molle (Delile) Christenh. & Byng,Atriplex halimus L.,0
+mobilenet_127,31,3,Zygophyllum molle (Delile) Christenh. & Byng,Calotropis procera (Aiton) W.T.Aiton,Zygophyllum molle (Delile) Christenh. & Byng,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,31,4,Zygophyllum molle (Delile) Christenh. & Byng,Capparis spinosa L.,Zygophyllum molle (Delile) Christenh. & Byng,Capparis spinosa L.,0
+mobilenet_127,31,5,Zygophyllum molle (Delile) Christenh. & Byng,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,Zygophyllum molle (Delile) Christenh. & Byng,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,31,6,Zygophyllum molle (Delile) Christenh. & Byng,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",Zygophyllum molle (Delile) Christenh. & Byng,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,31,7,Zygophyllum molle (Delile) Christenh. & Byng,Deverra tortuosa (Desf.) DC.,Zygophyllum molle (Delile) Christenh. & Byng,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,31,8,Zygophyllum molle (Delile) Christenh. & Byng,Deverra triradiata Hochst. ex Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,31,9,Zygophyllum molle (Delile) Christenh. & Byng,Diplotaxis harra (Forssk.) Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,31,10,Zygophyllum molle (Delile) Christenh. & Byng,Echinops glaberrimus DC.,Zygophyllum molle (Delile) Christenh. & Byng,Echinops glaberrimus DC.,0
+mobilenet_127,31,11,Zygophyllum molle (Delile) Christenh. & Byng,Ephedra alata Decne.,Zygophyllum molle (Delile) Christenh. & Byng,Ephedra alata Decne.,0
+mobilenet_127,31,12,Zygophyllum molle (Delile) Christenh. & Byng,Farsetia aegyptia Turra,Zygophyllum molle (Delile) Christenh. & Byng,Farsetia aegyptia Turra,0
+mobilenet_127,31,13,Zygophyllum molle (Delile) Christenh. & Byng,Gymnocarpos decander Forssk.,Zygophyllum molle (Delile) Christenh. & Byng,Gymnocarpos decander Forssk.,0
+mobilenet_127,31,14,Zygophyllum molle (Delile) Christenh. & Byng,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,Zygophyllum molle (Delile) Christenh. & Byng,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,31,15,Zygophyllum molle (Delile) Christenh. & Byng,Heliotropium arbainense Fresen.,Zygophyllum molle (Delile) Christenh. & Byng,Heliotropium arbainense Fresen.,1
+mobilenet_127,31,16,Zygophyllum molle (Delile) Christenh. & Byng,Iphiona mucronata (Forssk.) Asch. & Schweinf.,Zygophyllum molle (Delile) Christenh. & Byng,Iphiona mucronata (Forssk.) Asch. & Schweinf.,0
+mobilenet_127,31,17,Zygophyllum molle (Delile) Christenh. & Byng,Limonium pruinosum (L.) Chaz.,Zygophyllum molle (Delile) Christenh. & Byng,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,31,18,Zygophyllum molle (Delile) Christenh. & Byng,Lycium shawii Roem. & Schult.,Zygophyllum molle (Delile) Christenh. & Byng,Lycium shawii Roem. & Schult.,0
+mobilenet_127,31,19,Zygophyllum molle (Delile) Christenh. & Byng,Nitraria retusa (Forssk.) Asch.,Zygophyllum molle (Delile) Christenh. & Byng,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,31,20,Zygophyllum molle (Delile) Christenh. & Byng,Ochradenus baccatus Delile,Zygophyllum molle (Delile) Christenh. & Byng,Ochradenus baccatus Delile,0
+mobilenet_127,31,21,Zygophyllum molle (Delile) Christenh. & Byng,Peganum harmala L.,Zygophyllum molle (Delile) Christenh. & Byng,Peganum harmala L.,0
+mobilenet_127,31,22,Zygophyllum molle (Delile) Christenh. & Byng,Rumex vesicarius L.,Zygophyllum molle (Delile) Christenh. & Byng,Rumex vesicarius L.,0
+mobilenet_127,31,23,Zygophyllum molle (Delile) Christenh. & Byng,Salsola imbricata Forssk.,Zygophyllum molle (Delile) Christenh. & Byng,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,31,24,Zygophyllum molle (Delile) Christenh. & Byng,Stachys aegyptiaca Pers.,Zygophyllum molle (Delile) Christenh. & Byng,Stachys aegyptiaca Pers.,0
+mobilenet_127,31,25,Zygophyllum molle (Delile) Christenh. & Byng,Suaeda aegyptiaca (Hasselq.) Zohary,Zygophyllum molle (Delile) Christenh. & Byng,Suaeda aegyptiaca (Hasselq.) Zohary,1
+mobilenet_127,31,26,Zygophyllum molle (Delile) Christenh. & Byng,Tamarix nilotica (Ehrenb.) Bunge,Zygophyllum molle (Delile) Christenh. & Byng,Tamarix nilotica (Ehrenb.) Bunge,0
+mobilenet_127,31,27,Zygophyllum molle (Delile) Christenh. & Byng,Trichodesma africanum (L.) Sm.,Zygophyllum molle (Delile) Christenh. & Byng,Trichodesma africanum (L.) Sm.,0
+mobilenet_127,31,28,Zygophyllum molle (Delile) Christenh. & Byng,Zilla spinosa (L.) Prantl,Zygophyllum molle (Delile) Christenh. & Byng,Zilla spinosa (L.) Prantl,0
+mobilenet_127,31,29,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum arabicum (L.) Christenh. & Byng,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum arabicum (L.) Christenh. & Byng,0
+mobilenet_127,31,30,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum coccineum L.,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum coccineum L.,0
+mobilenet_127,31,31,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum molle (Delile) Christenh. & Byng,Zygophyllum molle (Delile) Christenh. & Byng,112
+mobilenet_127,31,32,Zygophyllum molle (Delile) Christenh. & Byng,others,Zygophyllum molle (Delile) Christenh. & Byng,others,0
+mobilenet_127,32,0,others,Anabasis articulata (Forssk.) Moq.,others,Anabasis articulata (Forssk.) Moq.,0
+mobilenet_127,32,1,others,Anabasis setifera Moq.,others,Anabasis setifera Moq.,0
+mobilenet_127,32,2,others,Atriplex halimus L.,others,Atriplex halimus L.,0
+mobilenet_127,32,3,others,Calotropis procera (Aiton) W.T.Aiton,others,Calotropis procera (Aiton) W.T.Aiton,0
+mobilenet_127,32,4,others,Capparis spinosa L.,others,Capparis spinosa L.,0
+mobilenet_127,32,5,others,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,others,Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze,0
+mobilenet_127,32,6,others,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",others,"Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",0
+mobilenet_127,32,7,others,Deverra tortuosa (Desf.) DC.,others,Deverra tortuosa (Desf.) DC.,0
+mobilenet_127,32,8,others,Deverra triradiata Hochst. ex Boiss.,others,Deverra triradiata Hochst. ex Boiss.,0
+mobilenet_127,32,9,others,Diplotaxis harra (Forssk.) Boiss.,others,Diplotaxis harra (Forssk.) Boiss.,0
+mobilenet_127,32,10,others,Echinops glaberrimus DC.,others,Echinops glaberrimus DC.,0
+mobilenet_127,32,11,others,Ephedra alata Decne.,others,Ephedra alata Decne.,0
+mobilenet_127,32,12,others,Farsetia aegyptia Turra,others,Farsetia aegyptia Turra,0
+mobilenet_127,32,13,others,Gymnocarpos decander Forssk.,others,Gymnocarpos decander Forssk.,0
+mobilenet_127,32,14,others,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,others,Haloxylon salicornicum (Moq.) Bunge ex Boiss.,0
+mobilenet_127,32,15,others,Heliotropium arbainense Fresen.,others,Heliotropium arbainense Fresen.,0
+mobilenet_127,32,16,others,Iphiona mucronata (Forssk.) Asch. & Schweinf.,others,Iphiona mucronata (Forssk.) Asch. & Schweinf.,1
+mobilenet_127,32,17,others,Limonium pruinosum (L.) Chaz.,others,Limonium pruinosum (L.) Chaz.,0
+mobilenet_127,32,18,others,Lycium shawii Roem. & Schult.,others,Lycium shawii Roem. & Schult.,1
+mobilenet_127,32,19,others,Nitraria retusa (Forssk.) Asch.,others,Nitraria retusa (Forssk.) Asch.,0
+mobilenet_127,32,20,others,Ochradenus baccatus Delile,others,Ochradenus baccatus Delile,0
+mobilenet_127,32,21,others,Peganum harmala L.,others,Peganum harmala L.,0
+mobilenet_127,32,22,others,Rumex vesicarius L.,others,Rumex vesicarius L.,0
+mobilenet_127,32,23,others,Salsola imbricata Forssk.,others,Caroxylon imbricatum (Forssk.) Moq.,0
+mobilenet_127,32,24,others,Stachys aegyptiaca Pers.,others,Stachys aegyptiaca Pers.,0
+mobilenet_127,32,25,others,Suaeda aegyptiaca (Hasselq.) Zohary,others,Suaeda aegyptiaca (Hasselq.) Zohary,0
+mobilenet_127,32,26,others,Tamarix nilotica (Ehrenb.) Bunge,others,Tamarix nilotica (Ehrenb.) Bunge,1
+mobilenet_127,32,27,others,Trichodesma africanum (L.) Sm.,others,Trichodesma africanum (L.) Sm.,1
+mobilenet_127,32,28,others,Zilla spinosa (L.) Prantl,others,Zilla spinosa (L.) Prantl,0
+mobilenet_127,32,29,others,Zygophyllum arabicum (L.) Christenh. & Byng,others,Zygophyllum arabicum (L.) Christenh. & Byng,1
+mobilenet_127,32,30,others,Zygophyllum coccineum L.,others,Zygophyllum coccineum L.,0
+mobilenet_127,32,31,others,Zygophyllum molle (Delile) Christenh. & Byng,others,Zygophyllum molle (Delile) Christenh. & Byng,0
+mobilenet_127,32,32,others,others,others,others,95
