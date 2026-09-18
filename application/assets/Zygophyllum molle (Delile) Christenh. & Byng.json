@@ -1,0 +1,21 @@
+{
+  "plant species": "Zygophyllum molle (Delile) Christenh. & Byng",
+  "Family": "Zygophyllaceae",
+  "About this species": "Zygophyllum molle is a low desert subshrub found in dry sandy and gravelly habitats from Egypt to nearby Middle Eastern regions. It is adapted to drought through its compact form and water-conserving tissues. The plant contributes to the perennial vegetation cover of arid landscapes and may be useful for recognizing regional desert plant communities. Because its taxonomic treatment may vary among sources, the accepted name and synonyms should be checked carefully in scientific datasets.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184988-1",
+    "GBIF Link": "https://www.gbif.org/species/6384908"
+  },
+  "Growth form": "Subshrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Egypt to Syria and Saudi Arabia",
+  "Endemism in Egypt": "Near endemic",
+  "confusion": {
+    "likely_confused_species": [
+      "Zygophyllum coccineum L."
+    ]
+  }
+}

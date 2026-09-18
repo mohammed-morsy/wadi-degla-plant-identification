@@ -1,0 +1,204 @@
+{
+  "selection_status": "selected_for_application_verification",
+  "candidate_id": "top_30_215",
+  "branch": "top_30",
+  "checkpoint": {
+    "epoch": 215,
+    "bundle": "training_states/training_states_top_30_211_220.pkl",
+    "state_key": "model_state_dict"
+  },
+  "model": {
+    "architecture": "MobileNetV2",
+    "num_classes": 33,
+    "classes": [
+      {
+        "class_index": 0,
+        "model_class_name": "Anabasis articulata (Forssk.) Moq.",
+        "reporting_name": "Anabasis articulata (Forssk.) Moq."
+      },
+      {
+        "class_index": 1,
+        "model_class_name": "Anabasis setifera Moq.",
+        "reporting_name": "Anabasis setifera Moq."
+      },
+      {
+        "class_index": 2,
+        "model_class_name": "Atriplex halimus L.",
+        "reporting_name": "Atriplex halimus L."
+      },
+      {
+        "class_index": 3,
+        "model_class_name": "Calotropis procera (Aiton) W.T.Aiton",
+        "reporting_name": "Calotropis procera (Aiton) W.T.Aiton"
+      },
+      {
+        "class_index": 4,
+        "model_class_name": "Capparis spinosa L.",
+        "reporting_name": "Capparis spinosa L."
+      },
+      {
+        "class_index": 5,
+        "model_class_name": "Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze",
+        "reporting_name": "Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze"
+      },
+      {
+        "class_index": 6,
+        "model_class_name": "Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",
+        "reporting_name": "Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler"
+      },
+      {
+        "class_index": 7,
+        "model_class_name": "Deverra tortuosa (Desf.) DC.",
+        "reporting_name": "Deverra tortuosa (Desf.) DC."
+      },
+      {
+        "class_index": 8,
+        "model_class_name": "Deverra triradiata Hochst. ex Boiss.",
+        "reporting_name": "Deverra triradiata Hochst. ex Boiss."
+      },
+      {
+        "class_index": 9,
+        "model_class_name": "Diplotaxis harra (Forssk.) Boiss.",
+        "reporting_name": "Diplotaxis harra (Forssk.) Boiss."
+      },
+      {
+        "class_index": 10,
+        "model_class_name": "Echinops glaberrimus DC.",
+        "reporting_name": "Echinops glaberrimus DC."
+      },
+      {
+        "class_index": 11,
+        "model_class_name": "Ephedra alata Decne.",
+        "reporting_name": "Ephedra alata Decne."
+      },
+      {
+        "class_index": 12,
+        "model_class_name": "Farsetia aegyptia Turra",
+        "reporting_name": "Farsetia aegyptia Turra"
+      },
+      {
+        "class_index": 13,
+        "model_class_name": "Gymnocarpos decander Forssk.",
+        "reporting_name": "Gymnocarpos decander Forssk."
+      },
+      {
+        "class_index": 14,
+        "model_class_name": "Haloxylon salicornicum (Moq.) Bunge ex Boiss.",
+        "reporting_name": "Haloxylon salicornicum (Moq.) Bunge ex Boiss."
+      },
+      {
+        "class_index": 15,
+        "model_class_name": "Heliotropium arbainense Fresen.",
+        "reporting_name": "Heliotropium arbainense Fresen."
+      },
+      {
+        "class_index": 16,
+        "model_class_name": "Iphiona mucronata (Forssk.) Asch. & Schweinf.",
+        "reporting_name": "Iphiona mucronata (Forssk.) Asch. & Schweinf."
+      },
+      {
+        "class_index": 17,
+        "model_class_name": "Limonium pruinosum (L.) Chaz.",
+        "reporting_name": "Limonium pruinosum (L.) Chaz."
+      },
+      {
+        "class_index": 18,
+        "model_class_name": "Lycium shawii Roem. & Schult.",
+        "reporting_name": "Lycium shawii Roem. & Schult."
+      },
+      {
+        "class_index": 19,
+        "model_class_name": "Nitraria retusa (Forssk.) Asch.",
+        "reporting_name": "Nitraria retusa (Forssk.) Asch."
+      },
+      {
+        "class_index": 20,
+        "model_class_name": "Ochradenus baccatus Delile",
+        "reporting_name": "Ochradenus baccatus Delile"
+      },
+      {
+        "class_index": 21,
+        "model_class_name": "Peganum harmala L.",
+        "reporting_name": "Peganum harmala L."
+      },
+      {
+        "class_index": 22,
+        "model_class_name": "Rumex vesicarius L.",
+        "reporting_name": "Rumex vesicarius L."
+      },
+      {
+        "class_index": 23,
+        "model_class_name": "Salsola imbricata Forssk.",
+        "reporting_name": "Caroxylon imbricatum (Forssk.) Moq."
+      },
+      {
+        "class_index": 24,
+        "model_class_name": "Stachys aegyptiaca Pers.",
+        "reporting_name": "Stachys aegyptiaca Pers."
+      },
+      {
+        "class_index": 25,
+        "model_class_name": "Suaeda aegyptiaca (Hasselq.) Zohary",
+        "reporting_name": "Suaeda aegyptiaca (Hasselq.) Zohary"
+      },
+      {
+        "class_index": 26,
+        "model_class_name": "Tamarix nilotica (Ehrenb.) Bunge",
+        "reporting_name": "Tamarix nilotica (Ehrenb.) Bunge"
+      },
+      {
+        "class_index": 27,
+        "model_class_name": "Trichodesma africanum (L.) Sm.",
+        "reporting_name": "Trichodesma africanum (L.) Sm."
+      },
+      {
+        "class_index": 28,
+        "model_class_name": "Zilla spinosa (L.) Prantl",
+        "reporting_name": "Zilla spinosa (L.) Prantl"
+      },
+      {
+        "class_index": 29,
+        "model_class_name": "Zygophyllum arabicum (L.) Christenh. & Byng",
+        "reporting_name": "Zygophyllum arabicum (L.) Christenh. & Byng"
+      },
+      {
+        "class_index": 30,
+        "model_class_name": "Zygophyllum coccineum L.",
+        "reporting_name": "Zygophyllum coccineum L."
+      },
+      {
+        "class_index": 31,
+        "model_class_name": "Zygophyllum molle (Delile) Christenh. & Byng",
+        "reporting_name": "Zygophyllum molle (Delile) Christenh. & Byng"
+      },
+      {
+        "class_index": 32,
+        "model_class_name": "others",
+        "reporting_name": "others"
+      }
+    ]
+  },
+  "evaluation_preprocessing": {
+    "image_mode": "RGB",
+    "transforms": [
+      "ToImage()",
+      "Resize(256)",
+      "CenterCrop(224)",
+      "ToDtype(torch.float32, scale=True)",
+      "Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])"
+    ]
+  },
+  "selection": {
+    "primary_dataset": "Common External Evaluation",
+    "primary_images": 3414,
+    "primary_metric": "macro_f1",
+    "common_accuracy": 0.7302284710017575,
+    "common_macro_precision": 0.651148664944238,
+    "common_macro_recall": 0.6524265594264423,
+    "common_macro_f1": 0.6404072069819757,
+    "wadidegla_val_macro_f1": 0.9039062811183706,
+    "evidence_file": "phase2_model_selection_evidence.csv",
+    "criterion_status": "Adopted during final analysis; not pre-specified in the original protocol.",
+    "limitation": "Development-based model selection; not an independent final test."
+  }
+}

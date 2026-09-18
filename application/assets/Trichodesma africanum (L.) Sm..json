@@ -1,0 +1,22 @@
+{
+  "plant species": "Trichodesma africanum (L.) Sm.",
+  "Family": "Boraginaceae",
+  "About this species": "Trichodesma africanum is a desert herb that may behave as an annual or short-lived perennial depending on conditions. It grows in dry sandy and stony habitats, open desert plains, and disturbed arid ground. The plant has hairy leaves and stems, a common adaptation that can reduce water loss and protect against intense sunlight. It contributes to the seasonal herb layer of desert vegetation, especially after rainfall.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:121223-1",
+    "GBIF Link": "https://www.gbif.org/species/7441736"
+  },
+  "Growth form": "Herb",
+  "Life span": "Annual or Short-lived perennial",
+  "Life form": "Therophyte/Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Cape Verde, Sahara to NW. India, Angola to Cape Prov.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Farsetia aegyptia Turra",
+      "Diplotaxis harra (Forssk.) Boiss."
+    ]
+  }
+}

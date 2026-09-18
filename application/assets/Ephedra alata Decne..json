@@ -1,0 +1,22 @@
+{
+  "plant species": "Ephedra alata Decne.",
+  "Family": "Ephedraceae",
+  "About this species": "Ephedra alata is a perennial desert shrub with green jointed stems and very small leaves. It grows mainly in sandy deserts, dunes, and open arid habitats across North Africa and the Arabian region. The plant is highly adapted to drought and can help stabilize sandy soils. Some Ephedra species are known for medicinal compounds, so any use of this species should be presented carefully and with proper verification. Ecologically, it is an important woody shrub of sandy desert ecosystems.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:383343-1",
+    "GBIF Link": "https://www.gbif.org/species/2653286"
+  },
+  "Growth form": "subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "Least Concern (LC)",
+  "IUCN Link": "https://www.iucnredlist.org/species/201688/9165505",
+  "Geographical distribution": "North Africa to Arabian Peninsula",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze",
+      "Lycium shawii Roem. & Schult."
+    ]
+  }
+}

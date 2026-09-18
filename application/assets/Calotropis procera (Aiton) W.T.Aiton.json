@@ -1,0 +1,21 @@
+{
+  "plant species": "Calotropis procera (Aiton) W.T.Aiton",
+  "Family": "Apocynaceae",
+  "About this species": "Calotropis procera is a hardy desert shrub or small tree commonly found in dry and disturbed habitats, including desert margins, wadis, roadsides, and open sandy areas. It is easily recognized by its thick grey-green leaves, milky latex, and attractive pale purple to whitish flowers. The plant is well adapted to hot, arid environments and can survive severe drought. Traditionally, different parts of the plant have been used in folk medicine, but it should be handled with caution because its milky latex is toxic and may irritate the skin or eyes. Ecologically, it provides shelter and resources for insects and other small organisms in dry landscapes.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1004515-2",
+    "GBIF Link": "https://www.gbif.org/species/5414566"
+  },
+  "Growth form": "Shrub or tree",
+  "Life span": "Perennial",
+  "Life form": "Phanerophyte",
+  "IUCN Status": "Least Concern (LC)",
+  "IUCN Link": "https://www.iucnredlist.org/species/19181123/212816097",
+  "Geographical distribution": "Macaronesia; North and Tropical Africa to Indo-China.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Ochradenus baccatus Delile"
+    ]
+  }
+}

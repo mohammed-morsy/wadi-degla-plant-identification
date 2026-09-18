@@ -1,0 +1,22 @@
+{
+  "plant species": "Limonium pruinosum (L.) Chaz.",
+  "Family": "Plumbaginaceae",
+  "About this species": "Limonium pruinosum is a perennial plant of dry and often salt-influenced habitats. It is usually found in coastal desert areas, saline soils, and open arid landscapes where few plants can survive. The plant is adapted to drought and salt exposure, and its presence can indicate harsh soil conditions. Its ecological value lies mainly in its ability to persist in marginal habitats and contribute to the vegetation cover of saline and coastal desert systems.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:686932-1",
+    "GBIF Link": "https://www.gbif.org/species/8104110"
+  },
+  "Growth form": "Herb",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Tunisia to W. Jordan.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Anabasis setifera Moq.",
+      "Tamarix nilotica (Ehrenb.) Bunge"
+    ]
+  }
+}

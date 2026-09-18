@@ -1,0 +1,22 @@
+{
+  "plant species": "Haloxylon salicornicum (Moq.) Bunge ex Boiss.",
+  "Family": "Amaranthaceae",
+  "About this species": "Haloxylon salicornicum is a leaf-reduced desert shrub with jointed green stems that perform much of the plant’s photosynthesis. It grows in hot, dry deserts and sandy or gravelly plains, where it tolerates severe drought and poor soils. The plant is an important component of arid shrublands and can contribute to soil stabilization and rangeland structure. Its compact woody habit and reduced leaves are clear adaptations to desert life.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:165853-1",
+    "GBIF Link": "https://www.gbif.org/species/3758958"
+  },
+  "Growth form": "Subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "North Africa to NW India",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Anabasis setifera Moq.",
+      "Tamarix nilotica (Ehrenb.) Bunge"
+    ]
+  }
+}

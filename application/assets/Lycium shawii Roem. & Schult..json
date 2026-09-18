@@ -1,0 +1,22 @@
+{
+  "plant species": "Lycium shawii Roem. & Schult.",
+  "Family": "Solanaceae",
+  "About this species": "Lycium shawii is a spiny shrub or small tree of dry desert and semi-desert habitats. It grows in wadis, rocky slopes, sandy plains, and open shrublands, where it can tolerate heat, drought, and poor soils. Its spines and dense branching provide shelter for small animals and nesting sites for birds, while its fruits may contribute to desert food resources. The plant is a typical example of a drought-adapted woody shrub in Saharo-Arabian landscapes.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:816629-1",
+    "GBIF Link": "https://www.gbif.org/ar/species/7300058"
+  },
+  "Growth form": "shrub or tree",
+  "Life span": "Perennial",
+  "Life form": "Phanerophyte",
+  "IUCN Status": "Least Concern (LC)",
+  "IUCN Link": "https://www.iucnredlist.org/species/19239590/123677526",
+  "Geographical distribution": "Sicilia to Kriti, Egypt to S. Africa and W. India.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Tamarix nilotica (Ehrenb.) Bunge",
+      "Nitraria retusa (Forssk.) Asch."
+    ]
+  }
+}

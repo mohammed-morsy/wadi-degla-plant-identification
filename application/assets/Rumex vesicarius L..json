@@ -1,0 +1,21 @@
+{
+  "plant species": "Rumex vesicarius L.",
+  "Family": "Polygonaceae",
+  "About this species": "Rumex vesicarius is an annual herb that appears in dry sandy soils, disturbed ground, desert margins, and semi-arid habitats, especially after rainfall. It is known in several regions as an edible leafy plant and has nutritional value as a source of minerals, vitamins, and plant compounds. The species grows quickly during favorable seasons and then completes its life cycle before severe drought returns. It is a useful example of a desert annual adapted to short windows of moisture availability.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:697616-1",
+    "GBIF Link": "https://www.gbif.org/species/2888986"
+  },
+  "Growth form": "Herb",
+  "Life span": "Annual",
+  "Life form": "Therophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Macaronesia to Myanmar.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Trichodesma africanum (L.) Sm."
+    ]
+  }
+}

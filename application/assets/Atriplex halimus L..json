@@ -1,0 +1,22 @@
+{
+  "plant species": "Atriplex halimus L.",
+  "Family": "Amaranthaceae",
+  "About this species": "Atriplex halimus, commonly known as Mediterranean saltbush, is a perennial salt-tolerant shrub of arid and semi-arid lands. It grows well in saline soils, coastal zones, degraded rangelands, and dry inland habitats. The plant is widely valued as drought- and salt-tolerant fodder, especially in dryland grazing systems. Its greyish leaves and woody branching help it survive harsh conditions and make it useful for soil stabilization, rangeland rehabilitation, and saline-land management.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:163845-1",
+    "GBIF Link": "https://www.gbif.org/species/3083718"
+  },
+  "Growth form": "Shrub",
+  "Life span": "Perennial",
+  "Life form": "Phanerophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Macaronesia and Mediterranean region to W Iraq, NE Tropical Africa and Arabian Peninsula",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Nitraria retusa (Forssk.) Asch.",
+      "Lycium shawii Roem. & Schult."
+    ]
+  }
+}

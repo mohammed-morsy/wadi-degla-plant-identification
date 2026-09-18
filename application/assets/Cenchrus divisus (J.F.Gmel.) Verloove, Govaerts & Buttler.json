@@ -1,0 +1,19 @@
+{
+  "plant species": "Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",
+  "Family": "Poaceae",
+  "About this species": "Cenchrus divisus is a perennial desert grass found in dry sandy and stony habitats across arid regions. It forms tough tufts that help it survive drought, grazing pressure, and unstable desert soils. The plant is mainly important as part of natural rangelands, where it can provide grazing material for livestock and wildlife during suitable seasons. Its strong adaptation to dryness makes it a useful species for understanding desert grassland ecology and the resilience of vegetation in harsh environments.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77143341-1",
+    "GBIF Link": "https://www.gbif.org/species/9250411"
+  },
+  "Growth form": "rhizomatous Grass",
+  "Life span": "Perennial",
+  "Life form": "Geophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Sahara to NW India",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": []
+  }
+}

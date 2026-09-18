@@ -1,0 +1,21 @@
+{
+  "plant species": "Iphiona mucronata (Forssk.) Asch. & Schweinf.",
+  "Family": "Asteraceae",
+  "About this species": "Iphiona mucronata is a small perennial desert plant in the sunflower family. It grows in dry rocky and sandy habitats, often in open desert or semi-desert landscapes. The plant has a compact form that helps it withstand drought, high light, and exposed conditions. It contributes to the diversity of desert shrub and herb communities and is useful for recognizing the floristic links between Egypt, the eastern Mediterranean, and the Arabian region.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:226226-1",
+    "GBIF Link": "https://www.gbif.org/occurrence/3340938314"
+  },
+  "Growth form": "shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Eastern Mediterranean to Arabian Peninsula",
+  "Endemism in Egypt": "Near endemic",
+  "confusion": {
+    "likely_confused_species": [
+      "Limonium pruinosum (L.) Chaz."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "plant species": "Cebatha pendula (J.R.Forst. & G.Forst.) Kuntze",
+  "Family": "Menispermaceae",
+  "About this species": "Cebatha pendula is a woody climber or scrambling shrub found in dry tropical and desert-influenced regions. It may grow over other shrubs or rocky supports, giving it a climbing or trailing habit rather than a free-standing shrub form. In arid landscapes, this growth strategy allows the plant to use surrounding vegetation for support while surviving under dry conditions. It should be handled carefully in databases because the species has been treated under different taxonomic names in some botanical sources.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:580259-1",
+    "GBIF Link": "https://www.gbif.org/species/3829400"
+  },
+  "Growth form": "Scrambling shrub / Liane / Climber",
+  "Life span": "Perennial",
+  "Life form": "Phanerophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Cape Verde to NW. & Central India, Angola.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Atriplex halimus L.",
+      "Tamarix nilotica (Ehrenb.) Bunge"
+    ]
+  }
+}

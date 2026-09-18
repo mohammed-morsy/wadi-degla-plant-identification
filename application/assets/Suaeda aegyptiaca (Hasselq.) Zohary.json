@@ -1,0 +1,22 @@
+{
+  "plant species": "Suaeda aegyptiaca (Hasselq.) Zohary",
+  "Family": "Amaranthaceae",
+  "About this species": "Suaeda aegyptiaca is a small succulent plant commonly associated with dry and saline desert habitats. Its fleshy tissues help it cope with salt stress and water shortage, making it well suited to coastal flats, salt-affected soils, and desert depressions. Like many species of Suaeda, it plays an ecological role in stabilizing saline ground and indicating soil salinity. It is best understood as a salt-tolerant desert plant rather than a typical dryland herb.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:167397-1",
+    "GBIF Link": "https://www.gbif.org/species/3757104"
+  },
+  "Growth form": "herb OR subshrub",
+  "Life span": "Annual or short-lived perennial",
+  "Life form": "Hemicryptophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Tunisia to Iran and Somalia; S Afghanistan to SW Pakistan",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Anabasis setifera Moq.",
+      "Haloxylon salicornicum (Moq.) Bunge ex Boiss."
+    ]
+  }
+}

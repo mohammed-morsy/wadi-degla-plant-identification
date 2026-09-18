@@ -1,0 +1,22 @@
+{
+  "plant species": "Gymnocarpos decander Forssk.",
+  "Family": "Caryophyllaceae",
+  "About this species": "Gymnocarpos decander is a low woody subshrub that grows in dry deserts, rocky ground, and gravelly or sandy soils. Its compact, tough form helps it survive under low rainfall and strong exposure. The species is part of the sparse perennial vegetation that stabilizes desert surfaces and provides structure in open arid habitats. It is especially useful as an ecological indicator of dry shrubland and rocky desert environments.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:434754-1",
+    "GBIF Link": "https://www.gbif.org/species/7602630"
+  },
+  "Growth form": "Subshrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Canary Islands to W. Pakistan.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Lycium shawii Roem. & Schult.",
+      "Trichodesma africanum (L.) Sm."
+    ]
+  }
+}

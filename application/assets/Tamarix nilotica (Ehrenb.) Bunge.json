@@ -1,0 +1,22 @@
+{
+  "plant species": "Tamarix nilotica (Ehrenb.) Bunge",
+  "Family": "Tamaricaceae",
+  "About this species": "Tamarix nilotica is a salt-tolerant shrub or small tree commonly found along wadis, riverbanks, saline depressions, and coastal or inland salt-affected habitats. It has fine branchlets and small scale-like leaves that help it survive drought, salinity, and high evaporation. The plant can stabilize soils and provide shelter in harsh landscapes, but dense Tamarix stands may also indicate strong salinity or altered hydrological conditions. It is one of the characteristic woody plants of saline and riparian desert habitats in Egypt and surrounding regions.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:828178-1",
+    "GBIF Link": "https://www.gbif.org/species/7316455"
+  },
+  "Growth form": "Shrub or small tree/tree",
+  "Life span": "Perennial",
+  "Life form": "Phanerophyte",
+  "IUCN Status": "Least Concern (LC)",
+  "IUCN Link": "https://www.iucnredlist.org/species/19179434/46081355",
+  "Geographical distribution": "Aegean Islands to Arabian Peninsula, NE. & E. Tropical Africa.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Lycium shawii Roem. & Schult.",
+      "Anabasis setifera Moq."
+    ]
+  }
+}

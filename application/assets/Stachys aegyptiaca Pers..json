@@ -1,0 +1,22 @@
+{
+  "plant species": "Stachys aegyptiaca Pers.",
+  "Family": "Lamiaceae",
+  "About this species": "Stachys aegyptiaca is a small aromatic desert subshrub belonging to the mint family. It grows in dry, rocky, and semi-desert habitats, especially in Egypt and nearby regions of the eastern Mediterranean and Sinai. The plant has a low, branched form that helps it tolerate exposed conditions and limited water availability. Because of its restricted regional distribution, it is useful for interpreting local desert flora and the special plant diversity of arid Mediterranean landscapes.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:459266-1",
+    "GBIF Link": "https://www.gbif.org/species/3905206"
+  },
+  "Growth form": "Subshrub/shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Palestine to Egypt",
+  "Endemism in Egypt": "Near endemic",
+  "confusion": {
+    "likely_confused_species": [
+      "Farsetia aegyptia Turra",
+      "Trichodesma africanum (L.) Sm."
+    ]
+  }
+}

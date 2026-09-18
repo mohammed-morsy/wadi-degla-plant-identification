@@ -1,0 +1,22 @@
+{
+  "plant species": "Caroxylon imbricatum (Forssk.) Moq.",
+  "Family": "Amaranthaceae",
+  "About this species": "Caroxylon imbricatum is a small desert shrub or subshrub formerly treated under Salsola in many older sources. It grows in dry sandy, gravelly, and saline-influenced desert habitats across Saharo-Arabian regions. Its reduced leaves and tough stems are adaptations to drought, salinity, and high temperatures. The plant is part of the chenopod shrub vegetation that often dominates harsh desert and semi-desert landscapes.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:164641-1",
+    "GBIF Link": "https://www.gbif.org/species/3759522"
+  },
+  "Growth form": "subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Sahara and Sahel to western India",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Lycium shawii Roem. & Schult.",
+      "Nitraria retusa (Forssk.) Asch."
+    ]
+  }
+}

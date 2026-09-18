@@ -1,0 +1,22 @@
+{
+  "plant species": "Deverra triradiata Hochst. ex Boiss.",
+  "Family": "Apiaceae",
+  "About this species": "Deverra triradiata is an aromatic desert shrub or subshrub from the carrot family. It grows in dry wadis, sandy habitats, and rocky desert areas, especially in Egypt and the Middle East. The plant is well adapted to drought and produces slender branches with small leaves or leaf-reduced shoots. It has been studied for its natural compounds, but traditional or medicinal uses should be interpreted carefully and linked to reliable sources.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:841277-1",
+    "GBIF Link": "https://www.gbif.org/species/7224043"
+  },
+  "Growth form": "Subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Egypt to Iraq",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Cenchrus divisus (J.F.Gmel.) Verloove, Govaerts & Buttler",
+      "Ephedra alata Decne."
+    ]
+  }
+}

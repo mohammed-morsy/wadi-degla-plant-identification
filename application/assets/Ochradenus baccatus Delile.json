@@ -1,0 +1,22 @@
+{
+  "plant species": "Ochradenus baccatus Delile",
+  "Family": "Resedaceae",
+  "About this species": "Ochradenus baccatus is a desert shrub with slender branches and small yellowish flowers followed by berry-like fruits. It grows in dry wadis, rocky slopes, and desert shrublands across Saharo-Arabian regions. The plant is well adapted to drought and heat, and its fruits may be used by birds and other animals, making it ecologically important in desert food webs. Its presence often reflects relatively stable desert shrub habitats.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:715387-1",
+    "GBIF Link": "https://www.gbif.org/species/7275957"
+  },
+  "Growth form": "Shrub",
+  "Life span": "Perennial",
+  "Life form": "Phanerophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Libya to NE. Tropical Africa, Sinai to S. Pakistan and Arabian Peninsula, NW. India",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Tamarix nilotica (Ehrenb.) Bunge",
+      "Atriplex halimus L."
+    ]
+  }
+}

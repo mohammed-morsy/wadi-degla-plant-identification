@@ -1,0 +1,21 @@
+{
+  "plant species": "Peganum harmala L.",
+  "Family": "Nitrariaceae",
+  "About this species": "Peganum harmala is a perennial herb or small subshrub widely known in arid and semi-arid regions. It grows in dry, disturbed ground, desert margins, roadsides, and steppe-like habitats. The plant is well known in traditional medicine, especially for its seeds, but it contains powerful bioactive compounds and should be treated with caution. Ecologically, it is a hardy species that often appears in disturbed drylands and reflects the strong adaptation of desert plants to stress and grazing pressure.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:774545-1",
+    "GBIF Link": "https://www.gbif.org/species/3189912"
+  },
+  "Growth form": "shrub",
+  "Life span": "Perennial",
+  "Life form": "Hemicryptophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Mediterranean region to Mongolia and India",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Trichodesma africanum (L.) Sm."
+    ]
+  }
+}

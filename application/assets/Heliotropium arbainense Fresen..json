@@ -1,0 +1,21 @@
+{
+  "plant species": "Heliotropium arbainense Fresen.",
+  "Family": "Boraginaceae",
+  "About this species": "Heliotropium arbainense is a small desert subshrub found in dry sandy and rocky habitats. It is adapted to hot, arid environments and forms part of the low shrub and herb vegetation of desert landscapes. Like many Heliotropium species, it should be treated cautiously in medicinal contexts because some members of the genus contain potentially toxic compounds. In ecological terms, it is best described as a drought-adapted desert plant with regional importance in Saharo-Arabian flora.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:116669-1",
+    "GBIF Link": "https://www.gbif.org/ar/species/4067672"
+  },
+  "Growth form": "Subshrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Egypt to E. Iran and Arabian Peninsula, NE. Tropical Africa, Madagascar.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Gymnocarpos decander Forssk."
+    ]
+  }
+}

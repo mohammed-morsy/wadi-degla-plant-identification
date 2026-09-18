@@ -1,0 +1,22 @@
+{
+  "plant species": "Nitraria retusa (Forssk.) Asch.",
+  "Family": "Nitrariaceae",
+  "About this species": "Nitraria retusa is a perennial halophytic shrub commonly found in salt marshes, saline depressions, coastal flats, and inland salt-affected habitats. It is well adapted to high salinity, drought, and harsh soil conditions. The plant often forms dense shrubs that help stabilize saline soils and create microhabitats for other organisms. Its fleshy fruits may be eaten in some regions, but any medicinal or nutritional uses should be supported by reliable local sources.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:873339-1",
+    "GBIF Link": "https://www.gbif.org/species/3986936"
+  },
+  "Growth form": "Shrub",
+  "Life span": "Perennial",
+  "Life form": "Phanerophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Sahara to Syria and SW. Pakistan",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Lycium shawii Roem. & Schult.",
+      "Atriplex halimus L."
+    ]
+  }
+}

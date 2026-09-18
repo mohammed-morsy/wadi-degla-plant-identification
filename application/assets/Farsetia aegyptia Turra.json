@@ -1,0 +1,22 @@
+{
+  "plant species": "Farsetia aegyptia Turra",
+  "Family": "Brassicaceae",
+  "About this species": "Farsetia aegyptia is a woody-based perennial shrub or subshrub of dry deserts, rocky places, shallow sandy soils, and open arid habitats. Despite its name, it is not restricted to Egypt and has a wider Saharo-Arabian distribution. The plant is adapted to drought, intense sunlight, and poor soils. It has been reported in Bedouin traditional medicine, including uses related to diabetes and spasms, but these should be presented as traditional uses rather than proven clinical effects. Ecologically, it forms part of the resilient perennial shrub layer of desert vegetation.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:284373-1",
+    "GBIF Link": "https://www.gbif.org/species/3047968"
+  },
+  "Growth form": "Subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Mauritania to Iraq and NW India",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Tamarix nilotica (Ehrenb.) Bunge",
+      "Limonium pruinosum (L.) Chaz."
+    ]
+  }
+}

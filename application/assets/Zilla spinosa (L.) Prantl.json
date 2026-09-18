@@ -1,0 +1,22 @@
+{
+  "plant species": "Zilla spinosa (L.) Prantl",
+  "Family": "Brassicaceae",
+  "About this species": "Zilla spinosa is a strongly spiny desert shrub or subshrub from the mustard family. It grows in sandy and gravelly deserts, dry wadis, and open arid plains. Its rigid branches and spines reduce grazing damage and help it persist in exposed desert habitats. The plant is ecologically important as part of the permanent shrub cover of arid lands, especially in areas affected by drought, grazing, and wind movement.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:291161-1",
+    "GBIF Link": "https://www.gbif.org/species/5376128"
+  },
+  "Growth form": "Subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Eastern Mediterranean to Sudan and Iraq",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Ochradenus baccatus Delile",
+      "Anabasis setifera Moq."
+    ]
+  }
+}

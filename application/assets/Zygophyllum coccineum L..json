@@ -1,0 +1,22 @@
+{
+  "plant species": "Zygophyllum coccineum L.",
+  "Family": "Zygophyllaceae",
+  "About this species": "Zygophyllum coccineum is a fleshy desert subshrub that grows in wadis, coastal areas, sandy plains, and salt-influenced dry habitats. It is well adapted to both drought and salinity, making it an important xerohalophytic plant in Egyptian desert vegetation. Its succulent leaves and compact branching help conserve water and tolerate stressful soils. The species is ecologically useful as an indicator of arid and saline desert conditions.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:873525-1",
+    "GBIF Link": "https://www.gbif.org/species/3987419"
+  },
+  "Growth form": "Subshrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Egypt to Palestine and Eritrea",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Trichodesma africanum (L.) Sm.",
+      "Capparis spinosa L."
+    ]
+  }
+}

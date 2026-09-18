@@ -1,0 +1,22 @@
+{
+  "plant species": "Echinops glaberrimus DC.",
+  "Family": "Asteraceae",
+  "About this species": "Echinops glaberrimus is a spiny thistle-like plant belonging to the sunflower family. It grows in dry open habitats, often in rocky or semi-desert areas of the eastern Mediterranean and surrounding regions. The plant’s spiny structure helps protect it from grazing and allows it to persist in exposed landscapes. It adds structural and floristic diversity to dryland vegetation and may be especially noticeable during flowering when its rounded flower heads appear.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/202504-1",
+    "GBIF Link": "https://www.gbif.org/species/5392708"
+  },
+  "Growth form": "Herb",
+  "Life span": "Perennial",
+  "Life form": "Hemicryptophyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Eastern Mediterranean",
+  "Endemism in Egypt": "Near endemic",
+  "confusion": {
+    "likely_confused_species": [
+      "Tamarix nilotica (Ehrenb.) Bunge",
+      "Lycium shawii Roem. & Schult."
+    ]
+  }
+}

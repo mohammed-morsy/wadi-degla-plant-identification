@@ -1,0 +1,22 @@
+{
+  "plant species": "Diplotaxis harra (Forssk.) Boiss.",
+  "Family": "Brassicaceae",
+  "About this species": "Diplotaxis harra is a perennial desert subshrub in the mustard family. It grows in dry sandy and rocky habitats, wadis, desert plains, and disturbed arid ground. The plant produces yellow flowers and is adapted to drought, heat, and poor soils. Like several desert Brassicaceae, it contributes to seasonal and perennial vegetation cover and may have traditional uses in some regions, although any medicinal claims should be supported by species-specific sources.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:282186-1",
+    "GBIF Link": "https://www.gbif.org/species/5376405"
+  },
+  "Growth form": "Subshrub / branched rigid herb",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "South and SE Spain, Sicily, North Africa to northern Somalia and SW Pakistan",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Heliotropium arbainense Fresen.",
+      "Farsetia aegyptia Turra"
+    ]
+  }
+}

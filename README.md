@@ -27,3 +27,15 @@ phase2_training_final_analysis/
 │   └── confusion_matrices/
 └── figures/
 ```
+
+## Stage 7 — Wadi Degla AI Plant Identifier application
+
+The `application/` package contains the reviewed Wadi Degla AI Plant Identifier implementation using the selected MobileNetV2 Top-30 checkpoint 215.
+
+The package contains the application source, selected model artifact, 33-class mapping, selected-model provenance, requirements, species/interface metadata, and the two current Figure 7 source screenshots under `App screenshots/`.
+
+`Top Alternative Prediction` is calculated dynamically from the current image. `Likely Confused Species` is stored in each target species JSON under `confusion.likely_confused_species` and summarizes Top-30/215 WadiDegla-validation confusion patterns.
+
+The approved Figure 7 screenshots are distributed as `App screenshots/A.png` and `App screenshots/B.png`. Large per-species plant reference photographs are intentionally not distributed in GitHub. The documented deployment is currently local/development deployment; no permanent public production URL is claimed.
+
+See [`application/README.md`](application/README.md) for details and local run instructions.

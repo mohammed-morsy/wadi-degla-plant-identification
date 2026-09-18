@@ -1,0 +1,22 @@
+{
+  "plant species": "Anabasis setifera Moq.",
+  "Family": "Amaranthaceae",
+  "About this species": "Anabasis setifera is a woody desert subshrub from the amaranth family. It is adapted to hot, dry habitats and often grows in open desert plains, gravelly soils, and arid shrublands. Its reduced leaves and tough green stems help reduce water loss and support survival under drought. The species is important as part of the chenopod shrub vegetation that characterizes many desert and semi-desert ecosystems.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:163462-1",
+    "GBIF Link": "https://www.gbif.org/species/5568513"
+  },
+  "Growth form": "subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Egypt to NW. India.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Haloxylon salicornicum (Moq.) Bunge ex Boiss.",
+      "Heliotropium arbainense Fresen."
+    ]
+  }
+}

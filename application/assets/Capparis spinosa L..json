@@ -1,0 +1,22 @@
+{
+  "plant species": "Capparis spinosa L.",
+  "Family": "Capparaceae",
+  "About this species": "Capparis spinosa, the caper plant, is a perennial thorny shrub or subshrub that grows in dry rocky places, cliffs, old walls, desert margins, and open arid habitats. It is well known for its edible flower buds, which are used as capers, and for its long history in traditional medicine. The plant is drought-tolerant and can survive in poor soils with strong sunlight and limited water. Its spreading branches, spines, and showy flowers make it one of the more recognizable shrubs of dry Mediterranean and desert landscapes.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:146789-1",
+    "GBIF Link": "https://www.gbif.org/species/6370689"
+  },
+  "Growth form": "subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "Least Concern (LC)",
+  "IUCN Link": "https://www.iucnredlist.org/species/137745831/139593491",
+  "Geographical distribution": "Medit. to Mongolia and Indian Subcontinent, Philippines to W. & S. Pacific.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Lycium shawii Roem. & Schult.",
+      "Calotropis procera (Aiton) W.T.Aiton"
+    ]
+  }
+}

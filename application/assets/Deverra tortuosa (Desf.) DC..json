@@ -1,0 +1,22 @@
+{
+  "plant species": "Deverra tortuosa (Desf.) DC.",
+  "Family": "Apiaceae",
+  "About this species": "Deverra tortuosa is an aromatic perennial shrub or subshrub common in dry desert habitats. It grows in sandy plains, gravelly soils, wadis, and coastal desert areas. The plant has slender, branched stems and is well adapted to drought and high temperatures. It has been reported in traditional uses and phytochemical studies, but these uses should be presented carefully and not treated as clinical evidence. Ecologically, it is an important component of desert shrublands and rangelands.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:841276-1",
+    "GBIF Link": "https://www.gbif.org/species/6027143"
+  },
+  "Growth form": "Subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Tunisia to Palestine and Arabian Peninsula",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Ephedra alata Decne.",
+      "Haloxylon salicornicum (Moq.) Bunge ex Boiss."
+    ]
+  }
+}

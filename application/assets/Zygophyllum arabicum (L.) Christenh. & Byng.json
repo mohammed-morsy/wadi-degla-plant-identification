@@ -1,0 +1,22 @@
+{
+  "plant species": "Zygophyllum arabicum (L.) Christenh. & Byng",
+  "Family": "Zygophyllaceae",
+  "About this species": "Zygophyllum arabicum is a low desert subshrub adapted to hot, dry environments. It grows in open sandy or gravelly habitats and is part of the characteristic vegetation of Saharo-Arabian deserts. Its small leaves and compact habit help reduce water loss and support survival under drought. The species should be treated carefully in taxonomic work because some databases link it with older or alternative names, so the accepted name should always be checked before use.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77184820-1",
+    "GBIF Link": "https://www.gbif.org/species/9700340"
+  },
+  "Growth form": "Subshrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "Sahara to Jordan",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Zygophyllum coccineum L.",
+      "Tamarix nilotica (Ehrenb.) Bunge"
+    ]
+  }
+}

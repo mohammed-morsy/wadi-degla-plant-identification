@@ -1,0 +1,22 @@
+{
+  "plant species": "Anabasis articulata (Forssk.) Moq.",
+  "Family": "Amaranthaceae",
+  "About this species": "Anabasis articulata is a jointed woody subshrub adapted to desert and semi-desert habitats. It has reduced leaves and green segmented stems that help limit water loss while maintaining photosynthesis. The plant is often associated with dry, open, and sometimes salt-affected soils, making it a good example of a xerohalophytic desert chenopod. It contributes to the structure of arid shrublands and can indicate harsh soil and moisture conditions.",
+  "Links": {
+    "POWO Link": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:163391-1",
+    "GBIF Link": "https://www.gbif.org/species/5568629"
+  },
+  "Growth form": "Xerophytic Subshrub or shrub",
+  "Life span": "Perennial",
+  "Life form": "Chamaephyte",
+  "IUCN Status": "NE (Not Evaluated)",
+  "IUCN Link": "",
+  "Geographical distribution": "SE. Spain, N. Africa to Iraq and Arabian Peninsula.",
+  "Endemism in Egypt": "Not endemic to Egypt",
+  "confusion": {
+    "likely_confused_species": [
+      "Farsetia aegyptia Turra",
+      "Haloxylon salicornicum (Moq.) Bunge ex Boiss."
+    ]
+  }
+}
